@@ -1,0 +1,145 @@
+{
+  "phaseDetection": {
+    "Phase-0-Research": {
+      "patterns": [
+        ".*_research_engine\\.md$",
+        ".*_research\\.md$",
+        ".*market_analysis.*",
+        ".*competitor_research.*",
+        ".*UNIVERSAL_RESEARCH_ENGINE.*"
+      ],
+      "keywords": ["research intake", "market analysis", "competitive research"]
+    },
+    "Phase-1-Strategy": {
+      "patterns": [
+        ".*_research_summary\\.md$",
+        ".*_content_strategy\\.md$",
+        ".*_content_mapping.*"
+      ],
+      "keywords": ["content strategy", "research summary", "page structure"]
+    },
+    "Phase-2-Case-Studies": {
+      "patterns": [
+        ".*_case_studies\\.md$",
+        ".*_case_study_.*",
+        ".*_cases\\.md$"
+      ],
+      "keywords": ["case study", "archetype", "failure stories"]
+    },
+    "Phase-3-Content": {
+      "patterns": [
+        ".*_manuscript_full\\.md$",
+        ".*_manuscript_compressed\\.md$",
+        ".*_content_extraction\\.md$",
+        ".*_24page_structure.*",
+        ".*_chapters.*"
+      ],
+      "keywords": ["manuscript", "content creation", "compression", "page mapping"]
+    },
+    "Phase-4-Design-Specs": {
+      "patterns": [
+        ".*_image_specifications\\.md$",
+        ".*_image_specs\\.md$",
+        ".*_hero_brief\\.md$",
+        ".*_comic_strip_brief\\.md$",
+        ".*_design_specs.*"
+      ],
+      "keywords": ["hero image", "design specification", "comic strip", "visual"]
+    },
+    "Phase-5-Audit": {
+      "patterns": [
+        ".*_manuscript_audit\\.md$",
+        ".*_audit\\.md$",
+        ".*_quality_review.*"
+      ],
+      "keywords": ["manuscript audit", "quality review", "validation"]
+    },
+    "Phase-6-Designer-Handoff": {
+      "patterns": [
+        ".*_designer_brief\\.md$",
+        ".*_complete_spec_package\\.md$",
+        ".*_specification_package.*",
+        ".*_handoff.*"
+      ],
+      "keywords": ["designer brief", "spec package", "handoff", "designer"]
+    },
+    "Phase-7-Design-Production": {
+      "patterns": [
+        ".*\\.indd$",
+        ".*_proof_v.*\\.pdf$",
+        ".*_draft.*\\.pdf$",
+        ".*_layout.*"
+      ],
+      "keywords": ["InDesign", "proof", "layout", "design production"]
+    },
+    "Phase-8-Final-Assets": {
+      "patterns": [
+        ".*_KDP_final\\.pdf$",
+        ".*_gumroad\\.pdf$",
+        ".*_final\\.pdf$",
+        ".*_web_version/.*",
+        ".*_epub.*"
+      ],
+      "keywords": ["KDP", "final", "gumroad", "deployment", "web version"]
+    },
+    "Phase-9-Quality": {
+      "patterns": [
+        ".*quality_checklist\\.md$",
+        ".*approval_sign_off\\.md$",
+        ".*_final_approval.*",
+        ".*_qa.*"
+      ],
+      "keywords": ["quality gate", "approval", "sign off", "final check"]
+    }
+  },
+  "topicDetection": {
+    "patterns": [
+      "^(\\d{2})[-_]([a-zA-Z-]+)",
+      "^([a-zA-Z-]+)_.*",
+      "([a-zA-Z-]+)/"
+    ],
+    "slugMapping": {
+      "dropshipping": "01",
+      "print-on-demand": "02",
+      "affiliate-marketing": "03",
+      "course-creation": "04",
+      "ai-tools": "05"
+    }
+  },
+  "compressionSettings": {
+    "compress": [
+      "*.md",
+      "*.txt",
+      "*.json",
+      "*.csv"
+    ],
+    "noCompress": [
+      "*.pdf",
+      "*.png",
+      "*.jpg",
+      "*.jpeg",
+      "*.indd",
+      "*.ai",
+      "*.psd",
+      "*.zip",
+      "*.gz"
+    ]
+  },
+  "fileValidation": {
+    "markdown": {
+      "minSize": 100,
+      "maxSize": 10485760,
+      "requiredExtension": ".md"
+    },
+    "pdf": {
+      "minSize": 1024,
+      "maxSize": 104857600,
+      "requiredExtension": ".pdf"
+    },
+    "indesign": {
+      "minSize": 1024,
+      "maxSize": 524288000,
+      "requiredExtension": ".indd"
+    }
+  }
+}
