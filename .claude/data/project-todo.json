@@ -1,13 +1,13 @@
 {
   "projectName": "Y-IT Nano-Book Ecosystem",
-  "lastUpdated": "2025-11-08T21:37:05.919028",
+  "lastUpdated": "2025-11-08T21:38:06.324006",
   "todos": [
     {
       "id": "phase1-biz-setup",
       "title": "Week 1: Business Setup & Contractor Onboarding",
       "urgency": "HIGH",
-      "progress": 0,
-      "status": "pending",
+      "progress": 40,
+      "status": "in-progress",
       "subtasks": [
         "Finalize solopreneur LLC/business structure",
         "Setup tool stack: Stripe, ConvertKit, OpenAI API accounts",
@@ -15,13 +15,19 @@
         "Interview and select developer contractor"
       ],
       "dueDate": "2025-11-15",
-      "details": "Foundation phase - establish business legal structure and secure key contractor partnerships. This unblocks all content production."
+      "details": "Foundation phase - establish business legal structure and secure key contractor partnerships. This unblocks all content production.",
+      "notes": [
+        {
+          "timestamp": "2025-11-08T21:38:06.172115",
+          "note": "LLC documents submitted, Stripe account created, ConvertKit trial started"
+        }
+      ]
     },
     {
       "id": "dropship-content",
       "title": "Week 1-2: Dropshipping Content Creation",
       "urgency": "HIGH",
-      "progress": 25,
+      "progress": 45,
       "status": "in-progress",
       "subtasks": [
         "Complete dropshipping manuscript research",
@@ -35,6 +41,10 @@
         {
           "timestamp": "2025-11-08T21:37:05.919012",
           "note": "Research complete, started writing Chapter 1"
+        },
+        {
+          "timestamp": "2025-11-08T21:38:06.243735",
+          "note": "Research complete (12+ sources, 45 failure cases identified), writing Chapter 1-2"
         }
       ]
     },
@@ -42,8 +52,8 @@
       "id": "design-specs",
       "title": "Week 2: Design Specification & Handoff",
       "urgency": "HIGH",
-      "progress": 0,
-      "status": "pending",
+      "progress": 25,
+      "status": "in-progress",
       "subtasks": [
         "Create designer specification documents",
         "Define image requirements (hero, portraits, charts, comics)",
@@ -51,7 +61,13 @@
         "Hand to designer contractor"
       ],
       "dueDate": "2025-11-22",
-      "details": "Prepare all design assets and specifications. Designer will use these to create InDesign template and layout dropshipping book."
+      "details": "Prepare all design assets and specifications. Designer will use these to create InDesign template and layout dropshipping book.",
+      "notes": [
+        {
+          "timestamp": "2025-11-08T21:38:06.323985",
+          "note": "Specification docs 50% complete, image requirements defined"
+        }
+      ]
     },
     {
       "id": "kdp-setup",
