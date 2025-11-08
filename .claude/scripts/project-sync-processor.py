@@ -182,11 +182,38 @@ def main():
         next_steps = sys.argv[3]
         processor.update_context_file(what_changed, next_steps)
 
+    elif sys.argv[1] == "all" and len(sys.argv) > 4:
+        # Full sync: commit working changes, then update context, then push
+        commit_message = sys.argv[2]
+        what_changed = sys.argv[3]
+        next_steps = sys.argv[4]
+
+        print("\n" + "="*70)
+        print("FULL PROJECT SYNC")
+        print("="*70 + "\n")
+
+        # Step 1: Commit working changes
+        print("📝 Step 1: Committing working changes...")
+        if processor.commit_and_push(commit_message):
+            print("✅ Working changes committed and pushed\n")
+        else:
+            print("⚠️  No working changes to commit\n")
+
+        # Step 2: Update context file
+        print("📝 Step 2: Updating context file...")
+        if processor.update_context_file(what_changed, next_steps):
+            print("✅ Context file updated and pushed\n")
+
+        print("="*70)
+        print("✅ FULL SYNC COMPLETE")
+        print("="*70)
+
     else:
         print("Usage:")
-        print("  project-sync-processor.py                              # Show status")
-        print("  project-sync-processor.py commit 'Message'             # Commit and push")
-        print("  project-sync-processor.py context 'Changed' 'Next'     # Update context and push")
+        print("  project-sync-processor.py                                      # Show status")
+        print("  project-sync-processor.py commit 'Message'                     # Commit and push")
+        print("  project-sync-processor.py context 'Changed' 'Next'             # Update context and push")
+        print("  project-sync-processor.py all 'Commit' 'Changed' 'Next'        # Full sync: commit + context")
 
 
 if __name__ == "__main__":
