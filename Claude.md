@@ -2,6 +2,7 @@
 
 **Last Updated:** November 8, 2025
 **Project Status:** READY FOR IMPLEMENTATION
+**Operating Model:** SOLOPRENEUR + CONTRACTORS
 **Phase:** All architecture complete, dropshipping validation test ready to begin
 
 ---
@@ -10,6 +11,9 @@
 
 ### Mission
 Create a scalable ecosystem of 50 nano-books exposing the harsh realities of business opportunities with high guru saturation and failure rates. Each book uses data-driven satire to prevent bad decisions and redirect readers toward realistic alternatives.
+
+### Operating Model
+**Solopreneur Operation:** Single founder writes all content, manages strategy and operations, with contractor support for design and development. Automation-first approach minimizes ongoing manual work.
 
 ### Core Concept
 **"Y-IT"** = "Why Is This?" (questioning business hype)
@@ -158,12 +162,12 @@ Evidence-based reality checks presented through satirical narrative:
 - Final corrections
 - Live on Amazon
 
-### Parallel Batch Production: All 50 Books in 21 Weeks
+### Solopreneur Production Model
 
-**Batching Strategy:**
-- **Batch Size:** 5-7 books at a time
-- **Team:** 2-3 writers + 1 designer
-- **Process:** Content team works 1-2 batches ahead of designer
+**Operating Model:**
+- **Structure:** Single solopreneur handles all content creation
+- **Contractors:** Designer and developer contractors as needed
+- **Approach:** Sequential production with automation focus
 
 **Timeline Overview:**
 - **Batch A (Topics 1-5):** Weeks 1-7 → Launch Week 7
@@ -422,21 +426,36 @@ Use dropshipping nano-book as complete test case to validate entire ecosystem be
 
 **Net Monthly Profit (at scale):** ~$68,000/month
 
-### Investment & ROI
+### Investment & ROI (Solopreneur Model)
 
 **Total Investment Required:**
-- Content production: $225,000 (50 topics × $4,500)
-- Design & layout: $450,000 (50 topics × $9,000)
-- Platform development: $15,000
-- KDP setup: $10,000
-- Marketing/launch: $5,000
-- Contingency (15%): $110,000
-- **Total:** ~$815,000
+- **Content production:** $0 (solopreneur writes all content)
+- **Design & layout:** $450,000 (50 topics × $9,000 contractor rate)
+  - Alternative: Start with 10 books ($90K), validate, then scale
+- **Platform development (Phase 1 - Minimal):** $5,000
+  - Landing page: Carrd/Webflow ($300/year)
+  - Email automation: ConvertKit ($29-79/month)
+  - Manual AI evaluator initially (automate later)
+- **Platform development (Phase 2 - Full):** $15,000-25,000
+  - Custom web platform once revenue validates
+- **KDP setup:** $1,000 (ISBNs, proof copies)
+- **Marketing/launch:** $5,000
+- **Contingency (15%):** $70,000
+- **Total (Minimal Start):** ~$100,000 (first 10 books)
+- **Total (Full 50 Books):** ~$550,000
+
+**Solopreneur Time Investment:**
+- 50 books × 40 hours/book = 2,000 hours
+- At 20 hours/week: 100 weeks (24 months)
+- At 40 hours/week: 50 weeks (12 months)
 
 **Break-Even Timeline:**
-- At $68K/month net: ~12 months to break even
-- Year 2 revenue projection: $1.3M revenue, $485K net profit
-- Year 3 revenue projection: $2.0M revenue, $1.2M net profit
+- Minimal start (10 books, $100K invested): 6-9 months
+- Full scale (50 books, $550K invested): 12-18 months
+- Year 2 revenue projection: $840K revenue, $650K net profit
+- Year 3 revenue projection: $1.2M revenue, $950K net profit
+
+**Key Advantage:** No team salaries = 95%+ margins once books are produced
 
 ---
 
@@ -481,34 +500,38 @@ Use dropshipping nano-book as complete test case to validate entire ecosystem be
 - ✅ Quality gates established
 - ✅ Brand standards locked
 
-### Immediate Next Steps (Weeks 1-2)
+### Immediate Next Steps (Solopreneur Edition)
 
 **Week 1:**
-- [ ] Confirm team capacity (2-3 writers, 1 designer, 2 engineers)
-- [ ] Setup AWS/PostgreSQL infrastructure
-- [ ] Configure Stripe, ConvertKit, OpenAI API accounts
-- [ ] Create dropshipping research document
-- [ ] Begin Batch A content production (Topics 1-5)
+- [ ] Finalize solopreneur LLC/business structure
+- [ ] Setup tool stack: Stripe, ConvertKit, OpenAI API accounts
+- [ ] Interview and select designer contractor
+- [ ] Interview and select developer contractor (if building platform in Phase 1)
+- [ ] Begin dropshipping research and content writing
 
 **Week 2:**
-- [ ] Database schema created (PostgreSQL)
-- [ ] Backend API development begins
-- [ ] Dropshipping content complete and compressed
-- [ ] Designer handoff documents finalized
-- [ ] Frontend MVP development begins
+- [ ] Complete dropshipping manuscript (7,800 words)
+- [ ] Create all designer specification documents
+- [ ] Hand off to designer contractor
+- [ ] OR: Focus on content-only launch (skip platform for now)
 
 **Weeks 3-6:**
-- [ ] Designer executes Batch A (Topics 1-5)
-- [ ] Platform MVP development continues
-- [ ] Batch B content production (Topics 6-10)
-- [ ] OpenAI evaluator prompt testing
+- [ ] Designer executes dropshipping book layout
+- [ ] Write Batch A content (Topics 2-5: FBA, Crypto, POD, Affiliate)
+- [ ] Setup KDP account and processes
+- [ ] Configure email automation in ConvertKit (manual sequences initially)
 
 **Week 7: LAUNCH**
 - [ ] Dropshipping book LIVE on Amazon
-- [ ] Web platform LIVE
-- [ ] AI Evaluator LIVE
-- [ ] Email sequences LIVE
+- [ ] Basic landing page LIVE (Carrd, Webflow, or Squarespace)
+- [ ] Manual AI evaluator (you respond to submissions initially)
+- [ ] Email sequences LIVE (automated via ConvertKit)
 - [ ] Validation metrics tracking begins
+
+**Weeks 8-21:**
+- [ ] Continue writing + designer batching (5-7 books every 2-3 weeks)
+- [ ] Automate AI evaluator once revenue validates model
+- [ ] Scale based on validation results
 
 ---
 
@@ -557,12 +580,12 @@ Must pass all 19 gates before scaling to 49 other topics. This validates:
 - Evaluator converts (>10% evaluator → purchase)
 - Economics work ($5K+ revenue by Week 13)
 
-### 2. Team Capacity
-Need minimum viable team:
-- 2-3 writers (parallel content production)
-- 1 designer (batch processing 5-7 books every 2-3 weeks)
-- 2 engineers (backend + frontend)
-- 1 project manager (KDP, email, analytics)
+### 2. Solopreneur + Contractors
+Operating as solo founder with strategic contractors:
+- **Solopreneur:** Content creation, strategy, project management
+- **Designer (contractor):** InDesign layout, batch processing 5-7 books every 2-3 weeks
+- **Developer (contractor):** Platform development (backend + frontend)
+- **Automation-First:** Minimize ongoing manual work through systems
 
 ### 3. Platform Stability
 Zero critical bugs at launch. Testing sequence:
@@ -578,18 +601,18 @@ Every book must match Y-IT voice exactly:
 - Case studies resonate emotionally
 - Tone appropriate per chapter (cynical 1-7, hopeful 8)
 
-### 5. Designer Efficiency
+### 5. Designer Contractor Efficiency
 Template must improve over time:
 - Batch A: 30 hours/topic
 - Batch C+: 17 hours/topic (optimized)
-- Critical path: Designer cannot fall behind content team
+- Solopreneur writes content ahead of designer schedule
 
 ### 6. Batch Discipline
 Must stick to 5-7 book batching model:
-- Content team 1-2 batches ahead
-- Designer cycles every 2-3 weeks
+- Solopreneur writes content 1-2 batches ahead of designer
+- Designer contractor cycles every 2-3 weeks
 - Weekly KDP releases starting Week 7
-- No sequential bottlenecks
+- Automation prevents bottlenecks
 
 ---
 
@@ -621,29 +644,34 @@ Must stick to 5-7 book batching model:
 
 ---
 
-## CONTACT & TEAM STRUCTURE
+## SOLOPRENEUR OPERATING MODEL
 
 ### Roles & Responsibilities
 
-**Content Team:**
-- Lead Writer: Primary content creation
-- Specialist Writers: Topic-specific expertise (finance, marketing, tech)
-- Editor: Quality control, voice consistency
+**Solopreneur (You):**
+- Content creation: All writing, research, case studies
+- Strategy: Business decisions, topic prioritization
+- Project management: Timeline coordination, KDP uploads
+- Marketing: Email sequences, social media, analytics
+- Operations: Customer support, automation management
 
-**Design Team:**
-- Lead Designer: InDesign layout, batch processing
-- Illustrator: Hero images, character portraits, comics
-- Design QA: KDP compliance, file validation
+**Contractor Network (As Needed):**
 
-**Engineering Team:**
-- Backend Engineer: Database, API, integrations
-- Frontend Developer: Next.js, UI/UX, web interactive
-- DevOps: Hosting, deployment, monitoring
+**Designer (Contract):**
+- InDesign layout and batch processing
+- Hero images, character portraits, comics (via AI tools + editing)
+- KDP compliance and file validation
+- Rate: ~$50-75/hour or $450-650/book
 
-**Marketing/Operations:**
-- Project Manager: Timeline coordination, KDP uploads
-- Email Manager: ConvertKit, sequences, automation
-- Analytics Manager: Metrics tracking, reporting
+**Developer (Contract):**
+- Platform development: Database, API, integrations
+- Frontend: Next.js, UI/UX, web interactive
+- Automation setup: Email sequences, AI evaluator
+- Rate: ~$75-100/hour or project-based
+
+**Optional Support (Phase 2+):**
+- VA for customer support (5-10 hrs/week)
+- Bookkeeper for accounting (5 hrs/month)
 
 ---
 
