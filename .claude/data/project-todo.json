@@ -1,0 +1,229 @@
+{
+  "projectName": "Y-IT Nano-Book Ecosystem",
+  "lastUpdated": "2025-11-08T21:37:05.919028",
+  "todos": [
+    {
+      "id": "phase1-biz-setup",
+      "title": "Week 1: Business Setup & Contractor Onboarding",
+      "urgency": "HIGH",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Finalize solopreneur LLC/business structure",
+        "Setup tool stack: Stripe, ConvertKit, OpenAI API accounts",
+        "Interview and select designer contractor",
+        "Interview and select developer contractor"
+      ],
+      "dueDate": "2025-11-15",
+      "details": "Foundation phase - establish business legal structure and secure key contractor partnerships. This unblocks all content production."
+    },
+    {
+      "id": "dropship-content",
+      "title": "Week 1-2: Dropshipping Content Creation",
+      "urgency": "HIGH",
+      "progress": 25,
+      "status": "in-progress",
+      "subtasks": [
+        "Complete dropshipping manuscript research",
+        "Write 8 chapters (~10,000 words)",
+        "Apply compression formula to 7,800 words",
+        "Map content to 24-page structure"
+      ],
+      "dueDate": "2025-11-22",
+      "details": "Create validation test book. Content must be satirical, data-driven, contrarian. All claims backed by statistics.",
+      "notes": [
+        {
+          "timestamp": "2025-11-08T21:37:05.919012",
+          "note": "Research complete, started writing Chapter 1"
+        }
+      ]
+    },
+    {
+      "id": "design-specs",
+      "title": "Week 2: Design Specification & Handoff",
+      "urgency": "HIGH",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Create designer specification documents",
+        "Define image requirements (hero, portraits, charts, comics)",
+        "Create design brief and master package",
+        "Hand to designer contractor"
+      ],
+      "dueDate": "2025-11-22",
+      "details": "Prepare all design assets and specifications. Designer will use these to create InDesign template and layout dropshipping book."
+    },
+    {
+      "id": "kdp-setup",
+      "title": "Week 3-4: KDP Account & Processes",
+      "urgency": "HIGH",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Setup KDP account and author profile",
+        "Create ISBN procurement process",
+        "Setup proof copy ordering and review workflow",
+        "Document KDP upload procedures"
+      ],
+      "dueDate": "2025-11-29",
+      "details": "Establish Amazon KDP infrastructure and processes. This is the distribution channel for print books."
+    },
+    {
+      "id": "batch-a-content",
+      "title": "Week 3-6: Write Batch A Topics (2-5)",
+      "urgency": "MEDIUM",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Topic 2: Amazon FBA manuscript",
+        "Topic 3: Crypto Day Trading manuscript",
+        "Topic 4: Print-on-Demand manuscript",
+        "Topic 5: Affiliate Marketing manuscript"
+      ],
+      "dueDate": "2025-12-20",
+      "details": "Write content for Topics 2-5 in parallel with designer working on dropshipping book. Build content inventory ahead of design schedule."
+    },
+    {
+      "id": "evaluator-setup",
+      "title": "Week 4-5: AI Evaluator Configuration",
+      "urgency": "MEDIUM",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Setup OpenAI API integration",
+        "Configure evaluator prompt for dropshipping",
+        "Create dropshipping evaluator form",
+        "Test AI roast generation and PDF delivery"
+      ],
+      "dueDate": "2025-12-06",
+      "details": "Build lead magnet system. AI generates 'roast' PDFs of user business ideas, capturing emails for nurture funnel."
+    },
+    {
+      "id": "email-automation",
+      "title": "Week 5-6: Email Automation Setup",
+      "urgency": "MEDIUM",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Setup ConvertKit account and automations",
+        "Create 4-email nurture sequence",
+        "Test email delivery and tracking",
+        "Configure CTA links to purchase pages"
+      ],
+      "dueDate": "2025-12-13",
+      "details": "Implement automated email funnel (Day 0, 3, 7, 14). Each email drives toward product purchase with different positioning."
+    },
+    {
+      "id": "week7-launch",
+      "title": "Week 7: LAUNCH - Dropshipping Book Live",
+      "urgency": "CRITICAL",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Dropshipping book LIVE on Amazon KDP",
+        "Basic landing page LIVE (Carrd/Webflow/Squarespace)",
+        "Manual AI evaluator operational (you respond to submissions)",
+        "Email sequences LIVE and automated",
+        "Analytics tracking begins"
+      ],
+      "dueDate": "2025-12-27",
+      "details": "Week 7 Launch Metrics: Book live, evaluator operational, 50+ submissions, <10 platform bugs. Begin validation tracking."
+    },
+    {
+      "id": "validation-gates",
+      "title": "Week 7-13: Validation & Gate Reviews",
+      "urgency": "CRITICAL",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Gate 1: Content validation complete",
+        "Gate 2: Design proof approved",
+        "Gate 3: KDP upload success",
+        "Gate 4: Evaluator prompt configured",
+        "Gate 5: Stripe payment processing live",
+        "Gate 6: Conversion funnel tracking",
+        "Gate 7: Customer feedback collection"
+      ],
+      "dueDate": "2026-01-10",
+      "details": "19 gates total. All must pass before scaling to 49 other topics. Validate: content resonates, design scales, platform stable, email reliable, evaluator converts >10%, revenue >$5K."
+    },
+    {
+      "id": "batch-b-design",
+      "title": "Week 8-9: Design Batch B (Topics 6-10)",
+      "urgency": "MEDIUM",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Topic 1: Dropshipping (approval + KDP live)",
+        "Topic 6: NFT Creation",
+        "Topic 7: Freelance Writing",
+        "Topic 8: Virtual Assistant",
+        "Topic 9: Digital Products"
+      ],
+      "dueDate": "2026-01-10",
+      "details": "Designer cycles to Batch B while you continue writing Batch C content. Maintain 1-2 batch lead time."
+    },
+    {
+      "id": "platform-phase1",
+      "title": "Week 6+: Platform Development Phase 1 (Minimal)",
+      "urgency": "LOW",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Setup landing page (Carrd/Webflow)",
+        "Setup ConvertKit for email sequences",
+        "Manual AI evaluator initially (you respond)",
+        "Basic analytics tracking"
+      ],
+      "dueDate": "2025-12-27",
+      "details": "Minimal viable platform. Automate evaluator engine once revenue validates model ($5K+/week). Full custom platform Phase 2 ($15-25K investment)."
+    },
+    {
+      "id": "week13-validation",
+      "title": "Week 13: Validation Decision Point",
+      "urgency": "CRITICAL",
+      "progress": 0,
+      "status": "pending",
+      "subtasks": [
+        "Review Week 13 metrics: 500+ customers, $5K+ revenue, 10%+ conversion, 4.0+ stars",
+        "All 19 gates passed review",
+        "Positive customer feedback >70%",
+        "Decision: Scale to 49 topics or reassess positioning"
+      ],
+      "dueDate": "2026-01-10",
+      "details": "Decision matrix: All gates pass \u2192 Proceed to scale. Any critical gate fails \u2192 Fix before continuing. Revenue below target \u2192 Reassess pricing."
+    }
+  ],
+  "phases": {
+    "phase1": {
+      "name": "Launch & Validate",
+      "duration": "Weeks 1-13",
+      "goal": "Dropshipping test case validated, first 20 topics live"
+    },
+    "phase2": {
+      "name": "Full Rollout",
+      "duration": "Weeks 14-21",
+      "goal": "All 50 topics live, cross-sell optimization"
+    },
+    "phase3": {
+      "name": "Optimize & Scale",
+      "duration": "Months 6-12",
+      "goal": "A/B testing, improved funnels, advanced features"
+    }
+  },
+  "metrics": {
+    "targetWeek7": {
+      "bookLive": "Yes",
+      "evaluatorSubmissions": "50+",
+      "platformBugs": "<10"
+    },
+    "targetWeek13": {
+      "customersAcquired": "500+",
+      "totalRevenue": "$5,000+",
+      "evaluatorConversion": "10%+",
+      "amazonRating": "4.0+",
+      "paybackPeriod": "<2 months",
+      "positiveFeeback": ">70%"
+    }
+  }
+}
