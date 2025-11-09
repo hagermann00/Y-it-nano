@@ -13,13 +13,18 @@
 |--------|--------|---------|--------|
 | **Critical Issues (Must Complete)** | 5/5 | 2/5 | 🟡 40% |
 | **High Priority Issues** | 8/8 | 0/8 | 🔴 0% |
-| **Executive Decisions** | 3/3 | 0/3 | 🔴 0% |
+| **Executive Decisions** | 3/3 | 3/3 | ✅ 100% |
 | **Engineering Hours Burned** | 0/36 | 0 hrs | 🟢 On Track |
 | **Documentation Hours Burned** | 0/8 | 8 hrs | 🟢 Complete |
 | **Blockers** | 0 | 0 | 🟢 None |
 | **Days Remaining** | 7 | 7 | ⏰ Urgent |
 
-### **Sprint Health:** 🟡 MODERATE - 2/5 critical issues complete, engineering work pending
+### **Sprint Health:** 🟡 MODERATE - Decisions complete, 3 critical engineering tasks pending
+
+**Decisions Finalized Nov 8, 2025:**
+- ✅ Solo model (24-month timeline, $0 content cost)
+- ✅ Budget design ($650/book, $32.5K total)
+- ✅ 3% conversion baseline (requires revenue optimization to reach viability)
 
 ---
 
@@ -206,92 +211,133 @@ CREATE INDEX idx_evaluator_responses_purchase ON evaluator_responses(purchase_id
 
 ## 🤝 EXECUTIVE DECISIONS REQUIRED
 
-### Decision #1: Team Operating Model
+### Decision #1: Team Operating Model ✅ DECIDED
 
 | Field | Value |
 |-------|-------|
-| **Status** | 🔴 NOT DECIDED |
-| **Owner** | `[ASSIGN: Executive/Founder]` |
+| **Status** | ✅ DECIDED |
+| **Owner** | Founder |
 | **Due Date** | Mon Nov 11 EOD |
-| **Impact** | Timeline (7mo vs 24mo), Budget (+$225K if team) |
+| **Impact** | Timeline (24 months), Budget ($0 content cost) |
 | **Blockers** | None |
+| **Decided** | Nov 8, 2025 |
 
-**Options:**
+**DECISION: Option A - Solopreneur Solo**
 
-**Option A: Solopreneur Solo**
-- Timeline: 24 months (50 books × 40hrs ÷ 20hrs/week)
-- Content Cost: $0 (your time)
-- Risk: Single point of failure, very slow
-- Benefit: Full control, lower cash investment
+**Selected Model:**
+- Timeline: **24 months** (50 books × 40hrs ÷ 20hrs/week)
+- Content Cost: **$0** (founder's time)
+- Risk: Single point of failure, slower execution
+- Benefit: Full creative control, zero cash burn on content
 
-**Option B: Team (2-3 Writers)**
-- Timeline: 7 months (50 books ÷ 3 writers, parallel)
-- Content Cost: $225K (50 books × $4,500/book)
-- Risk: Quality consistency, management overhead
-- Benefit: Fast execution, scalable
+**Financial Impact:**
+- Content savings: **$225K** (vs team model)
+- Total investment: Design + platform only (~$50K-75K)
+- Pace: ~2 books per month
+- Validation approach: Build-measure-learn per topic
 
-**Decision Required:**
-- [ ] Pick ONE model (A or B)
-- [ ] Update all documents with chosen model
-- [ ] If team: Begin hiring process
-- [ ] If solo: Accept 24-month timeline
+**Action Items:**
+- [x] Solopreneur model selected
+- [ ] Update all documents to 24-month timeline
+- [ ] Accept slower validation cycle (1 topic per 2 weeks)
+- [ ] Focus on per-topic profitability vs portfolio scale
 
 ---
 
-### Decision #2: Design Budget
+### Decision #2: Design Budget ✅ DECIDED
 
 | Field | Value |
 |-------|-------|
-| **Status** | 🔴 NOT DECIDED |
-| **Owner** | `[ASSIGN: Executive/Founder]` |
+| **Status** | ✅ DECIDED |
+| **Owner** | Founder |
 | **Due Date** | Tue Nov 12 EOD |
-| **Impact** | Total investment ($550K vs $830K) |
-| **Blockers** | Need designer quotes |
+| **Impact** | Total investment ($32,500 design budget) |
+| **Blockers** | None |
+| **Decided** | Nov 8, 2025 |
 
-**Options:**
+**DECISION: Option A - Budget Designer ($650/book)**
 
-**Option A: Budget ($650/book)**
-- Total for 50: $32,500
-- Risk: Quality inconsistent, rework needed
-- Benefit: Lower upfront investment
+**Selected Budget:**
+- Per-book cost: **$650**
+- Total for 50 books: **$32,500**
+- Deliverables: Basic layout, standard templates, minimal custom illustrations
+- Risk: May require rework iterations, quality variance between books
 
-**Option B: Professional ($9,000/book)**
-- Total for 50: $450,000
-- Deliverables: 60hrs + 8-10 images + 8 comic panels
-- Benefit: High quality, smooth execution
+**Financial Impact:**
+- Design savings: **$417,500** (vs professional $450K)
+- Total project investment: ~$50K-75K (design + platform + tools)
+- Quality strategy: Invest in template upfront, reuse across 50 topics
+- Rework budget: Set aside 10% ($3,250) for quality fixes
 
-**Decision Required:**
-- [ ] Get 2-3 actual designer quotes
-- [ ] Lock per-book cost
-- [ ] Update all financial documents
-- [ ] Calculate total investment: 50 books × $X,XXX
+**Action Items:**
+- [x] Budget design model selected ($650/book)
+- [ ] Vet 2-3 budget designers (portfolio review)
+- [ ] Create detailed design brief to minimize rework
+- [ ] Build reusable InDesign template (invest 20 hrs upfront)
+- [ ] Quality gates: Review first 3 books closely, then batch
 
 ---
 
-### Decision #3: Conversion Rate Expectations
+### Decision #3: Conversion Rate Expectations ✅ DECIDED
 
 | Field | Value |
 |-------|-------|
-| **Status** | 🔴 NOT DECIDED |
-| **Owner** | `[ASSIGN: Executive/Founder]` |
+| **Status** | ✅ DECIDED |
+| **Owner** | Founder |
 | **Due Date** | Wed Nov 13 EOD |
-| **Impact** | Viability at 10% vs 3% = $530K vs $159K annual |
+| **Impact** | Base case 3% = $159K annual ⚠️ REQUIRES REVENUE OPTIMIZATION |
 | **Blockers** | None |
+| **Decided** | Nov 8, 2025 |
 
-**Scenarios:**
+**DECISION: 3% Realistic Base Case (with optimization path to 5%+)**
 
-| Conversion | Annual Revenue | Viable? |
-|-----------|----------------|---------|
-| 10% (stated) | $530K | ✅ YES (profitable) |
-| 5% (optimistic) | $265K | ⚠️ MARGINAL (break-even) |
-| 3% (realistic) | $159K | ❌ NO (loss-making) |
-| 1% (pessimistic) | $53K | ❌ NO (catastrophic) |
+**Accepted Reality:**
+- Base conversion: **3%** evaluator-to-purchase (industry-realistic)
+- Stretch goal: **5%** with funnel optimization
+- Optimistic ceiling: **7-10%** (requires exceptional execution)
 
-**Decision Required:**
-- [ ] Accept that 1-5% is industry-realistic (not 10%)
-- [ ] Define minimum viable conversion rate (likely 5%)
-- [ ] Plan Week 7-13 measurement strategy
-- [ ] Decision criteria: If <5%, PAUSE scaling
+**Financial Impact at 3% Conversion:**
+
+| Metric | At 3% | At 5% (Target) | At 10% (Original) |
+|--------|-------|----------------|-------------------|
+| Annual Revenue | $159K | $265K | $530K |
+| Viability | ❌ Loss | ⚠️ Break-even | ✅ Profitable |
+| Payback/Topic | Never | 30-36 mo | 18-22 mo |
+
+**CRITICAL: 3% Baseline is NOT Viable - Requires Revenue Enhancements**
+
+**Path to Viability (Must Implement):**
+
+1. **Increase conversion 3% → 5%+** (funnel optimization)
+   - Optimize evaluator form (6 fields → 2 fields) = +30% capture
+   - Improve email sequence (personalization, urgency)
+   - Add social proof (testimonials, ratings)
+   - Target: 5% minimum for marginal viability
+
+2. **Increase Average Order Value (AOV)**
+   - Current: $6-8 single purchase
+   - Add cross-topic bundles: 3-pack ($19.99), 7-pack ($39.99)
+   - Add print upsell on checkout: +$15-20 AOV
+   - Target: $12-15 blended AOV
+
+3. **Add Revenue Streams Beyond Single Purchase**
+   - Subscription tier: $4.99/month for updates + community
+   - Affiliate partnerships: SaaS tools, courses (10-30% commission)
+   - Team/enterprise licensing: 5-10 seat packs
+   - Target: +$50-100/topic/month recurring
+
+**Validation Strategy:**
+- Week 7-13: Measure actual conversion on Dropshipping
+- If ≥5%: Proceed to next topics
+- If 3-4%: Implement AOV optimization, test bundles
+- If <3%: PAUSE, pivot funnel strategy
+
+**Action Items:**
+- [x] Accept 3% baseline (realistic pessimism)
+- [ ] Implement Issue #6: 2-field form (target +30% capture)
+- [ ] Design cross-topic bundles (revenue diversification)
+- [ ] Create measurement dashboard (conversion, AOV, LTV)
+- [ ] Set GO/NO-GO criteria: Must hit 5%+ or $15+ AOV by Week 13
 
 ---
 
