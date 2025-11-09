@@ -1,9 +1,10 @@
 # Y-IT NANO-BOOK ECOSYSTEM: COMPLETE PROJECT CONTEXT
 
-**Last Updated:** November 8, 2025 (Session: Agent Task Assignment System)
-**Project Status:** EXECUTION READY - RAPID ITERATION MODEL LOCKED
-**Operating Model:** SOLOPRENEUR + CONTRACTORS (Lean, ship-fast approach)
+**Last Updated:** November 9, 2025 (Session: 20-Agent System Deployment)
+**Project Status:** EXECUTION READY - AGENT INFRASTRUCTURE COMPLETE
+**Operating Model:** SOLOPRENEUR + CONTRACTORS + 20-AGENT SYSTEM (Lean, automated, ship-fast approach)
 **Phase:** Week 1-21 Rapid Iteration (5-10 books/week, feedback-driven iteration, Week 13 validation gate)
+**Agent System:** ✅ 20 specialized agents deployed (4 core validation + 16 supporting)
 
 ---
 
@@ -14,6 +15,8 @@ Create a scalable ecosystem of 50 nano-books exposing the harsh realities of bus
 
 ### Operating Model
 **Solopreneur Operation:** Single founder writes all content, manages strategy and operations, with contractor support for design and development. Automation-first approach minimizes ongoing manual work.
+
+**Agent Infrastructure:** 20 specialized AI agents support every phase of production (research, content, design, infrastructure, analytics, marketing, operations).
 
 ### Core Concept
 **"Y-IT"** = "Why Is This?" (questioning business hype)
@@ -48,6 +51,77 @@ Evidence-based reality checks presented through satirical narrative:
 - People exposed to guru marketing seeking honest assessment
 - Data-driven skeptics who value evidence over motivation
 - Readers who appreciate satirical intelligence over generic business advice
+
+---
+
+## AGENT SYSTEM INFRASTRUCTURE
+
+### Overview
+**Status:** ✅ DEPLOYED (November 9, 2025)
+
+A comprehensive 20-agent system automates validation, quality assurance, and production across all project phases. Each agent specializes in a specific domain and provides structured Q&A frameworks to guide decision-making.
+
+### 4 Core Validation Agents (Mandatory - Run First)
+1. **`/agent-research-validator`** - Validates research data, statistics, sources, credibility
+2. **`/agent-case-study-auditor`** - Validates and audits all 11 case studies per topic
+3. **`/agent-archival-curator`** - Manages file structure, nomenclature, metadata standards
+4. **`/agent-topic-architect`** - Scaffolds chapter structure and inline content organization
+
+### 16 Supporting Agents
+**Content Agents (4):**
+- `/agent-content-researcher` - Deep research on specific topics
+- `/agent-editor-review` - Manuscript editing (dev, copy, final passes)
+- `/agent-fact-checker` - Cross-references all claims against sources
+- `/agent-voice-consistency` - Maintains satirical brand voice
+
+**Design Agents (3):**
+- `/agent-visual-spec` - Creates design briefs and specifications
+- `/agent-asset-generator` - Manages all design and multimedia assets
+- `/agent-brand-auditor` - Ensures visual consistency across all 50 books
+
+**Infrastructure Agents (4):**
+- `/agent-backup-auditor` - Validates backup and disaster recovery systems
+- `/agent-deployment-orchestrator` - Orchestrates KDP launches and multi-platform deployment
+- `/agent-database-architect` - Designs PostgreSQL schema for metrics and analytics
+- `/agent-infrastructure-validator` - Validates production readiness
+
+**Analytics Agents (3):**
+- `/agent-metrics-designer` - Defines KPIs and performance dashboards
+- `/agent-monitoring-setup` - Configures monitoring, alerts, and notifications
+- `/agent-revenue-modeler` - Creates financial projections and profitability analysis
+
+**Marketing Agents (3):**
+- `/agent-copy-optimizer` - Creates and optimizes marketing copy
+- `/agent-bundle-strategist` - Designs bundling, pricing, and cross-sell strategies
+- `/agent-lead-magnet-builder` - Builds AI-powered lead magnet system
+
+**Operations Agents (2):**
+- `/agent-contractor-workflows` - Designs and manages contractor relationships
+- `/agent-compliance-auditor` - Ensures legal compliance and contract management
+
+### How to Use Agents
+
+**Invoke any agent:**
+```
+/agent-[name] [arguments]
+
+Example:
+/agent-research-validator dropshipping validate
+/agent-topic-architect affiliate-marketing scaffold
+/agent-metrics-designer kpis
+```
+
+**Standard Phase Workflow:**
+1. **Phase 1 (Research)** - Run 4 core validation agents
+2. **Phase 2 (Planning)** - Design and marketing agents
+3. **Phase 3-4 (Creation & Editing)** - Content agents (research, editor, fact-checker, voice)
+4. **Phase 5-6 (Design & Launch)** - Design and deployment agents
+5. **Phase 7+ (Monitoring)** - Analytics and metrics agents
+
+### Documentation & Resources
+- **Master Registry:** `.claude/commands/00-AGENTS-REGISTRY.md` - Complete agent documentation, workflows, status dashboard
+- **Naming Standards:** `NAMING_CONVENTIONS_AND_ARCHIVAL_STRUCTURE.md` - File organization, nomenclature, archival system for all 50 topics
+- **Agent Directory:** `.claude/commands/` - 23 individual agent specification files
 
 ---
 
