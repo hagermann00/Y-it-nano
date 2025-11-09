@@ -722,10 +722,10 @@ CHAPTER 8: If You're Still Here
 
 **Revenue potential (year 1, 50 books, conservative estimates):**
 - 10,000 customers acquired
-- 20% conversion from evaluators
-- Average AOV: $7.50 (mix of products)
-- Monthly revenue: ~$12,500
-- Less costs: ~$11,500/month profit potential
+- 15% conversion from evaluators
+- Average AOV: $6.50 (mix of products)
+- Monthly revenue: ~$39,000-$55,000 (tiered model)
+- Less costs: ~$37,500-$53,500/month profit potential
 
 ---
 

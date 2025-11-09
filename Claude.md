@@ -388,8 +388,8 @@ Use dropshipping nano-book as complete test case to validate entire ecosystem be
 
 **Digital (Gumroad):**
 - Price: $3.99
-- COGS: ~$0.20 (Gumroad fees)
-- Net margin: $3.79 per copy
+- COGS: ~$0.70 (Gumroad 10% + $0.30 fee)
+- Net margin: $3.29 per copy
 
 **Web Interactive:**
 - Price: $7.99 one-time OR $4.99/month
@@ -404,18 +404,27 @@ Use dropshipping nano-book as complete test case to validate entire ecosystem be
 
 ### Revenue Projections (Per Topic at Scale)
 
-**Monthly Revenue (1 topic, mature):**
+**Monthly Revenue (1 topic, mature - Tier 1 average):**
 - Print: 500 copies × $0.70 = $350
-- Digital: 100 sales × $3.79 = $379
-- Web Premium: 30 subs × $4.99 = $150
+- Digital: 100 sales × $3.29 = $329
+- Web Premium: 10 subs × $4.99 = $50
 - Bundles: 50 sales × $4.50 avg = $225
-- **Total per topic:** ~$1,100/month
+- **Total per topic (Tier 1):** ~$950/month
+
+**Tiered Revenue Model (Realistic):**
+- Tier 1 (10 topics): $1,400-$1,600/month each
+- Tier 2 (10 topics): $1,000-$1,200/month each
+- Tier 3 (10 topics): $800-$1,000/month each
+- Tier 4 (10 topics): $600-$800/month each
+- Tier 5 (10 topics): $400-$600/month each
+- **Average per topic:** ~$913/month
 
 **Portfolio Revenue (50 topics):**
-- Base: 50 × $1,100 = $55,000/month
-- Cross-sell effect (+20%): +$11,000
-- Annual subscriptions: +$4,125/month (500 subs @ $99/year)
-- **Total:** ~$70,000/month ($840,000/year)
+- Base: 50 × $913 = $45,650/month
+- Cross-sell effect (+15%): +$6,850
+- Annual subscriptions: +$2,500/month (300 subs @ $99/year)
+- **Total:** ~$55,000/month ($660,000/year)
+- **Conservative Range:** $530,000-$624,000/year
 
 **Cost Structure:**
 - Platform infrastructure: $500-$1,000/month
@@ -424,7 +433,7 @@ Use dropshipping nano-book as complete test case to validate entire ecosystem be
 - AWS hosting: $100/month
 - **Total monthly costs:** ~$1,500/month
 
-**Net Monthly Profit (at scale):** ~$68,000/month
+**Net Monthly Profit (at scale):** ~$53,500/month
 
 ### Investment & ROI (Solopreneur Model)
 
@@ -450,10 +459,10 @@ Use dropshipping nano-book as complete test case to validate entire ecosystem be
 - At 40 hours/week: 50 weeks (12 months)
 
 **Break-Even Timeline:**
-- Minimal start (10 books, $100K invested): 6-9 months
-- Full scale (50 books, $550K invested): 12-18 months
-- Year 2 revenue projection: $840K revenue, $650K net profit
-- Year 3 revenue projection: $1.2M revenue, $950K net profit
+- Minimal start (10 books, $100K invested): 8-11 months
+- Full scale (50 books, $550K invested): 18-22 months
+- Year 2 revenue projection: $660K revenue, $520K net profit
+- Year 3 revenue projection: $950K revenue, $750K net profit
 
 **Key Advantage:** No team salaries = 95%+ margins once books are produced
 

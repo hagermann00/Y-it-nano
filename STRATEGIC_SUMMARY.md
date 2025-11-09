@@ -158,7 +158,7 @@ DIGITAL PDF/ePub ($3.99 via Gumroad)
 ├─ All print content
 ├─ Bonus worksheets (cost tracker, supplier checklist)
 ├─ No Amazon cut (better margin than KDP)
-└─ COGS: $0 | Net margin: $3.79/copy
+└─ COGS: $0.70 | Net margin: $3.29/copy (after 10% + $0.30 Gumroad fees)
 
 WEB INTERACTIVE ($7.99 one-time or $4.99/month)
 ├─ Full print content
@@ -286,25 +286,25 @@ Email capture:
 
 **Scenario 1: 100 copies/month (conservative)**
 - Print revenue: 100 × $0.85 = $85/month
-- Digital revenue: 20 × $3.79 = $76/month
+- Digital revenue: 20 × $3.29 = $66/month
 - Web subscription: 10 × $4.99 = $50/month
-- **Total: $211/month**
-- **Payoff: 24-47 months** (not viable unless volume increases)
+- **Total: $201/month**
+- **Payoff: 25-50 months** (not viable unless volume increases)
 
-**Scenario 2: 500 copies/month (realistic success)**
+**Scenario 2: 500 copies/month (realistic success - Tier 1 topics)**
 - Print revenue: 500 × $0.85 = $425/month
-- Digital revenue: 100 × $3.79 = $379/month
+- Digital revenue: 100 × $3.29 = $329/month
 - Web subscription: 50 × $4.99 = $250/month
-- **Total: $1,054/month**
-- **Payoff: 2-5 months** ✓
+- **Total: $1,004/month**
+- **Payoff: 3-6 months** ✓
 
 **Scenario 3: 1,000+ copies/month (viral)**
 - Print revenue: 1,000 × $0.85 = $850/month
-- Digital revenue: 300 × $3.79 = $1,137/month
+- Digital revenue: 300 × $3.29 = $987/month
 - Web subscription: 150 × $4.99 = $749/month
 - Bundle sales: 200 × $5.99 = $1,198/month
-- **Total: $3,934/month**
-- **Payoff: 2-3 weeks** ✓✓
+- **Total: $3,784/month**
+- **Payoff: 1-2 months** ✓✓
 
 **Critical factor:** AI evaluator lead magnet accelerates volume (captures emails for nurturing, reduces customer acquisition cost)
 
