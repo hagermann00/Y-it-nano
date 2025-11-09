@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Y-IT Topic Backup Dashboard</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    header {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      color: #2c3e50;
+      margin-bottom: 10px;
+      font-size: 32px;
+    }
+
+    .subtitle {
+      color: #7f8c8d;
+      font-size: 14px;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+
+    .stat-card {
+      background: white;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      border-left: 5px solid #3498db;
+      transition: transform 0.2s;
+    }
+
+    .stat-card:hover {
+      transform: translateY(-5px);
+    }
+
+    .stat-card.success { border-left-color: #27ae60; }
+    .stat-card.warning { border-left-color: #f39c12; }
+    .stat-card.danger { border-left-color: #e74c3c; }
+
+    .stat-label {
+      color: #7f8c8d;
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 10px;
+    }
+
+    .stat-value {
+      color: #2c3e50;
+      font-size: 36px;
+      font-weight: bold;
+    }
+
+    .stat-subtext {
+      color: #95a5a6;
+      font-size: 12px;
+      margin-top: 5px;
+    }
+
+    .section {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+
+    .section-title {
+      color: #2c3e50;
+      font-size: 24px;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #ecf0f1;
+    }
+
+    .batch-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    .batch-card {
+      background: #f8f9fa;
+      padding: 20px;
+      border-radius: 8px;
+      border: 2px solid #ecf0f1;
+    }
+
+    .batch-card h3 {
+      color: #34495e;
+      margin-bottom: 15px;
+      font-size: 18px;
+    }
+
+    .progress-bar {
+      background: #ecf0f1;
+      height: 30px;
+      border-radius: 15px;
+      overflow: hidden;
+      margin-bottom: 10px;
+    }
+
+    .progress-fill {
+      background: linear-gradient(90deg, #3498db, #2ecc71);
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: bold;
+      font-size: 14px;
+      transition: width 1s ease-in-out;
+    }
+
+    .topic-list {
+      margin-top: 10px;
+    }
+
+    .topic-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+      border-bottom: 1px solid #ecf0f1;
+      font-size: 14px;
+    }
+
+    .topic-item:last-child {
+      border-bottom: none;
+    }
+
+    .topic-name {
+      color: #34495e;
+      font-weight: 500;
+    }
+
+    .topic-status {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .status-badge {
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: bold;
+    }
+
+    .status-complete {
+      background: #d4edda;
+      color: #155724;
+    }
+
+    .status-progress {
+      background: #fff3cd;
+      color: #856404;
+    }
+
+    .status-pending {
+      background: #f8d7da;
+      color: #721c24;
+    }
+
+    .phase-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .phase-card {
+      background: #f8f9fa;
+      padding: 15px;
+      border-radius: 8px;
+      text-align: center;
+      border: 2px solid #ecf0f1;
+    }
+
+    .phase-number {
+      font-size: 24px;
+      font-weight: bold;
+      color: #3498db;
+      margin-bottom: 5px;
+    }
+
+    .phase-name {
+      font-size: 12px;
+      color: #7f8c8d;
+      margin-bottom: 10px;
+    }
+
+    .phase-count {
+      font-size: 18px;
+      font-weight: bold;
+      color: #2c3e50;
+    }
+
+    .refresh-btn {
+      background: #3498db;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: bold;
+      transition: background 0.2s;
+      float: right;
+    }
+
+    .refresh-btn:hover {
+      background: #2980b9;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: #7f8c8d;
+    }
+
+    .last-updated {
+      color: #95a5a6;
+      font-size: 12px;
+      margin-top: 10px;
+    }
+
+    @media (max-width: 768px) {
+      .phase-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Y-IT Topic Backup Dashboard</h1>
+      <p class="subtitle">Real-time sync status for all 50 topics across 10 production phases</p>
+      <button class="refresh-btn" onclick="loadDashboard()">Refresh Data</button>
+      <div class="last-updated" id="lastUpdated"></div>
+    </header>
+
+    <div class="stats-grid" id="statsGrid">
+      <div class="stat-card">
+        <div class="stat-label">Total Topics</div>
+        <div class="stat-value" id="totalTopics">--</div>
+        <div class="stat-subtext">Across 8 batches</div>
+      </div>
+
+      <div class="stat-card success">
+        <div class="stat-label">Files Synced</div>
+        <div class="stat-value" id="filesSynced">--</div>
+        <div class="stat-subtext" id="syncedPercent">--</div>
+      </div>
+
+      <div class="stat-card warning">
+        <div class="stat-label">Pending Sync</div>
+        <div class="stat-value" id="filesPending">--</div>
+        <div class="stat-subtext">Awaiting upload</div>
+      </div>
+
+      <div class="stat-card danger">
+        <div class="stat-label">Errors</div>
+        <div class="stat-value" id="filesError">--</div>
+        <div class="stat-subtext">Requiring attention</div>
+      </div>
+
+      <div class="stat-card">
+        <div class="stat-label">Total Size</div>
+        <div class="stat-value" id="totalSize">--</div>
+        <div class="stat-subtext" id="storedSize">--</div>
+      </div>
+
+      <div class="stat-card success">
+        <div class="stat-label">Avg Progress</div>
+        <div class="stat-value" id="avgProgress">--</div>
+        <div class="stat-subtext">Across all topics</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2 class="section-title">Phase Overview</h2>
+      <div class="phase-grid" id="phaseGrid"></div>
+    </div>
+
+    <div class="section">
+      <h2 class="section-title">Batch Progress</h2>
+      <div class="batch-grid" id="batchGrid"></div>
+    </div>
+
+    <div class="section">
+      <h2 class="section-title">Topic Status</h2>
+      <div id="topicList"></div>
+    </div>
+  </div>
+
+  <script>
+    const DB_PATH = './sync-state.db';
+
+    // Since we're running this as a static HTML file served by Node,
+    // we'll need to fetch data via API endpoint
+    // For now, we'll simulate with localStorage or fetch from report JSON
+
+    async function loadDashboard() {
+      const loadingHTML = '<div class="loading">Loading dashboard data...</div>';
+
+      try {
+        // Try to load from generated report JSON
+        const response = await fetch('./sync-report.json').catch(() => null);
+
+        if (response && response.ok) {
+          const data = await response.json();
+          renderDashboard(data);
+        } else {
+          // Show instructions to generate report
+          document.getElementById('topicList').innerHTML = `
+            <div class="loading">
+              <h3>No sync data available</h3>
+              <p>Run the following command to generate dashboard data:</p>
+              <code style="background: #f8f9fa; padding: 10px; display: block; margin: 20px 0;">
+                npm run report -- --output=./sync-report.json
+              </code>
+              <p>Then refresh this page.</p>
+            </div>
+          `;
+        }
+      } catch (error) {
+        console.error('Error loading dashboard:', error);
+        document.getElementById('topicList').innerHTML = `
+          <div class="loading">
+            <h3>Error loading data</h3>
+            <p>${error.message}</p>
+          </div>
+        `;
+      }
+
+      document.getElementById('lastUpdated').textContent =
+        `Last updated: ${new Date().toLocaleString()}`;
+    }
+
+    function renderDashboard(data) {
+      // Summary stats
+      document.getElementById('totalTopics').textContent = data.summary.total_topics || 0;
+      document.getElementById('filesSynced').textContent = data.summary.synced_files || 0;
+      document.getElementById('filesPending').textContent = data.summary.pending_files || 0;
+      document.getElementById('filesError').textContent = data.summary.error_files || 0;
+      document.getElementById('totalSize').textContent = formatBytes(data.summary.total_bytes);
+      document.getElementById('storedSize').textContent =
+        `Stored: ${formatBytes(data.summary.stored_bytes)} (${(data.summary.compression_ratio * 100).toFixed(1)}%)`;
+      document.getElementById('avgProgress').textContent =
+        `${data.summary.avg_completion.toFixed(1)}%`;
+
+      const syncPercent = data.summary.total_files > 0
+        ? (data.summary.synced_files / data.summary.total_files * 100).toFixed(1)
+        : 0;
+      document.getElementById('syncedPercent').textContent = `${syncPercent}% of total files`;
+
+      // Phase overview
+      renderPhases(data.phases);
+
+      // Batch progress
+      renderBatches(data.batches);
+
+      // Topic list
+      renderTopics(data.topics);
+    }
+
+    function renderPhases(phases) {
+      const grid = document.getElementById('phaseGrid');
+      grid.innerHTML = phases.map(phase => `
+        <div class="phase-card">
+          <div class="phase-number">${phase.phase_id}</div>
+          <div class="phase-name">${phase.phase_name.replace('Phase-' + phase.phase_id + '-', '')}</div>
+          <div class="phase-count">${phase.completed_topics}/${phase.total_topics}</div>
+        </div>
+      `).join('');
+    }
+
+    function renderBatches(batches) {
+      const grid = document.getElementById('batchGrid');
+      grid.innerHTML = batches.map(batch => {
+        const completion = batch.total_files > 0
+          ? (batch.synced_files / batch.total_files * 100)
+          : 0;
+
+        return `
+          <div class="batch-card">
+            <h3>${batch.name}</h3>
+            <div class="progress-bar">
+              <div class="progress-fill" style="width: ${completion}%">
+                ${completion.toFixed(1)}%
+              </div>
+            </div>
+            <div style="color: #7f8c8d; font-size: 12px; margin-top: 5px;">
+              ${batch.synced_files || 0} of ${batch.total_files || 0} files synced
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function renderTopics(topics) {
+      const list = document.getElementById('topicList');
+      list.innerHTML = `
+        <div class="topic-list">
+          ${topics.map(topic => {
+            let statusClass = 'status-pending';
+            let statusText = 'Pending';
+
+            if (topic.completion_percentage >= 100) {
+              statusClass = 'status-complete';
+              statusText = 'Complete';
+            } else if (topic.completion_percentage > 0) {
+              statusClass = 'status-progress';
+              statusText = `${topic.completion_percentage.toFixed(0)}%`;
+            }
+
+            return `
+              <div class="topic-item">
+                <div class="topic-name">
+                  <strong>${topic.id}</strong> - ${topic.name}
+                  <span style="color: #95a5a6; font-size: 12px; margin-left: 10px;">
+                    Batch ${topic.batch} | Phase ${topic.current_phase}
+                  </span>
+                </div>
+                <div class="topic-status">
+                  <span style="color: #7f8c8d; font-size: 12px;">
+                    ${topic.synced_files}/${topic.total_files} files
+                  </span>
+                  <span class="status-badge ${statusClass}">${statusText}</span>
+                </div>
+              </div>
+            `;
+          }).join('')}
+        </div>
+      `;
+    }
+
+    function formatBytes(bytes) {
+      if (!bytes || bytes === 0) return '0 B';
+      const k = 1024;
+      const sizes = ['B', 'KB', 'MB', 'GB'];
+      const i = Math.floor(Math.log(bytes) / Math.log(k));
+      return Math.round(bytes / Math.pow(k, i) * 100) / 100 + ' ' + sizes[i];
+    }
+
+    // Auto-refresh every 30 seconds
+    setInterval(loadDashboard, 30000);
+
+    // Load on page load
+    loadDashboard();
+  </script>
+</body>
+</html>
