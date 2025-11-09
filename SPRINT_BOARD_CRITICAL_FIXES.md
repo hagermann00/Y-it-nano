@@ -244,37 +244,51 @@ CREATE INDEX idx_evaluator_responses_purchase ON evaluator_responses(purchase_id
 
 ---
 
-### Decision #2: Design Budget ✅ DECIDED
+### Decision #2: Design Budget ✅ DECIDED → REVISED TO DIY
 
 | Field | Value |
 |-------|-------|
-| **Status** | ✅ DECIDED |
+| **Status** | ✅ DECIDED (REVISED) |
 | **Owner** | Founder |
 | **Due Date** | Tue Nov 12 EOD |
-| **Impact** | Total investment ($32,500 design budget) |
+| **Impact** | **Total investment <$1,000** (extreme bootstrapping) |
 | **Blockers** | None |
-| **Decided** | Nov 8, 2025 |
+| **Decided** | Nov 8, 2025 (revised same day) |
 
-**DECISION: Option A - Budget Designer ($650/book)**
+**DECISION: DIY Design - Canva Pro ($0/book, $120/year total)**
 
-**Selected Budget:**
-- Per-book cost: **$650**
-- Total for 50 books: **$32,500**
-- Deliverables: Basic layout, standard templates, minimal custom illustrations
-- Risk: May require rework iterations, quality variance between books
+**EXTREME BOOTSTRAPPING MODEL:**
+- **Total cash investment:** **$850** (vs $61,250 budget model)
+- **Design cost:** **$0 per book** (DIY using Canva Pro)
+- **Canva Pro:** $120/year (or use free Canva for $0)
+- **Time investment:** 16 hrs/book × 50 = **800 hours sweat equity**
+- **Quality:** 6-7/10 (DIY templates vs 8/10 budget designer)
+
+**Bootstrapped Budget Breakdown ($850 total):**
+- Domain (3 years prepaid): $45
+- Canva Pro (1 year): $120
+- LLC/EIN filing: $100
+- Tools/utilities: $85
+- Emergency buffer: $500
+- **ISBNs:** $0 (free KDP ISBNs)
+- **Hosting:** $0 (Vercel free tier)
+- **Email:** $0 (ConvertKit free tier 0-1K)
+- **Database:** $0 (Supabase free tier)
 
 **Financial Impact:**
-- Design savings: **$417,500** (vs professional $450K)
-- Total project investment: ~$50K-75K (design + platform + tools)
-- Quality strategy: Invest in template upfront, reuse across 50 topics
-- Rework budget: Set aside 10% ($3,250) for quality fixes
+- Cash savings: **$60,400** (vs budget model)
+- Trade-off: +900 hours sweat equity (design, code, marketing)
+- Timeline: 24 → 36 months (slower due to DIY)
+- Monthly costs Year 1: **$21/month** (vs $2,270 budget model)
+- Monthly costs Year 2: **$150/month** (when upgraded to paid tiers)
 
 **Action Items:**
-- [x] Budget design model selected ($650/book)
-- [ ] Vet 2-3 budget designers (portfolio review)
-- [ ] Create detailed design brief to minimize rework
-- [ ] Build reusable InDesign template (invest 20 hrs upfront)
-- [ ] Quality gates: Review first 3 books closely, then batch
+- [x] Extreme bootstrapping model selected (<$1K total)
+- [ ] Set up free tier accounts (Vercel, Supabase, ConvertKit, Gumroad)
+- [ ] Build master Canva template (20 hrs investment, first book)
+- [ ] Design first book DIY (16-20 hrs)
+- [ ] Validate with MVP before building all 50 topics
+- [ ] Quality bar: 4.0+ Amazon rating or redo design
 
 ---
 
