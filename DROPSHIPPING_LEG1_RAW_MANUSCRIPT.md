@@ -64,13 +64,16 @@ Most students: $0-500/month.
 Do the math.
 
 **THE GOSPEL THEY PREACH:**
-The story is intoxicating: A 19-year-old with a laptop and $500 becomes a "six-figure entrepreneur" in 90 days. Facebook ads are the magic wand. Suppliers handle fulfillment. You just count money while sipping coconuts on a beach.
 
-This narrative saturates YouTube (Algorithm recommends every video), TikTok (Influencers with millions of followers telling their story), Reddit (Real people claiming "$23K month 2," ignoring the 1,000 lurkers losing money), and Instagram (Instagram ads for "$297 course"). The message never changes:
+The story is intoxicating: A 19-year-old with a laptop and $500 becomes a "six-figure entrepreneur" in 90 days. Facebook ads are the magic wand. Suppliers handle fulfillment. You just count money.
+
+This narrative saturates every platform. YouTube recommends success stories. Influencers with millions of followers share their wins. Reddit threads showcase "$23K month 2" (ignoring the thousands losing money). Instagram ads promise "$297 courses."
+
+The message never changes:
 
 **"You too can do this. Your only limitation is taking action."**
 
-The subtext: If you fail, it's because you didn't try hard enough. The system works perfectly—you just didn't execute.
+The subtext: If you fail, it's your fault. You didn't try hard enough. The system works perfectly—you just didn't execute.
 
 ---
 
@@ -79,8 +82,8 @@ The subtext: If you fail, it's because you didn't try hard enough. The system wo
 **ACTUAL STATISTICS:**
 | Metric | Reality |
 |--------|---------|
-| Success Rate | 10-20% (90% fail) |
-| Failure Timeline | 80% fail within 4 months |
+| Success Rate | 10-20% (80-90% fail) |
+| Failure Timeline | 80% fail within 4 months; 90% quit within year |
 | Median Income | $0-500/month |
 | Required Capital | $10,000-50,000 |
 | Time to ROI | 5-9 months minimum |
@@ -272,11 +275,15 @@ Gap: 1000%
    - Premium email marketing
 
 **THE WORST PART:**
-Your labor cost. Testing products, creating ads, handling customer service, writing descriptions. At $15/hour (conservative), 350 hours = $5,250. At $30/hour (professional rate), = $10,500.
+Your labor cost. Testing products, creating ads, customer service, writing descriptions.
+
+At $15/hour (conservative): 350 hours = $5,250
+At $30/hour (professional rate): 350 hours = $10,500
 
 Most successful dropshippers invest 500-1,000 hours Year 1.
 
-Your actual ROI at $15,000 profit with 700 hours invested = $21.43/hour.
+ROI calculation:
+$15,000 profit ÷ 700 hours = $21.43/hour
 
 You'd earn more at Target.
 
@@ -379,12 +386,21 @@ Why?
 - Sizing/fit problems (for apparel)
 - Customers bought on impulse (they calm down after two weeks)
 
-When returns hit 20%, your actual profit margin becomes negative.
-You're refunding more than you're keeping.
-Customer pays $24.99. Shipping kills 10%. Processing kills 3%. Returns cost 20% = You're paying customers to take products.
+When returns hit 20%, your profit margin disappears.
+
+Customer pays $24.99.
+Shipping: -$2.50 (10%)
+Processing: -$0.75 (3%)
+Returns: -$5.00 (20%)
+Net to you: $16
+
+You keep $16. Product costs you $8. Net profit: $8.
+
+But if return rate is 25%? You're losing money.
 
 This is when people realize dropshipping doesn't work.
-Cost of failure point: Profitability is impossible.
+
+Cost of failure point: Profitability becomes impossible.
 
 **FAILURE POINT 8: THE EXIT** (Month 6+)
 By Month 6, most people quit.
@@ -422,11 +438,13 @@ The 10% who succeed? They had MORE capital, BETTER ads skills, or EXISTING audie
 
 **SARAH MARTINEZ - "The Fashion Dreamer"**
 
-28, marketing coordinator. Saved $2,000 for house down payment. Spent it on fashion jewelry dropshipping. "Everyone loves fashion," she thought. Tested 10 products in 3 months. Discovered 40+ competitors per product selling identical items. Facebook Ad Library showed saturated market from the start—she never checked. Her marketing expertise didn't help; tactics can't fix strategy.
+28, marketing coordinator. Saved $2,000 for a house down payment. Spent it on fashion jewelry dropshipping. Tested 10 products in 3 months. Discovered 40+ competitors per product with identical items. Facebook Ad Library revealed saturation from the start—she never checked.
 
-**Final:** Lost $2,800. 240 hours. Realized fashion is lowest-success category (8-12%) because everyone chooses it. Successful dropshippers choose boring niches with less competition.
+Her marketing expertise didn't help. Tactics can't fix strategy when the market is oversaturated.
 
-**FAILURE MECHANISM:** Poor product selection in oversaturated niche + marketing skills don't fix broken market.
+**Final:** Lost $2,800. 240 hours. Fashion is the lowest-success category (8-12%) because everyone gravitates to it. The winners choose boring niches: pet supplies, car accessories, home tools.
+
+**FAILURE MECHANISM:** Poor product selection in saturated niche.
 
 ---
 
@@ -476,17 +494,21 @@ Age 21. Junior at state university, business major. Inspired by TikTok "day in t
 
 **RAJ PATEL - "The Exceptional Work Ethic"**
 
-Age 38. First-generation immigrant from India. Software QA tester. Supporting wife and two kids, sending $500/month to parents. Wanted better life for family. Worked 90-100 hour weeks: Day job 8am-6pm + Dropshipping 8pm-1am (5 hours nightly) + full weekends. Sleep: 4-5 hours/night.
+Age 38. First-generation immigrant from India. Software QA tester. Supporting wife and two kids, sending $500/month to parents. Wanted a better life for his family.
 
-Exceptional discipline. Taught himself Photoshop, Facebook Ads, YouTube tutorials (120+ hours of free content). Month 1-3: Tested 12 products, created customer videos, handwrote thank-you notes. Month 4-5: Found "winning product"—portable car vacuum. ROAS 2.99, made $840 profit. Finally working!
+Worked 90-100 hour weeks: Day job 8am-6pm + Dropshipping 8pm-1am + full weekends. Slept 4-5 hours/night.
 
-Then supplier went out of stock without notifying him for 6 days. 42 orders placed, customers charged, supplier gone. Found replacement but quality different. Chargebacks and refunds destroyed reputation. PayPal held $960 for 30 days. Couldn't scale winning product due to cash flow crisis.
+Exceptional discipline. Taught himself Photoshop, Facebook Ads from YouTube. Month 1-3: Tested 12 products, created customer videos, handwrote thank-you notes. Month 4: Found "winning product"—car vacuum with 2.99 ROAS. First profitable month.
 
-**The Breaking Point:** Month 9, manager at day job: "Your performance has declined. Shape up or we'll make changes." Translation: Quit dropshipping or lose $58K job. Raj chose family over business. Wife had been terrified he'd have a heart attack from stress.
+Then the supplier went out of stock for 6 days without notification. 42 orders placed, customers charged, supplier gone. Replacement supplier's product was lower quality. Chargebacks and refunds piled up. PayPal held $960 for 30 days. Couldn't scale the winning product.
 
-**Final Numbers:** 10 months, $3,200 ad spend, $4,858 revenue. Technically +$402 profit. But 520 hours invested at near-poverty hourly rate. Health declined. Marriage stressed. Nearly lost his real job. Hard work alone doesn't fix broken economics.
+Month 9: Manager at day job told him his performance declined. Translation: Quit dropshipping or lose your $58K job. Raj chose family. His wife had been terrified he'd have a heart attack from stress.
 
-**FAILURE MECHANISM:** Unrealistic expectations + supplier issues + advertising cost crisis. Work ethic couldn't overcome the math.
+**Final outcome:** 10 months, $3,200 ad spend, $4,858 revenue, +$402 profit. But at what cost? 520 hours invested. Health declined. Marriage stressed. Nearly lost his real job.
+
+Work ethic couldn't overcome broken economics.
+
+**FAILURE MECHANISM:** Supplier reliability + cash flow crisis. Even exceptional effort doesn't fix the model.
 
 ---
 
@@ -668,26 +690,26 @@ This only "works" if you have $10,000+ capital and willingness to repeat it 5+ t
 
 **You MIGHT succeed if you can check ALL 7 boxes:**
 
-**☐ Box 1: You have $20,000-50,000 capital (not $500 or $5,000)**
-Without this, you can't test enough products to find a winner. Most people have $1,500-3,000 max. That's not enough.
+**☐ Box 1: You have $20,000-50,000 capital**
+Most people have $1,500-3,000. That's insufficient. You need $5,000 minimum to test enough products to find a winner.
 
-**☐ Box 2: You can sustain 6-12 months with ZERO profit (worst case)**
-This means you have savings. Emergency fund. No financial desperation. If you NEED income next month, dropshipping will destroy you with its delayed profitability.
+**☐ Box 2: You can sustain 6-12 months with ZERO profit**
+You need emergency savings. If you need income next month, dropshipping will destroy you.
 
-**☐ Box 3: You have existing customer base OR marketing expertise + ad budget**
-You need FREE traffic OR exceptional ad skills. Starting from zero traffic with zero ad skills is a losing hand. Most people have neither.
+**☐ Box 3: You have existing customers OR exceptional ad skills + budget**
+You need free traffic or mastery-level Facebook Ads skills. Starting from zero on both is a losing position.
 
 **☐ Box 4: You're willing to work 40-60 hours/week (not "passive income")**
-The guru "2 hours per day" promise is false. Reality: 40-60 hours/week for months 1-6, minimum. If you value your time, this doesn't pencil out.
+The guru "2 hours per day" promise is false. Reality: 40-60 hours/week minimum for months 1-6.
 
 **☐ Box 5: You're OK losing 50-80% of your investment**
-This is the realistic scenario. You'll test products, lose money, fail. Can you psychologically handle that? Not everyone can.
+This is likely. Can you psychologically handle that? Not everyone can.
 
 **☐ Box 6: You're not emotionally desperate for money**
-Desperation = poor decisions. You'll chase losses, ignore math, keep spending when you should quit. If you need income immediately, take a job instead.
+Desperation creates poor decisions. You'll chase losses and ignore math. If you need income immediately, get a job instead.
 
-**☐ Box 7: You have deep niche expertise in your target market**
-If you're picking random trending products, you'll lose. If you're choosing from a niche you deeply understand (pet products when you're a veterinarian, car accessories when you're a mechanic), you have a 2x advantage.
+**☐ Box 7: You have deep niche expertise**
+Random trending products lose. Expertise in your chosen niche gives you a 2x advantage.
 
 ---
 
@@ -697,7 +719,9 @@ If you're picking random trending products, you'll lose. If you're choosing from
 - **5-6/7 checked:** High risk. Think twice.
 - **<5/7 checked:** Don't do it. The math doesn't work.
 
-**Reality check:** Most people reading this score 2-3/7 BEFORE starting. They don't have the capital, the time, the skills, or the emotional resilience. They check 0-1 boxes and start anyway because they watched a YouTube video.
+**Reality check:** Most people reading this score 2-3/7 BEFORE starting. They don't have the capital, time, or skills. They know this. They start anyway because they watched a YouTube video and hope is powerful.
+
+That's not stupidity. That's hope. The system exploits it.
 
 ---
 
@@ -746,13 +770,15 @@ If you're picking random trending products, you'll lose. If you're choosing from
 
 **THE UNSEXY TRUTH:**
 
-The winning strategy for most people isn't: "Quit job for side hustle."
+The winning strategy isn't: "Quit job for side hustle."
 
-It's: "Keep job, try side hustle in evenings/weekends, see if it works before all-in."
+It's: "Keep job. Try dropshipping evenings/weekends. See if it works before going all-in."
 
-If dropshipping CAN'T work as a side hustle with your limited time, it won't work full-time either.
+If it can't work as a side hustle with limited time, it won't work full-time either.
 
-Most of the 90% who fail weren't willing to invest the 500-1,000 hours needed. If you won't invest 500 hours while employed, you certainly won't find the energy after watching your investment bleed red for 3 months straight.
+Most of the 90% who fail weren't willing to invest 500-1,000 hours. And honestly? If you won't invest that while employed, you certainly won't find the energy after watching your investment bleed red for 3 months.
+
+That's not a personal failure. That's a sign the model doesn't work for you.
 
 [CALLOUT BOX]
 **The probability-weighted expected value of dropshipping is NEGATIVE.**
