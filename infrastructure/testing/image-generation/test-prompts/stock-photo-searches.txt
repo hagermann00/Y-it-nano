@@ -1,0 +1,328 @@
+# Stock Photo Search Queries
+
+**Purpose:** Find relevant CC0 images from Unsplash, Pexels, Pixabay
+**License Required:** CC0 (Creative Commons Zero) - Commercial use, no attribution
+**Target Use:** Y-IT nano-books (print and web)
+
+---
+
+## **Business Failure / Struggle Themes**
+
+### Warehouse & Inventory
+- "empty warehouse shelves"
+- "warehouse inventory boxes"
+- "abandoned warehouse industrial"
+- "cardboard boxes stacked"
+- "shipping materials warehouse"
+- "storage facility empty"
+- "logistics warehouse interior"
+- "pallet boxes shipping"
+
+### Entrepreneurial Stress
+- "stressed entrepreneur working late"
+- "tired business person laptop"
+- "overwhelmed desk paperwork"
+- "frustrated person computer"
+- "exhausted worker office"
+- "anxious business owner"
+- "defeated entrepreneur sitting"
+- "worried person bills laptop"
+
+### Financial Struggle
+- "empty wallet money"
+- "bills debt paperwork"
+- "declining graph chart"
+- "red numbers finance"
+- "bankruptcy papers"
+- "calculator bills stressed"
+- "credit card debt"
+- "financial stress concept"
+
+### Failed Business Imagery
+- "closed store empty"
+- "for lease sign empty office"
+- "abandoned office space"
+- "empty retail store"
+- "going out of business"
+- "vacant storefront"
+- "closed business sign"
+- "empty office building"
+
+---
+
+## **E-Commerce & Dropshipping**
+
+### Shipping & Logistics
+- "cardboard shipping boxes"
+- "package delivery boxes"
+- "postal shipping materials"
+- "brown cardboard packages"
+- "shipping label tape"
+- "mailroom packages"
+- "delivery boxes pile"
+- "parcel post boxes"
+
+### Online Business
+- "laptop online shopping"
+- "e-commerce screen"
+- "online store website"
+- "digital marketing laptop"
+- "web analytics dashboard"
+- "online business workspace"
+- "computer screen charts"
+- "laptop working from home"
+
+### Products & Inventory
+- "product inventory shelves"
+- "retail merchandise display"
+- "stock inventory warehouse"
+- "consumer products shelves"
+- "inventory management"
+- "stocked shelves retail"
+
+---
+
+## **Social Media & Content Creation**
+
+### Content Creation Setup
+- "ring light phone camera"
+- "content creator setup"
+- "vlog filming equipment"
+- "smartphone tripod recording"
+- "home studio setup"
+- "video recording phone"
+- "influencer filming setup"
+- "social media recording"
+
+### Social Media Imagery
+- "social media icons phone"
+- "instagram feed phone"
+- "smartphone social apps"
+- "mobile social media"
+- "phone notifications screen"
+- "social media dashboard"
+- "engagement metrics phone"
+
+### Computer Work
+- "laptop working night"
+- "computer screen graphics"
+- "digital content creation"
+- "editing software screen"
+- "designer working laptop"
+- "writer typing laptop"
+
+---
+
+## **Education & Courses**
+
+### Learning Environments
+- "empty classroom chairs"
+- "online course laptop"
+- "video lecture screen"
+- "study desk laptop"
+- "learning online computer"
+- "digital education"
+- "webinar screen"
+- "online teaching setup"
+
+### Teaching Imagery
+- "presentation screen business"
+- "conference speaker stage"
+- "seminar audience"
+- "workshop training"
+- "teacher whiteboard"
+
+---
+
+## **Finance & Trading**
+
+### Stock Market / Trading
+- "stock market charts"
+- "trading screen graphs"
+- "financial charts declining"
+- "market crash graph"
+- "investment losses chart"
+- "trading desk monitors"
+- "stock market red"
+- "cryptocurrency chart"
+
+### Money & Finance
+- "money calculator taxes"
+- "financial planning calculator"
+- "budget spreadsheet laptop"
+- "accounting paperwork"
+- "expense tracking"
+- "financial documents"
+
+---
+
+## **Generic Business Concepts**
+
+### Professional Settings
+- "modern office workspace"
+- "business desk minimal"
+- "corporate office interior"
+- "professional workspace"
+- "contemporary office"
+- "business meeting room"
+- "coworking space"
+- "startup office environment"
+
+### Technology & Tools
+- "laptop coffee desk"
+- "smartphone laptop workspace"
+- "business tools desk"
+- "notebook laptop phone"
+- "workspace top view"
+- "desk organization business"
+
+### People & Expressions
+- "business person thinking"
+- "entrepreneur portrait serious"
+- "professional headshot neutral"
+- "person laptop working"
+- "concentrated working face"
+- "determined entrepreneur"
+- "focused business person"
+
+---
+
+## **Positive Alternative Imagery** (For "What Works Instead" Sections)
+
+### Actual Skills & Work
+- "skilled tradesperson working"
+- "professional craftsperson"
+- "carpenter woodworking"
+- "electrician professional"
+- "plumber work tools"
+- "construction skilled worker"
+- "mechanic auto repair"
+
+### Real Business
+- "local shop owner"
+- "small business storefront"
+- "cafe owner working"
+- "retail shop employee"
+- "restaurant chef cooking"
+- "barber shop professional"
+- "service business work"
+
+### Education & Certification
+- "college graduation degree"
+- "certification diploma"
+- "professional training"
+- "apprenticeship learning"
+- "skill development workshop"
+- "technical school training"
+
+---
+
+## **Abstract Concepts**
+
+### Success vs Failure Metaphors
+- "upward arrow growth"
+- "downward trend decline"
+- "mountain peak success"
+- "cliff edge danger"
+- "ladder climbing success"
+- "falling domino failure"
+- "broken chain link"
+- "shattered glass broken"
+
+### Time & Patience
+- "hourglass sand time"
+- "clock time passing"
+- "calendar pages"
+- "watch time closeup"
+- "alarm clock morning"
+
+### Data & Analytics
+- "data visualization charts"
+- "statistics graph paper"
+- "pie chart business"
+- "bar graph analysis"
+- "dashboard analytics screen"
+- "metrics performance data"
+
+---
+
+## **Search Strategy Tips**
+
+### Multi-Platform Approach
+1. **Unsplash**: Best for high-quality, modern aesthetic photos
+2. **Pexels**: Good for business/office imagery
+3. **Pixabay**: Larger volume, more variety (but variable quality)
+
+### Search Refinement
+- Start broad, then narrow: "warehouse" → "empty warehouse" → "abandoned warehouse interior"
+- Try synonyms: "entrepreneur" / "business owner" / "startup founder"
+- Use modifiers: "modern", "minimalist", "professional", "realistic"
+
+### Quality Filters
+- Sort by: "Popular" or "Curated" (higher quality)
+- Orientation: "Landscape" for web, "Portrait" for book covers
+- Size: "Large" (minimum 1920px width)
+
+### License Verification
+- Always verify CC0 license on each image
+- Check "Free for commercial use" / "No attribution required"
+- Download from official source (not third-party)
+- Save license info in metadata
+
+---
+
+## **Metadata to Capture**
+
+For each downloaded image, record:
+```json
+{
+  "filename": "warehouse-empty-001.jpg",
+  "source": "unsplash",
+  "photographer": "John Doe",
+  "source_url": "https://unsplash.com/photos/xyz123",
+  "license": "CC0",
+  "attribution_required": false,
+  "download_date": "2025-11-10",
+  "search_query": "empty warehouse industrial",
+  "dimensions": "4000x3000",
+  "file_size_mb": 3.2,
+  "intended_use": "dropshipping chapter illustration",
+  "quality_rating": 8
+}
+```
+
+---
+
+## **Quick Test Searches**
+
+**Run these 5 searches to test MCP integration:**
+
+1. **Unsplash**: "warehouse inventory boxes"
+   - Expected: 10+ results, high quality, commercial use
+
+2. **Pexels**: "stressed entrepreneur laptop"
+   - Expected: 5+ results, realistic business scenes
+
+3. **Pixabay**: "cardboard shipping boxes"
+   - Expected: 20+ results, variable quality
+
+4. **Unsplash**: "empty office space"
+   - Expected: Modern office imagery, professional quality
+
+5. **Pexels**: "financial charts declining"
+   - Expected: Stock market imagery, graphs, analytics
+
+---
+
+**Minimum Success Criteria:**
+- ✅ 3+ relevant images per search
+- ✅ CC0 license confirmed
+- ✅ Resolution > 1920x1080
+- ✅ Download time < 10 seconds
+- ✅ Saved with proper metadata
+
+---
+
+**Last Updated:** November 10, 2025
+**Version:** 1.0
+**Related:** `/infrastructure/testing/image-generation/README.md`

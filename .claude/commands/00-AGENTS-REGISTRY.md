@@ -1,7 +1,7 @@
 # Y-IT Agents System Registry
 
-**Last Updated:** November 9, 2025
-**Total Agents:** 20 (4 Core + 16 Supporting)
+**Last Updated:** November 10, 2025
+**Total Agents:** 21 (4 Core + 17 Supporting)
 **System Status:** ✅ READY FOR DEPLOYMENT
 
 ---
@@ -22,7 +22,7 @@ Examples:
 - **Core Validation (4)** - Mandatory for project success
 - **Content (4)** - Content creation and quality
 - **Design (3)** - Visual design and branding
-- **Infrastructure (4)** - Technical and operational systems
+- **Infrastructure (5)** - Technical and operational systems
 - **Analytics (3)** - Metrics and financial analysis
 - **Marketing (3)** - Growth and sales strategies
 - **Operations (2)** - Contractor management and compliance
@@ -161,9 +161,9 @@ Handle visual design, assets, and brand consistency.
 
 ---
 
-## **INFRASTRUCTURE AGENTS (4)**
+## **INFRASTRUCTURE AGENTS (5)**
 
-Handle technical systems, backups, and deployment.
+Handle technical systems, backups, deployment, and web research automation.
 
 ### 12. `/agent-backup-auditor` 💾
 **Purpose:** Validate backup and disaster recovery systems
@@ -189,25 +189,57 @@ Handle technical systems, backups, and deployment.
 **When to Use:** Pre-launch validation, production readiness gate
 **Status:** ✅ Ready
 
+### 16. `/agent-web-research-orchestrator` 🌐
+**Purpose:** Orchestrate web scraping, real-time research, and image sourcing via MCP servers
+**Key Actions:** scrape, monitor, gather, images, validate, orchestrate
+**When to Use:** Current market research, competitor intelligence, image sourcing, data validation
+**Status:** ✅ Ready
+**MCP Dependencies:** brave-search, puppeteer, fetch, replicate, filesystem
+
+```
+Invocation:
+/agent-web-research-orchestrator [task] [target]
+
+Examples:
+/agent-web-research-orchestrator scrape competitor-pricing dropshipping
+/agent-web-research-orchestrator gather statistics "e-commerce failure rates 2024"
+/agent-web-research-orchestrator images dropshipping warehouse,packages,shipping
+/agent-web-research-orchestrator orchestrate dropshipping full-intel
+```
+
+**Key Features:**
+- Real-time web scraping and data extraction
+- AI image generation (Replicate FLUX, DALL-E)
+- Free CC0 stock photo sourcing (Unsplash, Pexels, Pixabay)
+- Multi-source research aggregation
+- Automated competitor monitoring
+- Commercial license verification
+
+**Deliverables:**
+- Scraped data packages (JSON/CSV/PostgreSQL)
+- Research intelligence reports
+- Image libraries with verified licenses
+- Competitor monitoring dashboards
+
 ---
 
 ## **ANALYTICS AGENTS (3)**
 
 Handle metrics, monitoring, and financial projections.
 
-### 16. `/agent-metrics-designer` 📈
+### 17. `/agent-metrics-designer` 📈
 **Purpose:** Design KPIs and metrics dashboards
 **Key Actions:** kpis, dashboard, tracking, goals, reporting
 **When to Use:** Pre-launch, before Week 7 go-live
 **Status:** ✅ Ready
 
-### 17. `/agent-monitoring-setup` 🔔
+### 18. `/agent-monitoring-setup` 🔔
 **Purpose:** Configure monitoring, alerting, and notifications
 **Key Actions:** setup, alerts, dashboards, notifications, testing
 **When to Use:** Pre-launch, coordinate with metrics designer
 **Status:** ✅ Ready
 
-### 18. `/agent-revenue-modeler` 💰
+### 19. `/agent-revenue-modeler` 💰
 **Purpose:** Create financial projections and profitability analysis
 **Key Actions:** model, scenario, pricing, bundle, breakeven
 **When to Use:** Financial planning, pricing decisions
@@ -219,19 +251,19 @@ Handle metrics, monitoring, and financial projections.
 
 Handle growth strategies, copy, and funnel optimization.
 
-### 19. `/agent-copy-optimizer` ✍️
+### 20. `/agent-copy-optimizer` ✍️
 **Purpose:** Create and optimize marketing copy across all channels
 **Key Actions:** product, email, landing, ads, social, test
 **When to Use:** Before each marketing campaign
 **Status:** ✅ Ready
 
-### 20. `/agent-bundle-strategist` 📦
+### 21. `/agent-bundle-strategist` 📦
 **Purpose:** Design bundling, pricing, and cross-sell strategies
 **Key Actions:** design, pricing, cross-sell, promotion, abtest
 **When to Use:** Pricing strategy, bundle design phase
 **Status:** ✅ Ready
 
-### 21. `/agent-lead-magnet-builder` 🧲
+### 22. `/agent-lead-magnet-builder` 🧲
 **Purpose:** Design and build AI-powered lead magnet system
 **Key Actions:** design, ai-evaluator, funnel, copy, analytics
 **When to Use:** Early setup, week 1-2 planning
@@ -243,13 +275,13 @@ Handle growth strategies, copy, and funnel optimization.
 
 Handle contractor management and legal compliance.
 
-### 22. `/agent-contractor-workflows` 👥
+### 23. `/agent-contractor-workflows` 👥
 **Purpose:** Design and manage contractor relationships
 **Key Actions:** onboarding, communication, handoff, performance, sop
 **When to Use:** Before hiring contractors
 **Status:** ✅ Ready
 
-### 23. `/agent-compliance-auditor` ⚖️
+### 24. `/agent-compliance-auditor` ⚖️
 **Purpose:** Ensure legal compliance and manage contracts
 **Key Actions:** audit, contracts, ftc, ip, risk
 **When to Use:** Legal review, contract creation, pre-launch
