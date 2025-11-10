@@ -1,4 +1,4 @@
-# Y-IT NANO-BOOK: STRATEGIC DECISION SUMMARY
+# Y-It NANO-BOOK: STRATEGIC DECISION SUMMARY
 
 ## CRITICAL DECISIONS (Quick Reference)
 
@@ -28,7 +28,7 @@
 - Time math (hidden killer most miss)
 - Decision framework (honest assessment threshold)
 - One alternative path
-- Cross-sell to other Y-IT books
+- Cross-sell to other Y-It books
 
 **What moves to web only:**
 - Full 1,500-word case studies with interviews
@@ -135,7 +135,7 @@
 - Panel 3: Reality hits - costs bleeding
 - Panel 4: Failure - closing shop
 - Panel 5: Statistics overlay (92% fail)
-- Panel 6: Y-IT message
+- Panel 6: Y-It message
 
 **QR bridge strategy:**
 - Reader sees print image, curious about story
@@ -158,7 +158,7 @@ DIGITAL PDF/ePub ($3.99 via Gumroad)
 ├─ All print content
 ├─ Bonus worksheets (cost tracker, supplier checklist)
 ├─ No Amazon cut (better margin than KDP)
-└─ COGS: $0 | Net margin: $3.79/copy
+└─ COGS: $0.70 | Net margin: $3.29/copy (after 10% + $0.30 Gumroad fees)
 
 WEB INTERACTIVE ($7.99 one-time or $4.99/month)
 ├─ Full print content
@@ -168,7 +168,7 @@ WEB INTERACTIVE ($7.99 one-time or $4.99/month)
 ├─ PDF/ePub downloads
 ├─ Bookmarking, annotations, progress tracking
 ├─ AI evaluator tool (generate personalized roasts)
-├─ Links to related Y-IT books
+├─ Links to related Y-It books
 └─ Platform: Webflow or Kajabi membership
 
 PODCAST (15-25 minutes per nano-book)
@@ -186,7 +186,7 @@ AI EVALUATOR (Free lead magnet)
 ├─ Cites specific chapters + sections from print book
 ├─ Includes CTA to purchase nano-book
 ├─ Email capture for nurture sequence
-└─ Landing page per Y-IT topic (7 evaluators, 7 funnels)
+└─ Landing page per Y-It topic (7 evaluators, 7 funnels)
 ```
 
 ---
@@ -205,10 +205,10 @@ AI EVALUATOR (Free lead magnet)
 **Premium: All Formats (Print + Digital + Web, 1-year) $12.99**
 - vs $21.97 separate ($8.98 savings)
 - Justifies 41% discount because digital/web margins are high
-- Positions as "complete Y-IT experience"
+- Positions as "complete Y-It experience"
 
 **Enterprise: Multi-Book Bundle**
-- All 7 Y-IT nano-books: $14.99 (vs $20.93 separate)
+- All 7 Y-It nano-books: $14.99 (vs $20.93 separate)
 - Annual subscription (all books + formats + updates): $99/year
 - Strategy: Upsell after first book, then bundle
 
@@ -223,34 +223,34 @@ User input: "Eco-friendly phone cases, $24.99, targeting conscious consumers"
 
 AI roast (1-2 page PDF):
 ├─ "You're seller #2,848 in 2,847 competitor market"
-│  (References: Y-IT Chapter 3, page 5)
+│  (References: Y-It Chapter 3, page 5)
 │
 ├─ Cost math: Supplier $6.50 + Shipping $4.20 + Fees $3.75 + Ads $18-35
 │  Your profit: -$8.45 per sale
-│  (References: Y-IT Chapter 2, page 3-4)
+│  (References: Y-It Chapter 2, page 3-4)
 │
 ├─ "This mirrors Case Study #2: The Spiritual Wellness Type"
 │  She also believed market passion = sales success
-│  (References: Y-IT Chapter 4, page 5-6)
+│  (References: Y-It Chapter 4, page 5-6)
 │  → "Read her full story on interactive version"
 │
 └─ "Your survival odds: 2.3%"
-   (References: Y-IT Chapter 7: Decision Framework)
+   (References: Y-It Chapter 7: Decision Framework)
 
 Call-to-action:
 ├─ [Get Print: $2.99]
 ├─ [Get Digital + Interactive: $4.99]
-└─ [Get All 7 Y-IT Books: $14.99]
+└─ [Get All 7 Y-It Books: $14.99]
 
 Email capture:
 ├─ "Your roast is ready" (day 0)
 ├─ Case Study #2 excerpt (day 3)
-├─ Related Y-IT book recommendation (day 7)
+├─ Related Y-It book recommendation (day 7)
 └─ "Last chance" bundle discount (day 14)
 ```
 
 **Design requirement:**
-- Chapters must be numbered consistently across all 7 Y-IT books
+- Chapters must be numbered consistently across all 7 Y-It books
 - Case studies must be numbered + named (enables exact citations)
 - Key statistics must be highlighted/boxed
 - Page numbers in TOC must be accurate
@@ -286,25 +286,25 @@ Email capture:
 
 **Scenario 1: 100 copies/month (conservative)**
 - Print revenue: 100 × $0.85 = $85/month
-- Digital revenue: 20 × $3.79 = $76/month
+- Digital revenue: 20 × $3.29 = $66/month
 - Web subscription: 10 × $4.99 = $50/month
-- **Total: $211/month**
-- **Payoff: 24-47 months** (not viable unless volume increases)
+- **Total: $201/month**
+- **Payoff: 25-50 months** (not viable unless volume increases)
 
-**Scenario 2: 500 copies/month (realistic success)**
+**Scenario 2: 500 copies/month (realistic success - Tier 1 topics)**
 - Print revenue: 500 × $0.85 = $425/month
-- Digital revenue: 100 × $3.79 = $379/month
+- Digital revenue: 100 × $3.29 = $329/month
 - Web subscription: 50 × $4.99 = $250/month
-- **Total: $1,054/month**
-- **Payoff: 2-5 months** ✓
+- **Total: $1,004/month**
+- **Payoff: 3-6 months** ✓
 
 **Scenario 3: 1,000+ copies/month (viral)**
 - Print revenue: 1,000 × $0.85 = $850/month
-- Digital revenue: 300 × $3.79 = $1,137/month
+- Digital revenue: 300 × $3.29 = $987/month
 - Web subscription: 150 × $4.99 = $749/month
 - Bundle sales: 200 × $5.99 = $1,198/month
-- **Total: $3,934/month**
-- **Payoff: 2-3 weeks** ✓✓
+- **Total: $3,784/month**
+- **Payoff: 1-2 months** ✓✓
 
 **Critical factor:** AI evaluator lead magnet accelerates volume (captures emails for nurturing, reduces customer acquisition cost)
 
@@ -352,7 +352,7 @@ Email capture:
 - ✓ AI evaluator: Seamless lead → customer journey
 - ✓ Each format: References others without feeling incomplete
 - ✓ Bundling: Economic logic (price = perceived value)
-- ✓ Behavior change: Prevents bad decisions (Y-IT mission)
+- ✓ Behavior change: Prevents bad decisions (Y-It mission)
 - ✓ Statistical honesty: No false hope
 - ✓ Pricing justified: $2.99 print / $7.99 web / $99 annual
 - ✓ Producible: 1-2 weeks per topic (realistic timeline)

@@ -1,8 +1,8 @@
-# Y-IT WEB PLATFORM ARCHITECTURE
+# Y-It WEB PLATFORM ARCHITECTURE
 
 ## Overview
 
-Complete architecture for the Y-IT web platform supporting:
+Complete architecture for the Y-It web platform supporting:
 - 50 nano-books with universal content delivery
 - AI-powered evaluator (lead magnet) with email capture
 - Multi-format experience (web, print, digital, podcast)
@@ -59,7 +59,7 @@ Complete architecture for the Y-IT web platform supporting:
    ├─ Download links (if digital/bundle)
    ├─ Shipping tracking (if print)
    ├─ Account access: /my-purchases
-   └─ Cross-sell: other Y-IT books, annual subscription
+   └─ Cross-sell: other Y-It books, annual subscription
 
 7. REPEAT PURCHASE / SUBSCRIPTION
    ├─ Browse other topics
@@ -83,7 +83,7 @@ Framework: Next.js 14+ (React + Node.js)
 UI Framework: Tailwind CSS + Headless UI
   - Rapid responsive design
   - Consistent across all topics
-  - Dark mode support (Y-IT aesthetic)
+  - Dark mode support (Y-It aesthetic)
 
 Client State: TanStack Query (React Query)
   - API caching and synchronization
@@ -152,14 +152,14 @@ Analytics: Vercel Analytics + Custom Events
 
 ```
 Components:
-  - Hero: Y-IT brand message + search topics
+  - Hero: Y-It brand message + search topics
   - Featured topics: (3-4 trending topics)
   - How it works: (visual explainer)
   - Evaluator CTA: "Roast Your Idea Now"
   - All topics grid: (browseable, searchable)
   - Testimonials/social proof
   - FAQ
-  - Email signup: Subscribe to Y-IT insights
+  - Email signup: Subscribe to Y-It insights
 ```
 
 #### 2. Topic Homepage `/[topic-slug]`
@@ -755,7 +755,7 @@ const generatePurchaseLink = (topicId, purchaseType) => {
 };
 
 // Pixel tracking for external conversions
-// Embed tracking pixel in KDP/Gumroad landing pages to track back to Y-IT
+// Embed tracking pixel in KDP/Gumroad landing pages to track back to Y-It
 const trackExternalConversion = (source, referrer) => {
   // Logs to Google Analytics, ConvertKit
   analytics.track('external_purchase_initiated', {
@@ -1097,6 +1097,6 @@ Services:
 
 ---
 
-*Y-IT Web Platform Architecture v1.0*
+*Y-It Web Platform Architecture v1.0*
 *Universal Topic-Agnostic Design*
 *Ready for Dropshipping Validation Test (Week 7)*

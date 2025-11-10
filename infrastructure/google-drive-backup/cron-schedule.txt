@@ -1,0 +1,180 @@
+# ============================================================================
+# Y-IT Google Drive Backup - Cron Job Configuration
+# ============================================================================
+#
+# This file contains recommended cron schedules for automated backups.
+# Copy the desired schedule(s) to your crontab.
+#
+# To edit crontab: crontab -e
+# To view crontab: crontab -l
+# To remove crontab: crontab -r
+#
+# Cron format: MIN HOUR DAY MONTH WEEKDAY COMMAND
+# MIN:     0-59
+# HOUR:    0-23
+# DAY:     1-31
+# MONTH:   1-12
+# WEEKDAY: 0-7 (0 and 7 are Sunday)
+#
+# Special characters:
+# *  = any value
+# ,  = value list separator (e.g., 1,3,5)
+# -  = range (e.g., 1-5)
+# /  = step values (e.g., */15 = every 15 minutes)
+#
+# ============================================================================
+
+# ----------------------------------------------------------------------------
+# RECOMMENDED SCHEDULE (Matches AWS S3 backup frequency)
+# ----------------------------------------------------------------------------
+
+# Hourly database backup (every hour at minute 0)
+# Matches existing AWS S3 backup for redundancy
+0 * * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=database >> /var/log/yit-gdrive-backup.log 2>&1
+
+# Daily configuration backup (2 AM every day)
+# Backs up .env, package.json, infrastructure files
+0 2 * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=config >> /var/log/yit-gdrive-backup.log 2>&1
+
+# ----------------------------------------------------------------------------
+# ALTERNATIVE SCHEDULES
+# ----------------------------------------------------------------------------
+
+# Option 1: HOURLY FULL BACKUP (Database + Config)
+# Use this if you want everything backed up every hour
+# Warning: More storage usage, slower execution
+# 0 * * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=full >> /var/log/yit-gdrive-backup.log 2>&1
+
+# Option 2: EVERY 6 HOURS (Database only)
+# Reduces frequency while maintaining regular backups
+# Runs at: 12 AM, 6 AM, 12 PM, 6 PM
+# 0 */6 * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=database >> /var/log/yit-gdrive-backup.log 2>&1
+
+# Option 3: EVERY 4 HOURS (Database only)
+# Runs at: 12 AM, 4 AM, 8 AM, 12 PM, 4 PM, 8 PM
+# 0 */4 * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=database >> /var/log/yit-gdrive-backup.log 2>&1
+
+# Option 4: EVERY 2 HOURS (Database only)
+# For high-frequency changes, lower RPO
+# 0 */2 * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=database >> /var/log/yit-gdrive-backup.log 2>&1
+
+# Option 5: DAILY FULL BACKUP (Off-peak hours)
+# Single comprehensive backup each day at 3 AM
+# 0 3 * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=full >> /var/log/yit-gdrive-backup.log 2>&1
+
+# Option 6: TWICE DAILY (Business hours consideration)
+# Runs at 8 AM and 8 PM
+# 0 8,20 * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=database >> /var/log/yit-gdrive-backup.log 2>&1
+
+# Option 7: WEEKLY CONFIG BACKUP ONLY
+# Sunday at 3 AM (for config files that change infrequently)
+# 0 3 * * 0 cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=config >> /var/log/yit-gdrive-backup.log 2>&1
+
+# ----------------------------------------------------------------------------
+# CUSTOM RETENTION SCHEDULES
+# ----------------------------------------------------------------------------
+
+# Hourly with 7-day retention (for testing)
+# 0 * * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=database --retention-days=7 >> /var/log/yit-gdrive-backup.log 2>&1
+
+# Daily with 60-day retention (compliance requirement)
+# 0 2 * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=full --retention-days=60 >> /var/log/yit-gdrive-backup.log 2>&1
+
+# Weekly with 90-day retention (long-term archive)
+# 0 4 * * 0 cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=full --retention-days=90 >> /var/log/yit-gdrive-backup.log 2>&1
+
+# ----------------------------------------------------------------------------
+# PRODUCTION BEST PRACTICES
+# ----------------------------------------------------------------------------
+
+# RECOMMENDED FOR Y-IT PRODUCTION:
+# - Hourly database backups (matches AWS S3)
+# - Daily config backups (low overhead)
+# - 30-day retention (standard policy)
+#
+# This provides:
+# - RTO: <1 hour (can restore from latest hourly backup)
+# - RPO: <1 hour (max 1 hour of data loss)
+# - Storage: ~15GB for 30 days of hourly backups (assuming 500MB avg dump)
+
+# Production schedule (copy these two lines to crontab):
+0 * * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=database >> /var/log/yit-gdrive-backup.log 2>&1
+0 2 * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=config >> /var/log/yit-gdrive-backup.log 2>&1
+
+# ----------------------------------------------------------------------------
+# MONITORING & ALERTING CRON JOBS
+# ----------------------------------------------------------------------------
+
+# Check if last backup succeeded (runs every 2 hours)
+# Sends alert if no backup in last 90 minutes
+# 0 */2 * * * /home/user/Y-it-nano/infrastructure/google-drive-backup/check-backup-status.sh >> /var/log/yit-backup-monitor.log 2>&1
+
+# Weekly backup report (Sunday at 9 AM)
+# Sends summary of backup activity to Slack/email
+# 0 9 * * 0 /home/user/Y-it-nano/infrastructure/google-drive-backup/backup-report.sh >> /var/log/yit-backup-report.log 2>&1
+
+# ----------------------------------------------------------------------------
+# LOG ROTATION
+# ----------------------------------------------------------------------------
+
+# Rotate backup logs weekly (Sunday at 11 PM)
+# Keeps logs from growing indefinitely
+# 0 23 * * 0 /usr/sbin/logrotate /etc/logrotate.d/yit-gdrive-backup
+
+# ----------------------------------------------------------------------------
+# TESTING SCHEDULE (Use for initial setup validation)
+# ----------------------------------------------------------------------------
+
+# Run every 5 minutes (for testing only)
+# */5 * * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=config >> /var/log/yit-gdrive-backup-test.log 2>&1
+
+# Run every 15 minutes (for testing only)
+# */15 * * * * cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=database >> /var/log/yit-gdrive-backup-test.log 2>&1
+
+# ----------------------------------------------------------------------------
+# NOTES
+# ----------------------------------------------------------------------------
+
+# 1. Always use absolute paths in cron jobs
+# 2. Redirect output to log file (>> /var/log/...)
+# 3. Use 2>&1 to capture both stdout and stderr
+# 4. Test cron job manually first:
+#    cd /home/user/Y-it-nano/infrastructure/google-drive-backup && /usr/bin/node backup-to-gdrive.js --type=config
+# 5. Monitor cron execution:
+#    tail -f /var/log/yit-gdrive-backup.log
+# 6. Check cron daemon is running:
+#    sudo systemctl status cron
+# 7. Set up log rotation to prevent disk space issues
+# 8. Consider using systemd timers for more robust scheduling
+
+# ----------------------------------------------------------------------------
+# ENVIRONMENT VARIABLES IN CRON
+# ----------------------------------------------------------------------------
+
+# Cron runs with minimal environment. If you need custom PATH or env vars:
+
+# Set PATH at the top of crontab:
+# PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin
+
+# Or source environment in the command:
+# 0 * * * * source /home/user/.bashrc && cd /home/user/Y-it-nano/infrastructure/google-drive-backup && node backup-to-gdrive.js
+
+# Or use a wrapper script:
+# 0 * * * * /home/user/Y-it-nano/infrastructure/google-drive-backup/run-backup.sh
+
+# ----------------------------------------------------------------------------
+# TROUBLESHOOTING
+# ----------------------------------------------------------------------------
+
+# If cron job doesn't run:
+# 1. Check cron service: sudo systemctl status cron
+# 2. Check cron logs: sudo tail -f /var/log/syslog | grep CRON
+# 3. Verify user crontab: crontab -l
+# 4. Test command manually from cron user context
+# 5. Check file permissions (script must be executable)
+# 6. Verify absolute paths are correct
+# 7. Check environment variables are available
+
+# ----------------------------------------------------------------------------
+# END OF FILE
+# ----------------------------------------------------------------------------

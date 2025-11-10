@@ -1,0 +1,43 @@
+{
+  "name": "y-it-topic-backup-system",
+  "version": "1.0.0",
+  "description": "Intelligent progressive backup system for Y-IT nano-book production workflow",
+  "main": "topic-backup-sync.js",
+  "scripts": {
+    "watch": "node watch-production-folder.js",
+    "sync": "node topic-backup-sync.js",
+    "validate": "node validate-topic-structure.js",
+    "restore": "node restore-topic.js",
+    "report": "node sync-report.js",
+    "dashboard": "node -e \"require('http').createServer((req,res)=>{res.writeHead(200,{'Content-Type':'text/html'});res.end(require('fs').readFileSync('dashboard.html'));}).listen(3000);console.log('Dashboard: http://localhost:3000')\"",
+    "setup": "node setup-database.js",
+    "test": "node test-sync.js"
+  },
+  "keywords": [
+    "backup",
+    "google-drive",
+    "sync",
+    "production-workflow",
+    "incremental-backup"
+  ],
+  "author": "Y-IT Production Team",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^128.0.0",
+    "chokidar": "^3.5.3",
+    "better-sqlite3": "^9.2.2",
+    "dotenv": "^16.3.1",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1",
+    "cli-table3": "^0.6.3",
+    "inquirer": "^8.2.6",
+    "mime-types": "^2.1.35",
+    "zlib": "^1.0.5",
+    "md5-file": "^5.0.0",
+    "node-fetch": "^2.7.0",
+    "date-fns": "^2.30.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

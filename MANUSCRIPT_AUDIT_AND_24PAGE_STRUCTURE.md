@@ -1,7 +1,7 @@
-# Y-IT MANUSCRIPT AUDIT: COMPLETE ANALYSIS & 24-PAGE KDP STRUCTURE
+# Y-It MANUSCRIPT AUDIT: COMPLETE ANALYSIS & 24-PAGE KDP STRUCTURE
 
 **Date:** November 8, 2025
-**Manuscript:** Y-IT: Why Your Dropship Probably Will Fail (Complete)
+**Manuscript:** Y-It: Why Your Dropship Probably Will Fail (Complete)
 **Format Target:** 24-page KDP (6×9" trade paperback)
 **Current State:** 15,000-18,000 words, 10 chapters + appendices
 
@@ -46,7 +46,7 @@
 | **9-10** | What Actually Works Instead | Ch 9 section | 400 | 3 alternatives to dropshipping |
 | **10-11** | If You're Still Here | Ch 10 adaptation | 300 | Guardrails for the committed |
 | **11-12** | Conclusion | Original closing | 200 | Final reality check |
-| **12-14** | Back Cover + Cross-Sell | Ch 10 cross-sell | 300 | Other Y-IT books, web version, podcast |
+| **12-14** | Back Cover + Cross-Sell | Ch 10 cross-sell | 300 | Other Y-It books, web version, podcast |
 | | | **CORE SUBTOTAL** | **~4,900 words** | Complete, standalone read (20-25 min) |
 
 ---
@@ -64,7 +64,7 @@
 | **20-21** | International Shipping Guide | Ch 7 (condensed) | 300 | Customs, shipping timeline, currency issues |
 | **21-22** | Success Factor Analysis | Ch 6 + new data | 250 | What actual winners had in common |
 | **22-23** | Alternatives Deep-Dive | Ch 9 expanded | 300 | Service biz, digital products, auth e-commerce |
-| **23-24** | Resources & Next Steps | Ch 10 expanded | 300 | Other Y-IT books, web version details, email signup |
+| **23-24** | Resources & Next Steps | Ch 10 expanded | 300 | Other Y-It books, web version details, email signup |
 | | | **ADDENDUM SUBTOTAL** | **~2,900 words** | Reference section, bookmarkable & shareable |
 | | | **TOTAL 24 PAGES** | **~7,800 words** | KDP compliant, professional, complete |
 
@@ -158,7 +158,7 @@ These sections stay print-accessible for AI roast citations:
 
 **Inside Front Cover:**
 - Author tagline: "We tell you why upfront"
-- Y-IT Mission (100 words): "Statistical honesty over motivational fluff"
+- Y-It Mission (100 words): "Statistical honesty over motivational fluff"
 - Table of Contents (compact)
 
 ---
@@ -296,7 +296,7 @@ These sections stay print-accessible for AI roast citations:
 - "You Beautiful, Stubborn Fool"
 - Your honesty contract (5-point commitment)
 - And if it does work out? (luck acknowledgment)
-- Cross-sell: Next Y-IT books preview
+- Cross-sell: Next Y-It books preview
 - "Want more brutal honesty?"
 
 **Word count:** ~300 words
@@ -312,7 +312,7 @@ These sections stay print-accessible for AI roast citations:
 - Key takeaway: "The biggest money in dropshipping isn't made by dropshippers"
 
 **Right Page (Back Cover):**
-- About Y-IT Series (50 words)
+- About Y-It Series (50 words)
 - Next books coming:
   - "Why Your T-Shirt Empire Ended Before It Printed"
   - "Why Your Amazon Links Are Lonely"
@@ -738,7 +738,7 @@ Success rate: 20-40% (vs 4% dropshipping)
 
 ### PAGES 23-24: RESOURCES & NEXT STEPS (2 PAGES)
 
-**Other Y-IT Guides Coming Soon**
+**Other Y-It Guides Coming Soon**
 
 **"Why Your T-Shirt Empire Ended Before It Printed" (Print-on-Demand)**
 ```

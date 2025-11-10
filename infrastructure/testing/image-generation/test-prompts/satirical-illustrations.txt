@@ -1,0 +1,182 @@
+# Satirical Illustration Prompts for AI Image Generation
+
+**Purpose:** Generate custom satirical illustrations for Y-IT nano-books
+**Tone:** Humorous, slightly cynical, data-driven satire
+**Style:** Business illustration, editorial cartoon, infographic
+
+---
+
+## **Dropshipping Topic**
+
+### Cover/Hero Images
+1. "Satirical cartoon of an entrepreneur drowning in a sea of unsold dropshipping inventory boxes, warehouse setting, muted business colors, editorial illustration style"
+
+2. "Humorous business illustration showing a tiny entrepreneur standing next to a massive pile of Amazon return boxes, overwhelmed expression, modern flat design"
+
+3. "Realistic digital illustration of empty warehouse with 'GOING OUT OF BUSINESS' signs, abandoned shipping materials scattered around, dramatic lighting"
+
+### Concept Illustrations
+4. "Infographic-style comparison diagram: left side shows guru's promised success funnel (upward arrow), right side shows reality funnel (downward spiral), satirical business illustration"
+
+5. "Editorial cartoon of person watching laptop screen showing '0 SALES' while surrounded by motivational guru posters on wall, ironic contrast, business illustration style"
+
+6. "Satirical pie chart made of actual pie slices, labeled with dropshipping failure reasons, business humor illustration, professional color palette"
+
+### Case Study Illustrations
+7. "Minimalist illustration of calendar pages flying away representing '6 months wasted', money bills flying away too, simple symbolic business art"
+
+8. "Business cartoon showing person at computer with credit card bills piling up, empty shopping cart on screen, debt visualization"
+
+---
+
+## **Print on Demand Topic**
+
+### Cover/Hero Images
+1. "Satirical illustration of artist/designer sitting on floor surrounded by thousands of unsold t-shirts with terrible designs, overwhelmed expression, editorial style"
+
+2. "Humorous business illustration showing a person holding a single dollar bill while standing in front of printing press producing hundreds of shirts, ironic contrast"
+
+### Concept Illustrations
+3. "Infographic showing POD marketplace competition: one tiny seller among thousands of identical sellers, visual metaphor for saturation, business diagram style"
+
+4. "Editorial cartoon of person designing 1000th generic 'motivational quote t-shirt' with exhausted expression, laptop screen showing Printful/Redbubble, satirical"
+
+---
+
+## **Affiliate Marketing Topic**
+
+### Cover/Hero Images
+1. "Satirical business illustration of person posting affiliate links into void of internet, links disappearing into black hole, modern digital art style"
+
+2. "Humorous cartoon showing person with megaphone shouting affiliate links while everyone around them wears headphones/ignores them, social media setting"
+
+### Concept Illustrations
+3. "Infographic-style funnel showing: 10,000 clicks → 100 signups → 1 sale, visual representation of terrible conversion rates, professional business diagram"
+
+4. "Editorial illustration of person building 'niche website' with playing cards (unstable), Google algorithm change wind blowing it down, business metaphor"
+
+---
+
+## **Social Media Influencer Topic**
+
+### Cover/Hero Images
+1. "Satirical illustration of influencer taking selfie in front of ring light while eviction notice is visible on door behind them, ironic contrast, editorial style"
+
+2. "Humorous business cartoon showing person with 50,000 followers but empty bank account, phone notifications vs reality bills visual contrast"
+
+### Concept Illustrations
+3. "Infographic comparing follower count (huge number) to actual income (tiny number), visual disparity illustration, professional business diagram style"
+
+4. "Editorial cartoon of influencer posting sponsored content while surrounded by boxes of products they can't afford, debt visualization, satirical tone"
+
+---
+
+## **Coaching/Course Creation Topic**
+
+### Cover/Hero Images
+1. "Satirical illustration of person creating 'how to get rich' course while living in tiny apartment eating ramen, ironic contrast, editorial style"
+
+2. "Humorous business cartoon showing endless recursive loop: guru teaching how to become guru teaching how to become guru, visual paradox"
+
+### Concept Illustrations
+3. "Infographic showing course creator income: 95% from selling 'how to make courses' courses, 5% from actual valuable skills, pie chart satire"
+
+4. "Editorial illustration of person with no qualifications wearing 'EXPERT' badge teaching classroom of skeptical students, credibility humor"
+
+---
+
+## **Cryptocurrency Trading Topic**
+
+### Cover/Hero Images
+1. "Satirical business illustration of person watching crypto charts plummet on multiple monitors, losing money in real-time, stress visualization, editorial style"
+
+2. "Humorous cartoon showing trader following 'crypto guru' advice off cliff lemming-style, financial loss metaphor, business satire"
+
+### Concept Illustrations
+3. "Infographic-style graph showing: guru's promised returns (hockey stick up) vs actual results (cliff drop down), visual irony, professional diagram"
+
+4. "Editorial illustration of person gambling at casino but the slot machine is labeled 'ALTCOIN TRADING', equivalence metaphor, satirical tone"
+
+---
+
+## **General Business Concept Illustrations**
+
+### Guru Satire
+1. "Satirical cartoon of generic business guru on stage with giant '$997 COURSE' price tag, crowd of hopeful people with empty wallets, editorial style"
+
+2. "Humorous illustration showing guru's Lamborghini with tiny text 'paid for by selling courses, not from method taught', ironic fine print visual"
+
+### Failure Visualizations
+3. "Business diagram showing 'survivorship bias': 1 successful person spotlighted, 99 failed people in dark background, statistical visualization"
+
+4. "Infographic timeline: Month 1 (excitement), Month 3 (doubt), Month 6 (giving up), emotional journey visualization, professional business illustration"
+
+### Reality Checks
+5. "Editorial cartoon comparing guru's marketing (glamorous laptop lifestyle) vs reality (grinding work, stress, no income), split-screen contrast"
+
+6. "Satirical illustration of 'passive income' showing person actively working 80 hours/week to maintain 'passive' system, ironic visual"
+
+---
+
+## **Style Guidelines for AI Generation**
+
+**Color Palette:**
+- Muted business colors (navy, grey, burnt orange, muted teal)
+- Avoid overly bright/cheerful colors
+- Professional but slightly cynical tone
+
+**Style References:**
+- "Editorial cartoon style like The Economist"
+- "Business illustration like Harvard Business Review"
+- "Infographic style like Visual Capitalist"
+- "Modern flat design with subtle texture"
+
+**Composition:**
+- Clear focal point
+- Visual metaphors and symbolism
+- Readable at thumbnail size
+- Scalable for print (vector-friendly)
+
+**Avoid:**
+- Generic motivational imagery
+- Overly complex compositions
+- Copyrighted characters/logos
+- Offensive stereotypes
+
+---
+
+## **Technical Specifications**
+
+**For Print:**
+- Resolution: 3000x3000px minimum (300 DPI)
+- Format: PNG with transparency or high-quality JPG
+- Color space: CMYK-safe RGB
+
+**For Web:**
+- Resolution: 1920x1080px minimum
+- Format: PNG or JPG optimized for web
+- File size: < 500KB preferred
+
+---
+
+## **Prompt Engineering Tips**
+
+1. **Be specific about style**: Always include "business illustration style" or "editorial cartoon"
+2. **Specify colors**: "muted business colors, professional color palette"
+3. **Include composition details**: "centered composition, clear focal point"
+4. **Add quality markers**: "high quality, professional, detailed"
+5. **Mention brand alignment**: "satirical tone, data-driven humor"
+
+**Example Well-Formed Prompt:**
+```
+"Satirical business illustration showing overwhelmed entrepreneur drowning in
+unsold dropshipping inventory boxes in warehouse setting, muted professional
+color palette (navy, grey, burnt orange), editorial cartoon style like The
+Economist, centered composition, high quality, detailed"
+```
+
+---
+
+**Last Updated:** November 10, 2025
+**Version:** 1.0
+**Related:** `/infrastructure/testing/image-generation/README.md`

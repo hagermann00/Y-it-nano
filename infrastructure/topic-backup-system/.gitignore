@@ -1,0 +1,45 @@
+# Environment and credentials
+.env
+.tokens.json
+credentials.json
+service-account-key.json
+
+# Database
+sync-state.db
+sync-state.db-shm
+sync-state.db-wal
+*.db.backup
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+temp/
+*.tmp
+*.temp
+
+# Reports
+sync-report.json
+sync-report.csv
+sync-report.html
+*.report.*
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test files
+test-data/
+test-output/

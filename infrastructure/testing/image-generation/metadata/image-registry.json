@@ -1,0 +1,71 @@
+{
+  "metadata_version": "1.0",
+  "last_updated": "2025-11-10",
+  "total_images": 0,
+  "total_cost": 0.0,
+  "images": [],
+  "example_entry": {
+    "id": "img-001",
+    "filename": "dropshipping-warehouse-failure-01-replicate.png",
+    "source": "replicate-flux",
+    "source_url": "https://replicate.com/...",
+    "prompt": "Satirical cartoon of overwhelmed entrepreneur drowning in unsold dropshipping inventory boxes",
+    "model": "black-forest-labs/flux-1.1-pro",
+    "license": "commercial-use-allowed",
+    "attribution_required": false,
+    "cost": 0.04,
+    "generated_date": "2025-11-10",
+    "dimensions": "2048x2048",
+    "file_size_mb": 2.3,
+    "topic": "dropshipping",
+    "use_case": "chapter-illustration",
+    "quality_score": 9,
+    "approved_for_print": true,
+    "approved_for_web": true,
+    "tags": ["satirical", "warehouse", "inventory", "failure", "entrepreneur"],
+    "notes": "High quality, perfect for satirical tone. Generated on first attempt."
+  },
+  "statistics": {
+    "by_source": {
+      "replicate-flux": 0,
+      "unsplash": 0,
+      "pexels": 0,
+      "pixabay": 0,
+      "dall-e": 0,
+      "midjourney": 0
+    },
+    "by_topic": {
+      "dropshipping": 0,
+      "print-on-demand": 0,
+      "affiliate-marketing": 0,
+      "crypto-trading": 0,
+      "influencer": 0
+    },
+    "total_cost_by_source": {
+      "replicate-flux": 0.0,
+      "dall-e": 0.0,
+      "midjourney": 0.0,
+      "unsplash": 0.0,
+      "pexels": 0.0,
+      "pixabay": 0.0
+    },
+    "average_quality_score": 0.0,
+    "images_approved_print": 0,
+    "images_approved_web": 0
+  },
+  "license_types": {
+    "commercial-use-allowed": "Can be used in for-profit commercial documents",
+    "cc0": "Creative Commons Zero - Public domain, no attribution required",
+    "cc-by": "Creative Commons Attribution - Attribution required",
+    "proprietary-paid": "Paid license with commercial rights"
+  },
+  "quality_score_rubric": {
+    "10": "Perfect - Exceptional quality, exactly matches needs",
+    "9": "Excellent - Very high quality, minor improvements possible",
+    "8": "Good - High quality, meets all requirements",
+    "7": "Acceptable - Usable, some quality concerns",
+    "6": "Below standard - Usable with edits",
+    "5": "Marginal - Borderline acceptable",
+    "1-4": "Reject - Does not meet standards"
+  }
+}
