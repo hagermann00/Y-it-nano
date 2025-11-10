@@ -20,12 +20,33 @@
 
 ---
 
+## Queued Topics (Phase 0 - Parallel Spin-Out)
+
+| Slug | Full Title | Status | Batch | Tier | Start Date | Notes |
+|------|-----------|--------|-------|------|------------|-------|
+| crypto-day-trading | Cryptocurrency Day Trading: The Leverage Trap | Queued | A | 1 | 2025-11-10 | Phase 0 initialized - awaiting research execution |
+| real-estate-wholesaling | Real Estate Wholesaling: The Hidden Costs | Queued | B | 1 | 2025-11-10 | Phase 0 initialized - awaiting research execution |
+| onlyfans-creator | OnlyFans Creator Economy: The Exposure Myth | Queued | B | 1 | 2025-11-10 | Phase 0 initialized - awaiting research execution |
+| crypto-nft-creation | Crypto NFT Creation: The Hype Cycle | Queued | C | 2 | 2025-11-10 | Phase 0 initialized - awaiting research execution |
+| freelance-writing | Freelance Writing: The Race to Bottom | Queued | C | 2 | 2025-11-10 | Phase 0 initialized - awaiting research execution |
+| virtual-assistant-service | Virtual Assistant Service: The Commoditization | Queued | C | 2 | 2025-11-10 | Phase 0 initialized - awaiting research execution |
+
+---
+
 ## Batch A Status Summary
 
 **Total Topics:** 7
 **Research Complete:** 1 (dropshipping)
 **Research In Progress:** 6 (parallel execution)
 **Target Completion:** November 16-17, 2025
+
+---
+
+## Phase 0 Queue Status Summary
+
+**Total Topics:** 6
+**Phase 0 Initialized:** 6 (parallel spin-out)
+**Awaiting Research Execution:** November 17-23, 2025
 
 ---
 
