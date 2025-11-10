@@ -172,7 +172,7 @@ ANALYTICS & MONETIZATION
 ├─ Customer LTV tracking
 ├─ Email metrics: open, click, conversion rates
 ├─ Per-topic ROI dashboard
-└─ Financial: Break-even at ~17 months per topic, $53K+/month at scale
+└─ Financial: Break-even at ~18-22 months, $39K-$55K/month at scale
 
 DATABASE (Universal Schema)
 ├─ 15 core tables (all keyed by topic_id)
@@ -278,8 +278,8 @@ PRODUCTION TIMELINE (50 Topics)
 ### By Week 21 (All 50 Topics Live)
 - 5,000+ unique customers
 - $50,000+ cumulative revenue
-- 50 topics generating $1,100+ each monthly
-- $53,700+ monthly revenue (all channels)
+- 50 topics generating ~$913 average monthly (tiered: $262-$1,257)
+- $39,000-$55,000 monthly revenue (all channels)
 - <15% customer churn
 - >50% repeat purchase rate
 

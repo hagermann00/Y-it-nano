@@ -387,7 +387,7 @@ Remote:
 
 ## FINANCIAL MODEL STATUS
 
-### Current Projections (NEED CORRECTION)
+### Current Projections (✅ CORRECTED)
 
 **Original (Overstated):**
 - Monthly revenue per topic: $1,104
@@ -396,30 +396,33 @@ Remote:
 
 **Corrected (Realistic):**
 - Monthly revenue per topic: $913 (average across tiers)
-- Annual portfolio (50 topics): $530K-$624K
+- Annual portfolio (50 topics): $472K-$624K
 - Payback period: 18-22 months
 
-**Variance:** -17.7% revenue overstatement
+**Variance:** -17.7% revenue overstatement (now corrected)
 
-### Specific Corrections Needed
+### Specific Corrections Applied ✅
 
 1. **Gumroad Margin:**
-   - Change from: $3.79 net margin
-   - Change to: $3.29 net margin (after 10% + $0.30 fees)
+   - Changed from: $3.79 net margin
+   - Changed to: $3.29 net margin (after 10% + $0.30 fees)
+   - ✅ CORRECTED in all documents
 
 2. **Print Sales by Tier:**
-   - Tier 1: 500/month (realistic)
+   - Tier 1: 500/month
    - Tier 2: 300/month
    - Tier 3: 200/month
    - Tier 4: 150/month
    - Tier 5: 100/month
    - Average: 250/month (not 500 across all)
+   - ✅ CORRECTED with tiered model
 
 3. **Subscription Uptake:**
-   - Change from: 30 subs/month/topic
-   - Change to: 5-15 subs/month/topic
+   - Changed from: 30 subs/month/topic
+   - Changed to: 5-15 subs/month/topic (tiered by topic popularity)
+   - ✅ CORRECTED in all projections
 
-**Status:** ❌ NOT CORRECTED IN DOCUMENTS YET
+**Status:** ✅ ALL CORRECTIONS APPLIED
 
 ---
 
