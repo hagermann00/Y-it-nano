@@ -1,0 +1,15 @@
+{
+  "name": "yit-image-generator",
+  "version": "1.0.0",
+  "description": "Parallel book cover generation across multiple AI platforms",
+  "main": "parallel-book-cover-generator.js",
+  "scripts": {
+    "generate": "node parallel-book-cover-generator.js",
+    "test": "node parallel-book-cover-generator.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
