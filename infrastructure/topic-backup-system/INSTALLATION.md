@@ -1,6 +1,6 @@
 # Installation & Quick Start
 
-**5-minute setup guide for the Y-IT Topic Backup System**
+**5-minute setup guide for the Y-It Topic Backup System**
 
 ## Prerequisites
 
@@ -239,6 +239,6 @@ Y-IT-Production/
 
 ---
 
-**You're now ready to backup all Y-IT production files safely and automatically!**
+**You're now ready to backup all Y-It production files safely and automatically!**
 
 Start with: `npm run watch`

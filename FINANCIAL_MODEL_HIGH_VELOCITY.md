@@ -1,4 +1,4 @@
-# Y-IT FINANCIAL MODEL: HIGH-VELOCITY EXECUTION
+# Y-It FINANCIAL MODEL: HIGH-VELOCITY EXECUTION
 ## Bootstrapped <$1K + Automated Systems + Rapid Execution
 
 **Actual Execution Data (Nov 8, 2025):**
@@ -190,7 +190,7 @@
 1. Reddit/forum scraping for failure stories (1.5 hrs)
 2. AI drafting of 7-11 case studies using framework (2 hrs)
 3. Anonymization and composite character building (1 hr)
-4. Editing for Y-IT voice and tone (1.5 hrs)
+4. Editing for Y-It voice and tone (1.5 hrs)
 
 **Tools:** Reddit, Case Study Research Engine, AI writing assistance
 

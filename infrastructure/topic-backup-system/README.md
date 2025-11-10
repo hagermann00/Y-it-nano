@@ -1,10 +1,10 @@
-# Y-IT Topic Backup System
+# Y-It Topic Backup System
 
-Intelligent, progressive file backup system for Y-IT nano-book production workflow. Automatically organizes and syncs all production files to Google Drive by topic and phase.
+Intelligent, progressive file backup system for Y-It nano-book production workflow. Automatically organizes and syncs all production files to Google Drive by topic and phase.
 
 ## Overview
 
-The Y-IT production process generates 20-30+ files per topic across 10 phases (Phase 0-9). With 50 topics planned, that's over 1,000+ files to manage. This backup system:
+The Y-It production process generates 20-30+ files per topic across 10 phases (Phase 0-9). With 50 topics planned, that's over 1,000+ files to manage. This backup system:
 
 - **Organizes by topic & phase** - Auto-detects which phase a file belongs to
 - **Progressive sync** - Only uploads new/changed files (incremental)
@@ -447,4 +447,4 @@ MIT
 
 ## Credits
 
-Built for Y-IT nano-book production workflow.
+Built for Y-It nano-book production workflow.

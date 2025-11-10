@@ -1,4 +1,4 @@
-# Y-IT Naming Conventions and Archival Structure
+# Y-It Naming Conventions and Archival Structure
 
 **Last Updated:** November 9, 2025
 **Version:** 1.0
@@ -47,7 +47,7 @@ All topics use a consistent slug format throughout the project.
 
 **Format:**
 ```markdown
-# Y-IT Topic Slug Registry
+# Y-It Topic Slug Registry
 
 | Slug | Full Title | Status | Batch | Notes |
 |------|-----------|--------|-------|-------|

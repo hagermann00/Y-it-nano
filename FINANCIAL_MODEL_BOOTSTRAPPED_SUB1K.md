@@ -1,4 +1,4 @@
-# Y-IT FINANCIAL MODEL: EXTREME BOOTSTRAPPING (<$1,000)
+# Y-It FINANCIAL MODEL: EXTREME BOOTSTRAPPING (<$1,000)
 ## Ultra-Lean Solopreneur + DIY Design + Organic Growth Only
 
 **Executive Decisions (Updated Nov 8, 2025):**
@@ -214,7 +214,7 @@
 1. **Create Master Template (20 hours, first book only)**
    - 6×9 book layout template
    - Typography system (3 fonts max)
-   - Color palette (Y-IT brand)
+   - Color palette (Y-It brand)
    - Page number/header style
    - Chapter opening template
    - Case study box template

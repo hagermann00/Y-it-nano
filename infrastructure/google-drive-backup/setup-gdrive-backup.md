@@ -1,6 +1,6 @@
 # Google Drive Backup Setup Guide
 
-Complete setup instructions for Y-IT Google Drive backup system.
+Complete setup instructions for Y-It Google Drive backup system.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Before you begin, ensure you have:
 
 - ✅ Node.js 14+ installed
 - ✅ PostgreSQL client tools (`pg_dump`) installed
-- ✅ Access to Y-IT production database
+- ✅ Access to Y-It production database
 - ✅ Google Cloud Platform account
 - ✅ Terminal/SSH access to backup server
 
@@ -66,7 +66,7 @@ psql -h your-rds-endpoint.amazonaws.com -U postgres -d yit_database -c "SELECT v
 3. Fill in details:
    - **Service account name:** `yit-backup-service`
    - **Service account ID:** `yit-backup-service` (auto-generated)
-   - **Description:** `Service account for automated Y-IT database backups`
+   - **Description:** `Service account for automated Y-It database backups`
 4. Click **CREATE AND CONTINUE**
 5. **Grant this service account access to project:**
    - Skip this step (click **CONTINUE**)
@@ -358,7 +358,7 @@ sudo nano /etc/systemd/system/yit-backup.service
 
 ```ini
 [Unit]
-Description=Y-IT Google Drive Backup Service
+Description=Y-It Google Drive Backup Service
 After=network.target
 
 [Service]
@@ -381,7 +381,7 @@ sudo nano /etc/systemd/system/yit-backup.timer
 
 ```ini
 [Unit]
-Description=Y-IT Backup Timer
+Description=Y-It Backup Timer
 Requires=yit-backup.service
 
 [Timer]
@@ -461,7 +461,7 @@ require('dotenv').config();
 1. Create Slack incoming webhook:
    - Go to [Slack API](https://api.slack.com/messaging/webhooks)
    - Click **Create your Slack app** → **From scratch**
-   - App Name: `Y-IT Backup Notifications`
+   - App Name: `Y-It Backup Notifications`
    - Workspace: Select your workspace
    - Click **Create App**
    - Navigate to **Incoming Webhooks**

@@ -360,7 +360,7 @@ All 11 anonymized composite case studies have been created for the **DROPSHIPPIN
 7. **Emotional journey:** Hope → Frustration → Desperation → Relief/Shame at quitting
 8. **Better alternatives existed:** Every case identifies what would have worked better (freelancing, consulting, skills-based income)
 
-**Thematic Consistency: ✓ EXCELLENT - Core Y-IT thesis validated across all case studies**
+**Thematic Consistency: ✓ EXCELLENT - Core Y-It thesis validated across all case studies**
 
 ---
 

@@ -1,6 +1,6 @@
 # Google Drive Backup System - Implementation Report
 
-**Project:** Y-IT Nano-Book Platform
+**Project:** Y-It Nano-Book Platform
 **Component:** Google Drive Backup System
 **Date:** November 8, 2025
 **Status:** ✅ COMPLETE - Ready for Deployment
@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-A comprehensive Google Drive backup system has been designed and implemented for the Y-IT project, providing secondary backup redundancy alongside the existing AWS S3 backup system. The solution includes automated PostgreSQL database dumps, critical file backups, integrity verification, retention management, and monitoring capabilities.
+A comprehensive Google Drive backup system has been designed and implemented for the Y-It project, providing secondary backup redundancy alongside the existing AWS S3 backup system. The solution includes automated PostgreSQL database dumps, critical file backups, integrity verification, retention management, and monitoring capabilities.
 
 **Key Deliverables:**
 - ✅ Production-ready Node.js backup script with Google Drive API v3 integration
@@ -147,7 +147,7 @@ Y-IT-Backups/                          ← Root folder (shared with service acco
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              Y-IT Backup Architecture                       │
+│              Y-It Backup Architecture                       │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │   AWS RDS                                                   │
@@ -281,7 +281,7 @@ async cleanupOldBackups() {
 ```javascript
 static async sendNotification(success, stats, errors) {
   const message = {
-    text: `Y-IT Backup ${success ? '✅ SUCCESS' : '❌ FAILED'}`,
+    text: `Y-It Backup ${success ? '✅ SUCCESS' : '❌ FAILED'}`,
     blocks: [
       { type: 'header', text: { type: 'plain_text', text: 'Backup Status' } },
       { type: 'section', fields: [
@@ -601,7 +601,7 @@ sudo chmod 666 /var/log/yit-gdrive-backup.log
 #!/bin/bash
 # /infrastructure/check-all-backups.sh
 
-echo "=== Y-IT Backup Status ==="
+echo "=== Y-It Backup Status ==="
 
 # Check AWS S3
 echo "AWS S3 Backups:"
@@ -933,14 +933,14 @@ See `setup-gdrive-backup.md` for complete troubleshooting guide.
 
 - `COMPLETE_ISSUES_CHECKLIST.md` - Issue #4: Disaster Recovery Specs
 - `SPRINT_BOARD_CRITICAL_FIXES.md` - Critical fixes before Week 1
-- `Y-IT_PLATFORM_ARCHITECTURE.md` - Overall system architecture
-- `Y-IT_DATABASE_SCHEMA_DESIGN.md` - Database structure
+- `Y-It_PLATFORM_ARCHITECTURE.md` - Overall system architecture
+- `Y-It_DATABASE_SCHEMA_DESIGN.md` - Database structure
 
 ---
 
 ## 14. Conclusion
 
-A comprehensive, production-ready Google Drive backup system has been successfully designed and implemented for the Y-IT project. The solution provides:
+A comprehensive, production-ready Google Drive backup system has been successfully designed and implemented for the Y-It project. The solution provides:
 
 ✅ **Redundancy:** Secondary backup alongside AWS S3
 ✅ **Automation:** Hourly database + daily config backups

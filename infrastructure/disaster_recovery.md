@@ -1,4 +1,4 @@
-# Y-IT DISASTER RECOVERY PLAN
+# Y-It DISASTER RECOVERY PLAN
 
 **Version:** 1.0
 **Last Updated:** 2025-01-09
@@ -12,7 +12,7 @@
 ### RTO (Recovery Time Objective)
 **Target: < 1 hour**
 
-Maximum acceptable downtime for the Y-IT platform:
+Maximum acceptable downtime for the Y-It platform:
 - Database failure: 30-45 minutes
 - Application failure: 15-30 minutes
 - Total system failure: 60 minutes maximum

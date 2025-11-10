@@ -1,4 +1,4 @@
-# Y-IT STYLE GUIDE: VOICE, TONE & WRITING STANDARDS
+# Y-It STYLE GUIDE: VOICE, TONE & WRITING STANDARDS
 
 **Locked for all 24 pages (with Chapter 8 progression)**
 
@@ -6,7 +6,7 @@
 
 ## CORE VOICE DEFINITION
 
-**The Y-IT Persona:** Satirical contrarian analyst deploying intellectual jujitsu against business hype. Data-driven skeptic with forensic precision. Authority derived from lived experience and battle scars, not credentials.
+**The Y-It Persona:** Satirical contrarian analyst deploying intellectual jujitsu against business hype. Data-driven skeptic with forensic precision. Authority derived from lived experience and battle scars, not credentials.
 
 **Sensibility:** "Adult Swim meets Bloomberg Terminal"
 - Irreverent intelligence
@@ -292,7 +292,7 @@ But if you're going to try anyway—and let's be real, some of you will—at lea
 "Your dreams are valid!"
 "Don't give up!"
 
-**Why:** Ironic given entire book's thesis. Breaks Y-IT voice.
+**Why:** Ironic given entire book's thesis. Breaks Y-It voice.
 
 ### Unsubstantiated Claims ❌
 
@@ -300,7 +300,7 @@ But if you're going to try anyway—and let's be real, some of you will—at lea
 "Gurus make more money than dropshippers" without sources.
 "My supplier did X" without verifiable pattern.
 
-**Why:** Y-IT is evidence-based. Every claim needs backing.
+**Why:** Y-It is evidence-based. Every claim needs backing.
 
 ### Sugar-Coating Harsh Realities ❌
 
@@ -317,7 +317,7 @@ But if you're going to try anyway—and let's be real, some of you will—at lea
 "My exclusive training shows..."
 "Limited-time offer for my advanced course..."
 
-**Why:** Y-IT is anti-guru. We don't sell false hope.
+**Why:** Y-It is anti-guru. We don't sell false hope.
 
 ### Fluff Optimism (Except Chapter 8) ❌
 
@@ -339,7 +339,7 @@ But if you're going to try anyway—and let's be real, some of you will—at lea
 **❌ MOTIVATIONAL WRITING:**
 "Getting banned is just a setback! Use it as a learning opportunity to improve your ads and come back stronger!"
 
-**✅ Y-IT WRITING:**
+**✅ Y-It WRITING:**
 "Getting banned from Facebook Ads is a rite of passage in dropshipping. It's like getting kicked out of a casino—except the casino keeps your money and won't tell you why.
 
 Actually, they will tell you: 'Suspicious activity.' Translation: We detected you're a dropshipper, and dropshippers have 60% refund rates. So your account is suspended. Indefinitely. And we won't tell you how to appeal.
@@ -363,7 +363,7 @@ This then triggers the Ad Account Death Spiral..."
 **❌ MOTIVATIONAL NARRATIVE:**
 "Karen tried dropshipping but discovered it wasn't for her. This is actually great! It means she discovered her true passion lies elsewhere."
 
-**✅ Y-IT NARRATIVE:**
+**✅ Y-It NARRATIVE:**
 "Karen the Bored Mom spent $3,400 on Facebook ads targeting wine moms with 'Boss Babe' jewelry. She sold 11 necklaces. 9 were returned because the metal turned customers' skin green. Her husband discovered the credit card statement during their anniversary dinner. She now sells 'Learning from Failure' courses to other desperate moms. Current status: Back to essential oils, swears dropshipping was 'a learning experience.'"
 
 **Why it works:**
@@ -383,7 +383,7 @@ This then triggers the Ad Account Death Spiral..."
 **❌ MOTIVATIONAL FRAMING:**
 "Building a passive income business takes work upfront, but the payoff is worth it!"
 
-**✅ Y-IT FRAMING:**
+**✅ Y-It FRAMING:**
 "They promise 'passive income.' What they mean: The guru's income is passive (from course sales). Your income is actively miserable. 60+ hour weeks managing customer complaints is the opposite of passive. But it's passive for the guru. Passive income FROM your income."
 
 **Why it works:**
@@ -419,7 +419,7 @@ Before approval, check:
 - Zero unsubstantiated claims
 - Zero course-selling tactics
 - Zero generic business writing
-- 100% Y-IT voice maintained
+- 100% Y-It voice maintained
 
 ---
 

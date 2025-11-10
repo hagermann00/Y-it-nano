@@ -1,4 +1,4 @@
-# Y-IT COMPREHENSIVE BUNDLING STRATEGY
+# Y-It COMPREHENSIVE BUNDLING STRATEGY
 **Agent:** Pricing Strategy Specialist
 **Date:** November 9, 2025
 **Status:** COMPLETE - READY FOR IMPLEMENTATION
@@ -19,7 +19,7 @@
 ## 1. BUNDLE TIER RECOMMENDATIONS
 
 ### TIER 1: STARTER 3-PACK
-**Product:** "Pick Any 3 Y-IT Books"
+**Product:** "Pick Any 3 Y-It Books"
 **Price Points (A/B Test):**
 - Variant A: $9.99 (saves $2.00 vs $11.97 separate)
 - Variant B: $12.99 (saves $0.00 but adds "exclusive bonus content")
@@ -44,14 +44,14 @@
 5. **"Side Hustle Survival Kit"** (Freelance Writing, VA, LinkedIn Influencer, Social Media Marketing, Email Lists, Personal Brand, Micro-Influencer)
 
 ### TIER 3: COMPLETE 15-PACK
-**Product:** "Pick Any 15 Y-IT Books"
+**Product:** "Pick Any 15 Y-It Books"
 **Price:** $49.99 (vs $59.85 separate, saves $9.86 = 16% discount)
 **Target Customer:** Entrepreneur evaluating comprehensive portfolio
 **Positioning:** "The complete decision-making library for serious founders"
 **Margin:** $49.99 × 95% = $47.49 net
 
 ### TIER 4: PREMIUM SUBSCRIPTION (ALL 50)
-**Product:** "Y-IT Complete Access" (Annual Subscription)
+**Product:** "Y-It Complete Access" (Annual Subscription)
 **Price:** $99/year (vs $199.50 for all 50 books = 50% discount)
 **Includes:**
 - All 50 digital books (PDF + ePub)
@@ -407,7 +407,7 @@ Or build your own bundle (pick any 3 books for $9.99):
 
 Still deciding? No pressure. We'll check back in 4 days.
 
-— Y-IT Team
+— Y-It Team
 ```
 
 **Conversion Goal:** 5-8%
@@ -442,7 +442,7 @@ Not interested in the full bundle? Pick any 3 for $9.99:
 
 This offer expires in 7 days (Week X).
 
-— Y-IT Team
+— Y-It Team
 
 P.S. 1,247 customers bought this bundle in the last 30 days. They're not wrong.
 ```
@@ -464,7 +464,7 @@ You read [Topic]. That's 1 business myth exposed.
 
 But here's the thing: There are 49 more myths out there.
 
-We've sold the "Y-IT Complete Collection" to 1,500+ customers. Here's why:
+We've sold the "Y-It Complete Collection" to 1,500+ customers. Here's why:
 
 **"I was comparing 12 different opportunities. This saved me $50,000 in bad decisions."**
 — Sarah K., avoided dropshipping + FBA + crypto trading
@@ -481,7 +481,7 @@ Get all 50 books + web access for $99/year:
 Not ready for the full collection? Start with 3 books for $9.99:
 [CTA: Pick Any 3]
 
-— Y-IT Team
+— Y-It Team
 ```
 
 **Conversion Goal:** 3-5% (annual subscription)
@@ -499,12 +499,12 @@ Hi [Name],
 
 This is the last email about bundles. Promise.
 
-We're closing enrollment for the $99/year "Y-IT Complete Access" subscription tonight at midnight.
+We're closing enrollment for the $99/year "Y-It Complete Access" subscription tonight at midnight.
 
 After that, it goes back to $149/year (regular price).
 
 Here's what you get for $99:
-→ All 50 Y-IT books (digital PDF + ePub)
+→ All 50 Y-It books (digital PDF + ePub)
 → Web access to all interactive versions
 → Unlimited AI evaluators (roast any business idea)
 → Early access to new topics (before public launch)
@@ -520,7 +520,7 @@ But if you're serious about avoiding bad business decisions, this is the smartes
 
 Offer expires: [Countdown timer showing midnight deadline]
 
-— Y-IT Team
+— Y-It Team
 
 P.S. We don't do discounts often. This is the last one until Week 30.
 ```
@@ -626,7 +626,7 @@ A: Yes. 30-day full refund if you're not satisfied (no questions asked).
 
 ### SECTION 5: TESTIMONIALS
 
-**Headline:** "What 1,500+ customers say about Y-IT bundles"
+**Headline:** "What 1,500+ customers say about Y-It bundles"
 
 **Testimonial Format:**
 ```
@@ -693,7 +693,7 @@ A: Yes. 30-day full refund if you're not satisfied (no questions asked).
 **Promotion Intensity:** HIGH (major launch event)
 
 **Email Campaign:**
-- Subject: "NEW: All 50 Y-IT books for $99/year (50% off launch price)"
+- Subject: "NEW: All 50 Y-It books for $99/year (50% off launch price)"
 - Body: Announce annual subscription, limited-time $99 price (regular $149)
 - CTA: Subscribe now
 
@@ -877,7 +877,7 @@ if (customer.subscription.status === 'active' && customer.subscription.end_date 
 - [ ] Email blast to ALL customers (~2,000 people): "Annual subscription now available"
 - [ ] Homepage hero updated: "Get all 50 books for $99/year"
 - [ ] Paid ads campaign launched ($500 budget, 7-day run)
-- [ ] Press release (optional): "Y-IT launches subscription model"
+- [ ] Press release (optional): "Y-It launches subscription model"
 
 **Week 13 Monitoring:**
 - [ ] Daily: Check Stripe subscriptions (how many signups?)
@@ -899,7 +899,7 @@ if (customer.subscription.status === 'active' && customer.subscription.end_date 
 **Launch Day (Week 21, Monday):**
 - [ ] Email blast: "Complete collection now live - all 50 books"
 - [ ] Social media: Celebration post ("We did it - 50 books in 21 weeks")
-- [ ] Homepage: "All 50 Y-IT books available. Subscribe for $99/year."
+- [ ] Homepage: "All 50 Y-It books available. Subscribe for $99/year."
 
 **Post-Launch (Week 22+):**
 - [ ] Monitor subscription renewals (annual subs from Week 13 renew in Week 65)
@@ -1000,15 +1000,15 @@ if (customer.subscription.status === 'active' && customer.subscription.end_date 
 - Audio + text formats
 - Unlimited access
 
-**What Y-IT Can Learn:**
+**What Y-It Can Learn:**
 - **Pricing anchor:** $99/year is industry standard for "unlimited access"
 - **Format variety:** Offer both text (PDF) and future audio (podcast)
 - **Unlimited framing:** Position as "all 50 books, read as much as you want"
 
-**Y-IT Differentiation:**
-- Blinkist = generic summaries. Y-IT = contrarian exposés (stronger POV)
-- Blinkist = breadth (5,000 books). Y-IT = depth (50 books, deeply researched)
-- Blinkist = motivation. Y-IT = prevention (stop bad decisions)
+**Y-It Differentiation:**
+- Blinkist = generic summaries. Y-It = contrarian exposés (stronger POV)
+- Blinkist = breadth (5,000 books). Y-It = depth (50 books, deeply researched)
+- Blinkist = motivation. Y-It = prevention (stop bad decisions)
 
 ---
 
@@ -1020,15 +1020,15 @@ if (customer.subscription.status === 'active' && customer.subscription.end_date 
 - 1 million+ titles
 - Magazine access included
 
-**What Y-IT Can Learn:**
+**What Y-It Can Learn:**
 - **Monthly option:** Offer $9.99/month (in addition to $99/year)
 - **Perception of value:** "Unlimited" = worth paying for
 - **Content breadth:** Position 50 books as "complete category coverage"
 
-**Y-IT Differentiation:**
-- Scribd = generic catalog. Y-IT = curated expertise (all by same author)
-- Scribd = entertainment. Y-IT = decision-making tool (higher urgency)
-- Scribd = passive reading. Y-IT = active prevention (emotional hook stronger)
+**Y-It Differentiation:**
+- Scribd = generic catalog. Y-It = curated expertise (all by same author)
+- Scribd = entertainment. Y-It = decision-making tool (higher urgency)
+- Scribd = passive reading. Y-It = active prevention (emotional hook stronger)
 
 ---
 
@@ -1040,21 +1040,21 @@ if (customer.subscription.status === 'active' && customer.subscription.end_date 
 - Video-based learning (2-5 hours per class)
 - Workbooks + community access
 
-**What Y-IT Can Learn:**
+**What Y-It Can Learn:**
 - **Premium positioning:** $99/year feels like a deal vs MasterClass $120
 - **Instructor authority:** Emphasize author expertise (solopreneur = consistent voice)
 - **Workbooks:** Include bonus worksheets with bundles (Variant B)
 
-**Y-IT Differentiation:**
-- MasterClass = aspirational ("be like celebrity"). Y-IT = preventative ("don't fail like 95%")
-- MasterClass = time investment (2-5 hours). Y-IT = quick reads (30 min per book)
-- MasterClass = skills. Y-IT = decisions (different value proposition)
+**Y-It Differentiation:**
+- MasterClass = aspirational ("be like celebrity"). Y-It = preventative ("don't fail like 95%")
+- MasterClass = time investment (2-5 hours). Y-It = quick reads (30 min per book)
+- MasterClass = skills. Y-It = decisions (different value proposition)
 
 ---
 
 ### KEY TAKEAWAY:
 
-**Y-IT's Competitive Advantage:**
+**Y-It's Competitive Advantage:**
 1. **Unique positioning:** Only subscription exposing FAILURE (not success)
 2. **Contrarian voice:** No one else satirizing guru culture with data
 3. **Decision urgency:** Preventing $10K-$50K mistakes = higher perceived value than entertainment

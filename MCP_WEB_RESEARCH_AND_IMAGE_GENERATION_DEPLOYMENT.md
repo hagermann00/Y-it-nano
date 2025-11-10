@@ -1,7 +1,7 @@
 # MCP Web Research & Image Generation System - Deployment Summary
 
 **Created:** November 10, 2025
-**Project:** Y-IT Nano-Book Ecosystem
+**Project:** Y-It Nano-Book Ecosystem
 **Purpose:** Automated web research, competitive intelligence, and image creation infrastructure
 **Status:** ✅ READY FOR DEPLOYMENT
 
@@ -191,7 +191,7 @@ data/web-research/
 | **Midjourney** | $10/mo | Excellent | ✅ YES (paid) | Artistic images |
 | **Adobe Firefly** | $5/mo | Excellent | ✅ YES + Indemnity | Enterprise safety |
 
-**Recommended for Y-IT:**
+**Recommended for Y-It:**
 - **Replicate FLUX** - Pay-per-image, no subscription, excellent quality
 - **Cost per book:** ~$0.40-2.00 (10-50 images)
 
