@@ -635,7 +635,7 @@ Welcome to Y-It. Where dreams go to get real."
 
 ### Page 12-13: Back Cover Content (Right side + back)
 
-"**ABOUT Y-IT SERIES**
+"**ABOUT Y-It SERIES**
 
 Y-It is a collection of brutally honest, data-driven reality checks for hyped business opportunities. Each nano-book exposes the gap between guru promises and statistical reality using satirical analysis backed by research.
 
@@ -652,7 +652,7 @@ Affiliate marketing brutal truth
 **"Your Masterclass on Making Masterclasses"**
 Course creation reality
 
-**GET MORE Y-IT**
+**GET MORE Y-It**
 
 **Interactive Version** (y-it.com/dropshipping)
 $7.99 one-time access

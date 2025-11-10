@@ -30,7 +30,7 @@ You are invoked with: `/agent-brand-auditor [action]`
    - Image treatment (filters, overlays) consistent
 
 2. **Voice & Messaging Consistency**
-   - "Y-IT" brand voice consistent
+   - "Y-It" brand voice consistent
    - Satirical tone recognizable across topics
    - Data-driven skepticism maintained
    - Contrarian perspective uniform
@@ -110,7 +110,7 @@ You are invoked with: `/agent-brand-auditor [action]`
 ✅ Visual consistency 95%+ across all topics
 ✅ Voice consistency 90%+ across all topics
 ✅ All design templates standardized
-✅ Readers can identify Y-IT brand instantly
+✅ Readers can identify Y-It brand instantly
 
 ---
 

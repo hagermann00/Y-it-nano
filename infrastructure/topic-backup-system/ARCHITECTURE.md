@@ -1,4 +1,4 @@
-# System Architecture - Y-IT Topic Backup System
+# System Architecture - Y-It Topic Backup System
 
 Visual overview of system components and data flow.
 
@@ -6,7 +6,7 @@ Visual overview of system components and data flow.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    Y-IT Production Workflow                      │
+│                    Y-It Production Workflow                      │
 │                                                                   │
 │  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐        │
 │  │ Phase 0  │→ │ Phase 1  │→ │ Phase 2  │→ │ Phase 3  │→ ...   │
@@ -288,7 +288,7 @@ Y-IT-Production/
 │
 ├── Templates/
 │   ├── UNIVERSAL_RESEARCH_ENGINE.md
-│   ├── Y-IT_STYLE_GUIDE.md
+│   ├── Y-It_STYLE_GUIDE.md
 │   └── UNIVERSAL_PRIMER.md
 │
 ├── Batches/

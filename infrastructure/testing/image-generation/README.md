@@ -1,6 +1,6 @@
 # Image Generation Testing Framework
 
-**Purpose:** Test and validate image creation options for Y-IT nano-books
+**Purpose:** Test and validate image creation options for Y-It nano-books
 **Status:** Ready for Testing
 **Last Updated:** November 10, 2025
 
@@ -242,7 +242,7 @@ Save all metadata to: `metadata/image-registry.json`
 ### **Uniqueness (20%)**
 - Not generic stock photo look
 - Distinctive and memorable
-- Fits Y-IT brand aesthetic
+- Fits Y-It brand aesthetic
 - Differentiates from competitor books
 
 ### **Commercial Viability (10%)**

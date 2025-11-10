@@ -1,4 +1,4 @@
-# Y-IT ECOSYSTEM: COMPLETE ISSUES CHECKLIST
+# Y-It ECOSYSTEM: COMPLETE ISSUES CHECKLIST
 
 **Generated:** November 8, 2025
 **Based On:** Comprehensive 3-angle audit of all 22 project documents
@@ -286,7 +286,7 @@ Schedule: Hourly via cron (0 * * * *)
 **Effort:** 4 hours
 
 **Referenced In:**
-- `Y-IT_NANO_BOOK_PRODUCTION_SOP.md` (Phase 0, Step 2)
+- `Y-It_NANO_BOOK_PRODUCTION_SOP.md` (Phase 0, Step 2)
 - States: "Submit research document using UNIVERSAL RESEARCH ENGINE v1.0 template"
 
 **Required Fix:**
@@ -294,7 +294,7 @@ Create `/templates/UNIVERSAL_RESEARCH_ENGINE_v1.0.md` with:
 
 ```markdown
 # UNIVERSAL RESEARCH ENGINE v1.0
-## Topic Research Template for Y-IT Nano-Books
+## Topic Research Template for Y-It Nano-Books
 
 **Topic:** [Business Opportunity Name]
 **Researcher:** [Name]
@@ -527,7 +527,7 @@ Expected completion: 40%
 
 **Required Fix:**
 Update all financial documents:
-- `Y-IT_PRODUCTION_ROADMAP_50_TOPICS.md`
+- `Y-It_PRODUCTION_ROADMAP_50_TOPICS.md`
 - `COMPLETE_ARCHITECTURE_SUMMARY.md`
 - `Claude.md`
 - `STRATEGIC_SUMMARY.md`
@@ -1068,8 +1068,8 @@ emailQueue.process(async (job) => {
 
 **Required Fix:**
 Add tech stack section to:
-- `Y-IT_NANO_BOOK_PRODUCTION_SOP.md`
-- `Y-IT_DROPSHIPPING_VALIDATION_PLAN.md`
+- `Y-It_NANO_BOOK_PRODUCTION_SOP.md`
+- `Y-It_DROPSHIPPING_VALIDATION_PLAN.md`
 
 ```markdown
 ## TECH STACK QUICK REFERENCE
@@ -1314,6 +1314,6 @@ Add tech stack section to:
 
 ---
 
-*Complete Issues Checklist - Y-IT Ecosystem*
+*Complete Issues Checklist - Y-It Ecosystem*
 *20 items identified across 3-angle audit*
 *Recommendation: Fix 5 critical + make 3 decisions = READY FOR MVP LAUNCH*

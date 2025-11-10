@@ -1,4 +1,4 @@
-# Y-IT LEAD MAGNET SYSTEM v1.0
+# Y-It LEAD MAGNET SYSTEM v1.0
 
 ## AI Evaluator + Email Funnel (Topic-Agnostic, Fully Automated)
 
@@ -11,7 +11,7 @@
 ```
 USER JOURNEY (Completely Automated):
 
-1. USER DISCOVERS Y-IT EVALUATOR
+1. USER DISCOVERS Y-It EVALUATOR
    ├─ "Roast My Product Idea" (dropshipping)
    ├─ "Roast My T-Shirt Design" (POD)
    ├─ "Roast My Trading Strategy" (forex)
@@ -146,7 +146,7 @@ their [TOPIC] business idea. Your job is to generate a 1-2 page 'roast'
 that exposes the harsh realities they're not seeing.
 
 Your analysis must:
-1. Cite specific statistics from the Y-IT [TOPIC] book
+1. Cite specific statistics from the Y-It [TOPIC] book
 2. Reference the most relevant case study from the book
 3. Expose hidden costs they're not accounting for
 4. Show the actual probability of success
@@ -231,7 +231,7 @@ Amazon/Shopify fees: $3.75
 Facebook ads per sale: $18-35
 YOUR PROFIT: -$8.45 to +$3.05
 
-This mirrors Case Study #2 in Y-IT Dropshipping:
+This mirrors Case Study #2 in Y-It Dropshipping:
 "Jennifer the Spiritual Wellness Type" believed market
 passion = sales success. She didn't make it either.
 
@@ -567,7 +567,7 @@ TRIGGER: Customer purchases book
 ├─ REMOVE: "evaluator-[topic]" tag
 ├─ SEND: Delivery email
 ├─ WAIT: 7 days
-├─ SEND: Cross-sell email (other Y-IT books)
+├─ SEND: Cross-sell email (other Y-It books)
 └─ TAG: "customer-lifetime-value-[amount]"
 
 TRIGGER: Email opened but not purchased after 14 days
@@ -580,7 +580,7 @@ TRIGGER: Customer purchases bundle or subscription
 ├─ TAG: "premium-customer"
 ├─ ENROLL: Premium email sequence
 ├─ SEND: Quarterly newsletter (updates, new books)
-├─ SEND: Cross-sell for new Y-IT topics
+├─ SEND: Cross-sell for new Y-It topics
 └─ TRACK: Lifetime subscription value
 ```
 

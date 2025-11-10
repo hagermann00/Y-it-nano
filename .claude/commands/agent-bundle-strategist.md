@@ -68,7 +68,7 @@ You are invoked with: `/agent-bundle-strategist [action]`
    - Customer-choice: Pick any 10 books for $19.99
 
    TIER 3: COMPREHENSIVE
-   - "Complete Y-IT Library" (all 50 books): $99/year (subscription)
+   - "Complete Y-It Library" (all 50 books): $99/year (subscription)
    - Lifetime access: $199 (one-time)
    - Limited-time launch bundle: All 35 books for $59 (Week 7 only)
 

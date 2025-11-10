@@ -1,4 +1,4 @@
-# Y-IT CRITICAL FIXES SPRINT BOARD
+# Y-It CRITICAL FIXES SPRINT BOARD
 
 **Sprint Goal:** Fix 5 critical blockers + make 3 executive decisions = READY FOR WEEK 1
 **Sprint Duration:** This Week (November 8-15, 2025)
@@ -647,7 +647,7 @@ CREATE INDEX idx_evaluator_responses_purchase ON evaluator_responses(purchase_id
 - `AUDIT_SYNTHESIS_3_ANGLES.md` - Original audit findings
 - `CRITICAL_FIXES_BEFORE_WEEK_1.md` - Technical fix specifications
 - `Claude.md` - Project overview and current status
-- `Y-IT_DROPSHIPPING_VALIDATION_PLAN.md` - Post-launch validation strategy
+- `Y-It_DROPSHIPPING_VALIDATION_PLAN.md` - Post-launch validation strategy
 
 ---
 
@@ -666,7 +666,7 @@ CREATE INDEX idx_evaluator_responses_purchase ON evaluator_responses(purchase_id
 
 ---
 
-*Sprint Board: Y-IT Critical Fixes*
+*Sprint Board: Y-It Critical Fixes*
 *Duration: November 8-15, 2025*
 *Goal: Fix 5 critical blockers + make 3 decisions = READY FOR WEEK 1*
 *Last Updated: November 8, 2025*

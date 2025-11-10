@@ -1,4 +1,4 @@
-# Y-IT PHASE 2 ROADMAP: MONTHS 6-36
+# Y-It PHASE 2 ROADMAP: MONTHS 6-36
 
 **Document Version:** 1.0
 **Created:** November 8, 2025
@@ -129,7 +129,7 @@ Discussion forums, user-generated content, and peer support to increase engageme
 
 **Timeline:**
 - **Month 12-13:** Platform selection (Discourse, Circle, custom)
-- **Month 14-15:** Integration with Y-IT platform
+- **Month 14-15:** Integration with Y-It platform
 - **Month 16:** Beta launch with 1,000 users
 - **Month 17-18:** Public launch, moderation setup
 
@@ -139,7 +139,7 @@ Discussion forums, user-generated content, and peer support to increase engageme
 - AMAs with guest experts (anti-guru voices)
 - Private groups (subscription members only)
 - Gamification (badges for honest sharing, data-driven contributions)
-- Moderation tools (prevent guru spam, maintain Y-IT voice)
+- Moderation tools (prevent guru spam, maintain Y-It voice)
 
 **Resource Requirements:**
 - **Team:** 1 backend engineer (integration), 1 community manager, 1 moderator
@@ -246,7 +246,7 @@ Video summaries, case study deep-dives, and animated explainers to reach visual 
 
 **1. Book Summaries (5-8 minutes each)**
 - Animated explainer covering key stats, case studies, conclusions
-- Y-IT satirical voice maintained through narration
+- Y-It satirical voice maintained through narration
 - 50 videos total (one per topic)
 
 **2. Case Study Deep-Dives (10-15 minutes each)**
@@ -256,7 +256,7 @@ Video summaries, case study deep-dives, and animated explainers to reach visual 
 
 **3. "Guru Roast" Series (8-12 minutes each)**
 - Satirical analysis of specific guru courses/claims
-- Data-driven takedowns with Y-IT humor
+- Data-driven takedowns with Y-It humor
 - 12 videos (monthly releases)
 
 **Resource Requirements:**
@@ -306,7 +306,7 @@ Evolve from basic podcast to full production with guest experts, listener case s
 **1. Weekly Interview Series (40 episodes/year)**
 - Guests: Anti-guru voices, failed entrepreneurs, data analysts
 - Format: 45-60 minutes, deep-dive conversations
-- Topics rotate through Y-IT catalog
+- Topics rotate through Y-It catalog
 
 **2. "Listener Roast" Episodes (12 episodes/year)**
 - Listeners submit business ideas for live roasting
@@ -644,11 +644,11 @@ Short-form documentary-style videos (3-5 minutes) featuring real anonymized case
 - 3-5 minute documentary-style interviews
 - Anonymized (faces blurred/voice altered if requested)
 - B-roll footage, data visualizations overlaid
-- Emotional storytelling balanced with Y-IT data-driven honesty
+- Emotional storytelling balanced with Y-It data-driven honesty
 - Concludes with "what I'd do differently" reflection
 
 **Subject Recruitment:**
-- Source from Y-IT customer base (failed entrepreneurs)
+- Source from Y-It customer base (failed entrepreneurs)
 - Incentive: $500 participation fee + free Extended Edition book
 - Anonymous option available (voice/face altered)
 
@@ -665,7 +665,7 @@ Short-form documentary-style videos (3-5 minutes) featuring real anonymized case
 
 **Revenue Impact:**
 - **Indirect:** Drives +$5K-$10K/month via YouTube traffic
-- **Brand Authority:** Positions Y-IT as trusted, empathetic voice
+- **Brand Authority:** Positions Y-It as trusted, empathetic voice
 - **Social Proof:** Increases conversion by 2-4% across all products
 
 **Risk Assessment:**
@@ -839,7 +839,7 @@ Create bulk purchase, team licensing, and corporate training packages for busine
 
 **2. Corporate Training Packages**
 - Customized "Critical Thinking in Business" workshops
-- Uses Y-IT content as case studies
+- Uses Y-It content as case studies
 - Half-day or full-day sessions (virtual or in-person)
 - Pricing: $5,000-$15,000 per session
 
@@ -850,7 +850,7 @@ Create bulk purchase, team licensing, and corporate training packages for busine
 - Pricing: $2.00/book (wholesale), $2.50/book with custom branding
 
 **4. White-Label Licensing**
-- License Y-IT content for corporate intranets, LMS systems
+- License Y-It content for corporate intranets, LMS systems
 - Custom branding, integration support
 - Pricing: $25,000-$50,000/year per organization
 
@@ -894,7 +894,7 @@ Create bulk purchase, team licensing, and corporate training packages for busine
 ### 3.4 Licensing Deals (Universities, Libraries, Corporations, Months 12-24)
 
 **Overview:**
-License Y-IT content to educational institutions, public libraries, and corporate learning platforms.
+License Y-It content to educational institutions, public libraries, and corporate learning platforms.
 
 **Priority:** MEDIUM (Passive income, brand credibility)
 
@@ -956,7 +956,7 @@ License Y-IT content to educational institutions, public libraries, and corporat
 ### 3.5 Affiliate Program (Months 14-20)
 
 **Overview:**
-Enable others (influencers, bloggers, podcasters) to sell Y-IT books and earn commissions.
+Enable others (influencers, bloggers, podcasters) to sell Y-It books and earn commissions.
 
 **Priority:** MEDIUM (Audience expansion, low cost)
 
@@ -1028,7 +1028,7 @@ Enable others (influencers, bloggers, podcasters) to sell Y-IT books and earn co
 ### 4.1 Translation Strategy (Months 12-20)
 
 **Overview:**
-Translate Y-IT books into 3-5 high-value languages to access international markets.
+Translate Y-It books into 3-5 high-value languages to access international markets.
 
 **Priority:** MEDIUM (Large TAM, but culturally complex)
 
@@ -1142,7 +1142,7 @@ Beyond translation: adapt case studies, statistics, cultural references, and exa
   - LLC → GmbH (Germany), SL (Spain), SARL (France)
 
 **4. Marketing Localization**
-- Translate email sequences (maintain Y-IT voice)
+- Translate email sequences (maintain Y-It voice)
 - Adapt AI evaluator prompts
 - Localize web platform UI
 - Create region-specific landing pages
@@ -1268,10 +1268,10 @@ Culturally-adapted marketing campaigns for each international market.
 
 ## 5. BRAND EXTENSIONS (Months 18-36)
 
-### 5.1 Y-IT "Honest Business" Certification/Badge (Months 18-24)
+### 5.1 Y-It "Honest Business" Certification/Badge (Months 18-24)
 
 **Overview:**
-Create certification program for businesses/entrepreneurs who pass Y-IT's data-driven viability assessment.
+Create certification program for businesses/entrepreneurs who pass Y-It's data-driven viability assessment.
 
 **Priority:** LOW (Brand building, experimental)
 
@@ -1286,23 +1286,23 @@ Create certification program for businesses/entrepreneurs who pass Y-IT's data-d
 **1. Application ($199 fee)**
 - Business submits detailed plan
 - Financials, market research, competitive analysis
-- Founders answer Y-IT decision framework questions
+- Founders answer Y-It decision framework questions
 
 **2. Assessment (AI + Human Review)**
 - AI evaluator scores business (0-100)
-- Human reviewer (Y-IT analyst) validates
+- Human reviewer (Y-It analyst) validates
 - Decision: Pass, Conditional Pass, Fail
 
 **3. Certification Awarded**
-- Badge for website: "Y-IT Honest Business Certified"
-- Case study featured in Y-IT ecosystem
-- Listing in Y-IT directory (certified businesses)
+- Badge for website: "Y-It Honest Business Certified"
+- Case study featured in Y-It ecosystem
+- Listing in Y-It directory (certified businesses)
 - Valid for 1 year (annual renewal $99)
 
 **Value Proposition:**
-- **For Businesses:** Credibility signal (survived Y-IT scrutiny)
+- **For Businesses:** Credibility signal (survived Y-It scrutiny)
 - **For Customers:** Trust indicator (not another guru scam)
-- **For Y-IT:** Revenue + case study pipeline
+- **For Y-It:** Revenue + case study pipeline
 
 **Resource Requirements:**
 - **Team:** 1 certification manager, 2 business analysts (reviewers)
@@ -1321,7 +1321,7 @@ Create certification program for businesses/entrepreneurs who pass Y-IT's data-d
 - Low margin initially (high review costs), scales to 60%+ margin
 
 **Risk Assessment:**
-- **High Risk:** Credibility (if certified businesses fail, hurts Y-IT brand)
+- **High Risk:** Credibility (if certified businesses fail, hurts Y-It brand)
 - **Medium Risk:** Low demand (mitigate: strong marketing, clear value prop)
 
 **Success Metrics:**
@@ -1335,7 +1335,7 @@ Create certification program for businesses/entrepreneurs who pass Y-IT's data-d
 ### 5.2 Consulting Services (One-on-One Roasts, Business Reviews, Months 20-28)
 
 **Overview:**
-Premium 1:1 consulting where Y-IT experts provide deep business analysis and honest feedback.
+Premium 1:1 consulting where Y-It experts provide deep business analysis and honest feedback.
 
 **Priority:** MEDIUM (High margins, brand extension)
 
@@ -1349,7 +1349,7 @@ Premium 1:1 consulting where Y-IT experts provide deep business analysis and hon
 
 **1. "Honest Business Roast" (1-hour session, $499)**
 - Client presents business idea/current business
-- Y-IT consultant provides brutal reality check
+- Y-It consultant provides brutal reality check
 - Deliverables: Recording, written summary (5 pages), action items
 - Target: Pre-launch entrepreneurs, struggling business owners
 
@@ -1367,9 +1367,9 @@ Premium 1:1 consulting where Y-IT experts provide deep business analysis and hon
 
 **Consultant Qualifications:**
 - Experienced entrepreneurs (failed + succeeded)
-- Y-IT voice/tone training
+- Y-It voice/tone training
 - Data analysis skills
-- Must have read all 50+ Y-IT books
+- Must have read all 50+ Y-It books
 
 **Resource Requirements:**
 - **Team:** 1 consulting manager, 4-6 consultants (part-time)
@@ -1403,7 +1403,7 @@ Premium 1:1 consulting where Y-IT experts provide deep business analysis and hon
 ### 5.3 Workshops/Webinars (Group Training, Months 22-30)
 
 **Overview:**
-Group training sessions teaching Y-IT frameworks, decision-making, and critical thinking.
+Group training sessions teaching Y-It frameworks, decision-making, and critical thinking.
 
 **Priority:** MEDIUM (Scalable revenue, brand building)
 
@@ -1416,7 +1416,7 @@ Group training sessions teaching Y-IT frameworks, decision-making, and critical 
 
 **1. "Guru-Proof Your Business Decisions" (Half-day virtual, $199)**
 - Audience: Aspiring entrepreneurs, early-stage founders
-- Content: Y-IT decision frameworks, critical thinking, bias detection
+- Content: Y-It decision frameworks, critical thinking, bias detection
 - Format: 4 hours (2 hours teaching, 2 hours interactive exercises)
 - Capacity: 50 attendees/session
 
@@ -1428,7 +1428,7 @@ Group training sessions teaching Y-IT frameworks, decision-making, and critical 
 
 **3. "Avoiding the Guru Trap" (90-min webinar, Free/Lead Magnet)**
 - Audience: General public, top-of-funnel
-- Content: Overview of Y-IT philosophy, common delusions
+- Content: Overview of Y-It philosophy, common delusions
 - Format: Live webinar with Q&A
 - Capacity: 500+ attendees
 - Upsell: Books, subscriptions, paid workshops
@@ -1451,7 +1451,7 @@ Group training sessions teaching Y-IT frameworks, decision-making, and critical 
 
 **Risk Assessment:**
 - **Medium Risk:** Attendance (mitigate: strong marketing, free webinar funnel)
-- **Low Risk:** Content quality (leverage existing Y-IT material)
+- **Low Risk:** Content quality (leverage existing Y-It material)
 
 **Success Metrics:**
 - 2 workshops/month by Month 28
@@ -1464,7 +1464,7 @@ Group training sessions teaching Y-IT frameworks, decision-making, and critical 
 ### 5.4 Merchandise (Satirical Swag, Months 24-30)
 
 **Overview:**
-Branded merchandise with Y-IT's satirical voice (t-shirts, mugs, stickers, posters).
+Branded merchandise with Y-It's satirical voice (t-shirts, mugs, stickers, posters).
 
 **Priority:** LOW (Brand extension, fun but low revenue)
 
@@ -1478,15 +1478,15 @@ Branded merchandise with Y-IT's satirical voice (t-shirts, mugs, stickers, poste
 **1. Apparel**
 - T-shirts: "92% of Dropshippers Fail (I'm the Other 8%... Said Everyone)"
 - Hoodies: "Data > Delusion"
-- Hats: "Y-IT: Crushing Dreams Since 2025"
+- Hats: "Y-It: Crushing Dreams Since 2025"
 
 **2. Office/Home**
-- Mugs: "I Read Y-IT and Saved $10,000 on a Bad Idea"
+- Mugs: "I Read Y-It and Saved $10,000 on a Bad Idea"
 - Posters: Statistical infographics (failure rates, cost breakdowns)
 - Stickers: "Guru-Free Zone"
 
 **3. Notebooks/Planners**
-- "The Honest Business Planner" (pre-printed with Y-IT frameworks)
+- "The Honest Business Planner" (pre-printed with Y-It frameworks)
 - "Decision Journal" (track predictions, learn from failures)
 
 **4. Novelty**
@@ -1524,7 +1524,7 @@ Branded merchandise with Y-IT's satirical voice (t-shirts, mugs, stickers, poste
 ### 5.5 Media Opportunities (TV, Documentaries, Partnerships, Months 24-36)
 
 **Overview:**
-Leverage Y-IT brand and content for media partnerships, TV appearances, documentary features.
+Leverage Y-It brand and content for media partnerships, TV appearances, documentary features.
 
 **Priority:** LOW (Brand authority, unpredictable timeline)
 
@@ -1538,7 +1538,7 @@ Leverage Y-IT brand and content for media partnerships, TV appearances, document
 **1. TV/Streaming Documentary**
 - Pitch: "The Guru Industrial Complex" documentary
 - Partner with Netflix, HBO, Amazon Prime
-- Y-IT founder as host/narrator
+- Y-It founder as host/narrator
 - Revenue: $50K-$250K (one-time payment or profit share)
 
 **2. Podcast Guest Appearances**
@@ -1557,8 +1557,8 @@ Leverage Y-IT brand and content for media partnerships, TV appearances, document
 - Revenue: $5K-$25K per speaking engagement
 
 **5. Media Partnerships**
-- License Y-IT content to business media (CNBC, Bloomberg, WSJ)
-- Create Y-IT column or recurring segment
+- License Y-It content to business media (CNBC, Bloomberg, WSJ)
+- Create Y-It column or recurring segment
 - Revenue: $10K-$50K/year per partnership
 
 **Resource Requirements:**
@@ -1599,7 +1599,7 @@ Upgrade AI evaluator with GPT-5 (or equivalent), custom fine-tuned models, and a
 
 **Timeline:**
 - **Month 8-10:** GPT-5 integration (when available)
-- **Month 11-14:** Fine-tuning on Y-IT voice/data
+- **Month 11-14:** Fine-tuning on Y-It voice/data
 - **Month 15-18:** Advanced features (multi-turn conversations, video roasts)
 
 **Improvements:**
@@ -1609,8 +1609,8 @@ Upgrade AI evaluator with GPT-5 (or equivalent), custom fine-tuned models, and a
 - Lower cost per roast ($0.002 → $0.001)
 - Faster response times (10s → 5s)
 
-**2. Fine-Tuning on Y-IT Content**
-- Train custom model on all 50+ Y-IT books
+**2. Fine-Tuning on Y-It Content**
+- Train custom model on all 50+ Y-It books
 - Improved voice consistency (more satirical, data-precise)
 - Better case study matching (identifies archetypes)
 - Cost: $20K-$50K (one-time training)
@@ -1622,7 +1622,7 @@ Upgrade AI evaluator with GPT-5 (or equivalent), custom fine-tuned models, and a
 
 **4. Video/Audio Roasts**
 - AI-generated video (avatar delivering roast)
-- Text-to-speech (Y-IT narrator voice)
+- Text-to-speech (Y-It narrator voice)
 - Increases shareability (social media viral potential)
 
 **5. Personalization Engine**
@@ -1791,7 +1791,7 @@ Build predictive models to forecast customer lifetime value, churn risk, and rev
 ### 6.4 API for Third-Party Integrations (Months 20-24)
 
 **Overview:**
-Public API allowing third-party platforms, tools, and services to integrate Y-IT content.
+Public API allowing third-party platforms, tools, and services to integrate Y-It content.
 
 **Priority:** LOW (Ecosystem expansion, long-term play)
 
@@ -1805,21 +1805,21 @@ Public API allowing third-party platforms, tools, and services to integrate Y-IT
 **1. Content API**
 - Access book metadata (titles, descriptions, stats)
 - Retrieve case studies, quotes
-- Integrate Y-IT content into third-party platforms
+- Integrate Y-It content into third-party platforms
 
 **2. Evaluator API**
-- Allow third-party apps to use Y-IT evaluator
-- Example: Business plan software integrates Y-IT reality check
+- Allow third-party apps to use Y-It evaluator
+- Example: Business plan software integrates Y-It reality check
 - Revenue: API usage fees ($0.05-$0.10 per roast)
 
 **3. Analytics API**
 - Share anonymized failure statistics with researchers, journalists
-- Example: "Y-IT reports 92% dropshipping failure rate"
+- Example: "Y-It reports 92% dropshipping failure rate"
 - Drives credibility, backlinks
 
 **4. Purchase API**
-- Enable third-party affiliates to sell Y-IT products via API
-- Example: Business education platforms offer Y-IT books
+- Enable third-party affiliates to sell Y-It products via API
+- Example: Business education platforms offer Y-It books
 
 **API Pricing:**
 - **Free Tier:** 1,000 requests/month (content API only)
@@ -1958,7 +1958,7 @@ Public API allowing third-party platforms, tools, and services to integrate Y-IT
 **Key Initiatives:**
 - ✅ Annual book updates (Tier 1-2, 30 books)
 - ✅ Extended Editions (first 6 books)
-- 🚀 Y-IT Certification program launch
+- 🚀 Y-It Certification program launch
 - ✅ French + German translations
 - ✅ AI evaluator v2.0 (multi-turn, personalization)
 - ✅ Affiliate program scale (200 affiliates)
@@ -2365,12 +2365,12 @@ Public API allowing third-party platforms, tools, and services to integrate Y-IT
 
 **Before launching any initiative, validate:**
 
-1. **Strategic Fit:** Does it align with Y-IT's mission (honest, data-driven, contrarian)?
+1. **Strategic Fit:** Does it align with Y-It's mission (honest, data-driven, contrarian)?
 2. **Revenue Potential:** Minimum $10K/month revenue impact within 12 months
 3. **Resource Availability:** Team capacity exists or can be hired
 4. **Market Validation:** Demand validated through surveys, pilot, or existing data
 5. **Technical Feasibility:** Platform can support within 6 months
-6. **Brand Consistency:** Maintains Y-IT voice and quality standards
+6. **Brand Consistency:** Maintains Y-It voice and quality standards
 
 **If ANY criterion fails → Delay or Cancel**
 
@@ -2395,11 +2395,11 @@ Public API allowing third-party platforms, tools, and services to integrate Y-IT
 **Phase 3 Potential Focus Areas (Months 36-60):**
 - Topics 101-200 (third wave, ultra-niche)
 - AI-powered business simulation tools
-- Y-IT University (comprehensive online courses)
-- Physical events/conferences ("Y-IT Reality Summit")
+- Y-It University (comprehensive online courses)
+- Physical events/conferences ("Y-It Reality Summit")
 - Book club / membership community premium tier
-- White-label platform (sell Y-IT software to other publishers)
-- Franchise model (regional Y-IT experts)
+- White-label platform (sell Y-It software to other publishers)
+- Franchise model (regional Y-It experts)
 - Documentary series (Netflix, YouTube Premium)
 
 **Phase 3 Goals:**
@@ -2424,7 +2424,7 @@ Public API allowing third-party platforms, tools, and services to integrate Y-IT
 **Key Success Factors:**
 1. Execute quick wins early (Months 6-12) to fund larger bets
 2. Validate with pilots before scaling (mobile app, translations, certifications)
-3. Maintain Y-IT voice and quality across all new initiatives
+3. Maintain Y-It voice and quality across all new initiatives
 4. Balance growth investment with profitability (margin improves in Phase 3)
 5. Build competitive moats (community, AI, international, brand authority)
 
@@ -2437,7 +2437,7 @@ Public API allowing third-party platforms, tools, and services to integrate Y-IT
 
 ---
 
-*Y-IT Phase 2 Roadmap*
+*Y-It Phase 2 Roadmap*
 *Months 6-36: Optimize, Expand, Transform*
 *From $70K/month to $260K/month*
 *10,000 customers to 100,000 customers*

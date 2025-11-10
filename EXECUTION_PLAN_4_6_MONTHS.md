@@ -1,4 +1,4 @@
-# Y-IT EXTREME EXECUTION PLAN: 4-6 MONTHS TO $11K/MONTH
+# Y-It EXTREME EXECUTION PLAN: 4-6 MONTHS TO $11K/MONTH
 ## 60+ Hours/Week • Full-Time Aggressive Build • $850 Investment
 
 **Timeline:** 4-6 months to 50 topics
@@ -258,7 +258,7 @@
 7:00-10:00  Reddit/forum mining for failure stories (all 4 topics)
 10:00-12:00 AI draft case studies (7 per topic = 28 total)
 ---LUNCH---
-1:00-4:00   Edit case studies for Y-IT voice, anonymize
+1:00-4:00   Edit case studies for Y-It voice, anonymize
 4:00-6:00   Format case studies into templates
 ---DINNER---
 7:00-9:00   Final QA, ensure diversity of archetypes
