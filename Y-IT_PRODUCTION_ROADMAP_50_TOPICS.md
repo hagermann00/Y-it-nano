@@ -384,24 +384,65 @@ Weeks: 1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21
 
 **Total Investment:** ~$815,000 (or ~$16,300/topic)
 
-### Revenue Projections
+### Revenue Projections (Tiered Model - Realistic)
 
-**Per Topic (at scale, 12+ months)**
+**Per Topic by Tier (at scale, 12+ months)**
+
+**Tier 1 Topics (10 topics - Highest pain + search volume):**
 - Print: 500 copies/month @ $0.70 net = $350/month
-- Digital: 100 sales/month @ $3.79 net = $379/month
-- Web Premium: 30 subs @ $4.99 = $150/month
+- Digital: 150 sales/month @ $3.29 net = $494/month
+- Web Premium: 15 subs @ $4.99 = $75/month
+- Bundles: 75 @ $4.50 avg = $338/month
+- **Monthly per Tier 1 topic:** $1,257
+- **Tier 1 Total:** 10 × $1,257 = $12,570/month
+
+**Tier 2 Topics (10 topics - High demand):**
+- Print: 300 copies/month @ $0.70 net = $210/month
+- Digital: 100 sales/month @ $3.29 net = $329/month
+- Web Premium: 10 subs @ $4.99 = $50/month
 - Bundles: 50 @ $4.50 avg = $225/month
-- **Monthly per topic:** $1,104
+- **Monthly per Tier 2 topic:** $814
+- **Tier 2 Total:** 10 × $814 = $8,140/month
+
+**Tier 3 Topics (10 topics - Established markets):**
+- Print: 200 copies/month @ $0.70 net = $140/month
+- Digital: 75 sales/month @ $3.29 net = $247/month
+- Web Premium: 8 subs @ $4.99 = $40/month
+- Bundles: 35 @ $4.50 avg = $158/month
+- **Monthly per Tier 3 topic:** $585
+- **Tier 3 Total:** 10 × $585 = $5,850/month
+
+**Tier 4 Topics (10 topics - Emerging + niche):**
+- Print: 150 copies/month @ $0.70 net = $105/month
+- Digital: 50 sales/month @ $3.29 net = $165/month
+- Web Premium: 6 subs @ $4.99 = $30/month
+- Bundles: 25 @ $4.50 avg = $113/month
+- **Monthly per Tier 4 topic:** $413
+- **Tier 4 Total:** 10 × $413 = $4,130/month
+
+**Tier 5 Topics (10 topics - Hyper-niche + long tail):**
+- Print: 100 copies/month @ $0.70 net = $70/month
+- Digital: 30 sales/month @ $3.29 net = $99/month
+- Web Premium: 5 subs @ $4.99 = $25/month
+- Bundles: 15 @ $4.50 avg = $68/month
+- **Monthly per Tier 5 topic:** $262
+- **Tier 5 Total:** 10 × $262 = $2,620/month
 
 **Portfolio Revenue (50 topics)**
-- 50 × $1,104 = $55,200/month
+- Tier 1-5 Combined: $33,310/month
+- Cross-sell effect (+15%): +$5,000/month
+- Annual subscriptions: +$2,500/month (300 subs @ $99/year)
+- **Gross Revenue:** $40,810/month ($489,720/year)
 - Less platform costs: -$1,500/month
-- **Net:** $53,700/month ($644,400/year)
+- **Net Revenue:** $39,310/month ($471,720/year)
+- **Conservative Range:** $530,000-$624,000/year (accounting for growth)
+
+**Average per topic:** $913/month (blended across all tiers)
 
 **ROI Timeline**
-- Break-even at full scale: ~15-16 months
-- 2-year projection: $1.3M revenue, $485K net profit
-- 3-year projection: $2.0M revenue, $1.2M net profit
+- Break-even at full scale: ~18-22 months
+- Year 2 revenue projection: $660K revenue, $520K net profit
+- Year 3 revenue projection: $950K revenue, $750K net profit
 
 ---
 
