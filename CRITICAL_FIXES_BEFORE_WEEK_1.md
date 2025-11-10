@@ -497,12 +497,12 @@ export default function EvaluatorPage() {
 **Status:** ✅ CORRECTED
 
 **Actions Completed:**
-- ✅ Updated Y-IT_PRODUCTION_ROADMAP_50_TOPICS.md
+- ✅ Updated Y-It_PRODUCTION_ROADMAP_50_TOPICS.md
   - Changed "Gumroad: 100 sales/month @ $3.79 net = $379/month"
   - To: "Gumroad: 100 sales/month @ $3.29 net (after 10% + $0.30 fees) = $329/month"
   - Recalculated portfolio revenue: $644K → $472K-$624K
 - ✅ Updated Claude.md, STRATEGIC_SUMMARY.md, COMPLETE_ARCHITECTURE_SUMMARY.md
-- ✅ Updated Y-IT_PLATFORM_ARCHITECTURE.md, CURRENT_STATUS_AND_SETUP_RECORD.md
+- ✅ Updated Y-It_PLATFORM_ARCHITECTURE.md, CURRENT_STATUS_AND_SETUP_RECORD.md
 
 ---
 
@@ -514,7 +514,7 @@ export default function EvaluatorPage() {
 **Status:** ✅ CORRECTED
 
 **Actions Completed:**
-- ✅ Created revised projections table in Y-IT_PRODUCTION_ROADMAP_50_TOPICS.md:
+- ✅ Created revised projections table in Y-It_PRODUCTION_ROADMAP_50_TOPICS.md:
 
 | Tier | Topics | Monthly/Topic | Annual Revenue |
 |------|--------|---------------|-----------------|

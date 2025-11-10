@@ -1,8 +1,8 @@
-# Y-IT DATABASE SCHEMA DESIGN
+# Y-It DATABASE SCHEMA DESIGN
 
 ## Overview
 
-Complete PostgreSQL schema for Y-IT platform supporting:
+Complete PostgreSQL schema for Y-It platform supporting:
 - 50 nano-books (topics)
 - Content management (chapters, case studies, statistics)
 - User accounts and purchases
@@ -1073,6 +1073,6 @@ pg_restore -U postgres -d yit_database -Fc backup_20250110_120000.dump
 
 ---
 
-*Y-IT Database Schema v1.0*
+*Y-It Database Schema v1.0*
 *PostgreSQL 12+*
 *Universal Topic-Agnostic Design*

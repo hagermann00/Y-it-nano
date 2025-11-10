@@ -1,8 +1,8 @@
-# Y-IT NANO-BOOK: EXECUTION SUMMARY & READY FOR DESIGN PHASE
+# Y-It NANO-BOOK: EXECUTION SUMMARY & READY FOR DESIGN PHASE
 
 **Status:** ✅ PHASES 1-2 COMPLETE - READY FOR DESIGNER HANDOFF
 **Date:** November 8, 2025
-**Book:** Y-IT: Why Your Dropship Probably Will Fail
+**Book:** Y-It: Why Your Dropship Probably Will Fail
 **Format:** 24-page KDP (6×9" trade paperback)
 
 ---
@@ -342,7 +342,7 @@ No content writing needed. All copy is prepared.
 1. `MANUSCRIPT_AUDIT_AND_24PAGE_STRUCTURE.md` - 905 lines, complete audit
 2. `PHASE_2_CONTENT_EXTRACTION_24PAGES.md` - 815 lines, all page content
 3. `STRATEGIC_SUMMARY.md` - 376 lines, quick reference
-4. `Y-IT_NANO_BOOK_STRATEGIC_RECOMMENDATION.md` - 732 lines, full strategy
+4. `Y-It_NANO_BOOK_STRATEGIC_RECOMMENDATION.md` - 732 lines, full strategy
 
 **All content is:**
 - ✅ Organized by page

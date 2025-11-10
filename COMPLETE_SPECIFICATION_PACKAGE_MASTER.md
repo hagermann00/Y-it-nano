@@ -1,15 +1,15 @@
-# Y-IT NANO-BOOK: COMPLETE SPECIFICATION PACKAGE (MASTER)
+# Y-It NANO-BOOK: COMPLETE SPECIFICATION PACKAGE (MASTER)
 
 **Status:** ✅ ALL PHASES COMPLETE & READY FOR DESIGNER EXECUTION
 **Date:** November 8, 2025
-**Project:** Y-IT Dropshipping Nano-Book (35-page → 24-page KDP)
+**Project:** Y-It Dropshipping Nano-Book (35-page → 24-page KDP)
 
 ---
 
 ## PACKAGE CONTENTS (7 Complete Specification Documents)
 
 ### 1. **STRATEGIC RECOMMENDATION** (732 lines)
-`Y-IT_NANO_BOOK_STRATEGIC_RECOMMENDATION.md`
+`Y-It_NANO_BOOK_STRATEGIC_RECOMMENDATION.md`
 - Format decision: 6×9" trade paperback
 - Multi-format ecosystem strategy (print + web + podcast + lead magnet)
 - Pricing and bundle architecture
@@ -52,7 +52,7 @@
 - Complete designer checklist
 
 ### 6. **STYLE GUIDE** (462 lines)
-`Y-IT_STYLE_GUIDE_VOICE_TONE.md`
+`Y-It_STYLE_GUIDE_VOICE_TONE.md`
 - Core voice definition (satirical contrarian analyst)
 - Tone characteristics and credibility markers
 - Writing approach and sentence structure
@@ -257,7 +257,7 @@
 ### Pages 10-11: CHAPTER 8 - IF YOU'RE STILL HERE
 - Tone shift: warmer, more hopeful
 - Honesty contract (5-point commitment)
-- "What's next?" section with Y-IT cross-sells
+- "What's next?" section with Y-It cross-sells
 - Preview of next nano-books
 
 ### Pages 11-12: CONCLUSION + BACK COVER
@@ -316,7 +316,7 @@
 - Why each works better
 
 ### Pages 23-24: ADDENDUM - RESOURCES & NEXT STEPS
-- Next Y-IT books preview
+- Next Y-It books preview
 - Interactive version details (y-it.com/dropshipping)
 - Podcast series (Spotify, Apple, YouTube)
 - Email signup (y-it.com/subscribe)
@@ -432,11 +432,11 @@ All files committed and pushed to branch:
 1. `PHASE_2_CONTENT_EXTRACTION_24PAGES.md` ← **Primary reference (all page content)**
 2. `MANUSCRIPT_AUDIT_AND_24PAGE_STRUCTURE.md` ← Content audit, images, structure
 3. `EXECUTION_SUMMARY_READY_FOR_DESIGN.md` ← Designer brief, specs, timeline
-4. `Y-IT_STYLE_GUIDE_VOICE_TONE.md` ← Brand voice and tone standards
+4. `Y-It_STYLE_GUIDE_VOICE_TONE.md` ← Brand voice and tone standards
 5. `COMPLETE_SPECIFICATION_PACKAGE_MASTER.md` ← This document (integration guide)
 
 **Supporting Files:**
-6. `Y-IT_NANO_BOOK_STRATEGIC_RECOMMENDATION.md` ← Strategic overview
+6. `Y-It_NANO_BOOK_STRATEGIC_RECOMMENDATION.md` ← Strategic overview
 7. `STRATEGIC_SUMMARY.md` ← Quick reference
 
 ---

@@ -1,4 +1,4 @@
-# Y-IT PLATFORM ARCHITECTURE v1.0
+# Y-It PLATFORM ARCHITECTURE v1.0
 
 ## Universal Infrastructure for 50+ Nano-Books (Topic-Agnostic)
 
@@ -12,7 +12,7 @@
 USER JOURNEY:
 
 1. FREE LEAD MAGNET (AI Evaluator)
-   └─ User submits idea in any Y-IT topic
+   └─ User submits idea in any Y-It topic
    └─ AI evaluator generates "roast" (1-2 pages, PDF)
    └─ Email captured + topic-specific nurture begins
 
@@ -38,7 +38,7 @@ USER JOURNEY:
    └─ Bonus: Case study repository, resources, tools
 
 5. RETENTION (Cross-Sell & Community)
-   └─ In-book cross-sell to other Y-IT topics
+   └─ In-book cross-sell to other Y-It topics
    └─ Email campaigns (other books)
    └─ Bundle offers (print + related topics)
    └─ Annual subscription (all content, all updates)
@@ -591,7 +591,7 @@ CHAPTER 7: What Actually Works Instead
 CHAPTER 8: If You're Still Here
 ├─ Honesty contract
 ├─ Tone shift (cynical → hopeful)
-├─ Next Y-IT books
+├─ Next Y-It books
 └─ Commitment checklist
 ```
 
@@ -681,7 +681,7 @@ CHAPTER 8: If You're Still Here
 8. EMAIL SEQUENCE TRIGGERS
    ├─ Day 0: "Your Roast is Ready" + PDF + book preview
    ├─ Day 3: Case study excerpt (one matching their situation)
-   ├─ Day 7: Social proof + other Y-IT books
+   ├─ Day 7: Social proof + other Y-It books
    └─ Day 14: "Last chance" bundle offer
 
 9. USER CONVERTS (Or Doesn't)
