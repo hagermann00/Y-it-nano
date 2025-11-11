@@ -1190,10 +1190,9 @@ Define brand colors per topic:
 
 Then reference in custom CSS:
 
-```css
 :root {
-  --primary-color: var(--primary);
-  --secondary-color: var(--secondary);
+  --primary-color: #E63946; /* Value from config */
+  --secondary-color: #D4AF37; /* Value from config */
 }
 
 h1 {
