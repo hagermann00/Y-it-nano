@@ -70,13 +70,14 @@ The vision is compelling. Entrepreneurship without startup complexity. Passive i
 
 ### The Reality
 
-**What They Promise | What Actually Happens**
-$500 startup | $10K-$50K minimum
-90 days to profitability | 5-9 months typical
-Passive income, "set and forget" | 20-40 hours/month ongoing
-$10K/month in Year 1 | Median income: $8K-$15K/year
-"90% of my students succeed" | 17% still active after 5 years
-Easy competition | 12,000+ sellers per category
+| What They Promise            | What Actually Happens      |
+|------------------------------|----------------------------|
+| $500 startup                 | $10K-$50K minimum          |
+| 90 days to profitability     | 5-9 months typical         |
+| Passive income, "set and forget" | 20-40 hours/month ongoing  |
+| $10K/month in Year 1         | Median income: $8K-$15K/year |
+| "90% of my students succeed" | 17% still active after 5 years |
+| Easy competition             | 12,000+ sellers per category |
 
 **Actual Statistics:**
 - Real startup capital: $10,000-$50,000 (not $500)
