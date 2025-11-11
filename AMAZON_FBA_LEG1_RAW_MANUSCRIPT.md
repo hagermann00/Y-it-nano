@@ -22,6 +22,8 @@ leg_status: ready-for-leg2
 
 ### PAGE 1-2: FRONT COVER & TITLE PAGE
 
+[IMAGE:fullwidth:amazon-fba-hero-cover]
+
 Y-IT
 
 **Why Your Amazon FBA Business Probably Will Fail: Even Though You've Heard Otherwise**
@@ -48,7 +50,7 @@ The narrative you've heard everywhere—YouTube videos, guru courses, influencer
 
 The Amazon FBA dream is seductive. The promises are everywhere: YouTube videos, TikTok ads, guru courses, success stories. The narrative is consistent, compelling, and universally optimistic.
 
-**"Start with just $500"** - You don't need much capital. Entrepreneurs just like you started with a few hundred dollars. No inventory risk. No shipping complications. Just pure e-commerce leverage.
+**"Start with just $500"** - You don't need much capital. Entrepreneurs exactly like you (broke and optimistic) started with a few hundred dollars. No inventory risk. No shipping complications. Pure e-commerce leverage, guaranteed.
 
 **"Make $10K/month in 90 days"** - My average student achieves profitability within 3 months. Most successful students make $10K+ by month 4. Some break $50K within their first year.
 
@@ -85,7 +87,7 @@ Easy competition | 12,000+ sellers per category
 - Time commitment (Year 1): 400-600 hours (3-4 months equivalent full-time)
 - True success rate ($1M+): 2.9% of sellers
 
-The FBA market is genuinely massive—$105 billion annually, 25% year-over-year growth. The problem isn't market size. The problem is distribution. 80% of revenue captured by 20% of sellers. The other 80% are literally dividing scraps.
+The FBA market is genuinely massive—$105 billion annually, 25% year-over-year growth. The problem isn't market size. The problem is *distribution*. 80% of revenue captured by 20% of sellers. The other 80% are literally fighting for table scraps.
 
 ---
 
@@ -113,7 +115,7 @@ At the end: "Limited-time offer: $297 course, plus bonuses worth $1,000+, availa
 
 Why today? Scarcity creates urgency. FOMO overrides skepticism. Bonuses include: Product research templates. Amazon secrets checklist. Private community access. Email sequences.
 
-Cost to deliver: ~$50. Cost to charge: $297. Margin: 83%.
+Their cost to deliver: ~$50. Their cost to charge you: $297. Their margin: 83%. Their business model: flawless.
 
 **Step 4: PURCHASE - The Hope Injection**
 
@@ -127,7 +129,7 @@ You follow the system. You source a product. You invest $2,500-$5,000. You launc
 
 Returns higher than expected. Fees higher than calculated. Margins half of what assumed. Competitors 3-4x more numerous. Profitability months away, not weeks.
 
-By Month 3, you realize the course didn't prepare you for real challenges. By Month 6, you've spent $4,000-$8,000 and earned $300-$500 in actual profit. The math isn't working.
+By Month 3, you realize the course was motivational theater, not operational guidance. By Month 6, you've spent $4,000-$8,000 and earned $300-$500 in actual profit. The math isn't working. It was never going to work.
 
 The guru is already selling the next level: "Advanced course for $997" or "Personal coaching for $5K."
 
@@ -145,7 +147,7 @@ The guru is already selling the next level: "Advanced course for $997" or "Perso
 
 **Month 5-6:** Motivation 0%. Lost $4K-$6K. Profitability impossible. **QUIT.**
 
-**Critical Finding:** 90% of sellers quit between months 3-6. Not because they're lazy or lack skill. The math doesn't work. Capital is exhausted. Profitability never materializes.
+**Critical Finding:** 90% of sellers quit between months 3-6. Not because they're lazy. Not because they lack skill. The math doesn't work. The capital runs out. Profitability never materializes. The business was broken before they started.
 
 ---
 
@@ -214,18 +216,18 @@ Most don't achieve profitability until Month 5-9, meaning you're bleeding capita
 
 Selling Price: $20.00
 Referral Fee (15%): -$3.00
-FBA Fulfillment: -$3.00
+FBA Fulfillment: -$3.50
 Monthly Storage (averaged): -$0.30
 Returns (10% rate): -$0.60
-Returns Processing Fee: -$0.30
-**Total Fees: -$7.20**
-**Net Revenue: $12.80 (64% of price)**
-Cost of Goods (30-50%): -$6.00
-**Gross Profit per Unit: $6.80 (34% margin)**
+Returns Processing Fee: -$0.40
+**Total Fees: -$7.80**
+**Net Revenue: $12.20 (61% of price)**
+Cost of Goods (30%): -$6.00
+**Gross Profit per Unit: $6.20 (31% margin)**
 
-But that's before advertising costs, which typically run 5-15% of revenue.
+But that's before advertising costs, which typically run 5-15% of revenue. Real profitability? Often zero or negative once ads are included.
 
-**Adjusted Profit per Unit: $4.80-$5.80 per sale**
+**Adjusted Profit per Unit (after ads): $1.80-$3.80 per sale (if not loss-making)**
 
 On a $20 product, 100 units sold = $480-$580 gross profit. But if you spent $800 on ads, you're operating at a loss.
 
@@ -304,6 +306,14 @@ If they quit Month 8+: Loss $5,500-$7,000+
 
 Real stories from real sellers. Typical failure patterns.
 
+[IMAGE:portrait:karen-lewis-inventory-master]
+[IMAGE:portrait:marcus-johnson-expert-entrepreneur]
+[IMAGE:portrait:sarah-chan-side-hustler]
+[IMAGE:portrait:jefferson-reid-policy-shock]
+[IMAGE:portrait:emily-patterson-returns-nightmare]
+[IMAGE:portrait:david-lim-supplier-collapse]
+[IMAGE:portrait:rachel-tomlinson-saturated-market]
+
 **Karen Lewis - The Undercapitalized Inventory Master**
 Invested $4,000 in 500 kitchen gadgets, forecasting 60 units/month. Reality: 18-22/month. By month 5, long-term storage fees ($1,800) consumed her projected profits. Financial cascade: inventory → fees → margin collapse → $5,200 total loss. Lesson: Long-term storage fees turn slow inventory into liabilities within 90 days.
 
@@ -329,13 +339,15 @@ Social media manager with 45K followers chose phone cases (150K monthly searches
 
 **Y-IT TRUTH™**
 
-The uncomfortable thing all these stories have in common? They did everything "right." The business model itself is fundamentally broken for 95% of people. It's not execution failure. It's math failure.
+The uncomfortable thing all these stories have in common? They did everything "right." They followed the system. They researched. They executed. They failed anyway. The business model itself is fundamentally broken for 95% of people. It's not execution failure. It's structural failure. It's math that doesn't add up.
 
 ---
 
 ## MODULE 6: THE NUMBERS (Pages 16-17)
 
 The statistics for Amazon FBA sellers are brutal. Not because the market is hard. Because the business model is structurally misaligned with promised outcomes.
+
+[IMAGE:chart:survival-curve-100-to-2]
 
 ### Seller Survival Rate (Realistic)
 
@@ -453,9 +465,9 @@ For 95% of people reading this, Amazon FBA is a bad financial decision.
 ☐ You can absorb $10,000-$30,000 loss without family strain
 ☐ You're willing to sacrifice other opportunities
 
-If you checked <5 of these boxes: Your success probability is <5%. You're not ready.
+If you checked <5 of these boxes: Your success probability is <5%. You're not ready. Don't go.
 
-If you checked all 8: Your success probability is 15-20%. Still 80-85% chance you'll fail.
+If you checked all 8: Your success probability is 15-20%. You have an 80-85% chance of failure. Even with everything aligned.
 
 ### Better Alternatives
 
@@ -583,11 +595,9 @@ This book exists to tell you why.
 
 **If you're still committed to trying Amazon FBA after reading this:**
 
-You understand the risks. You've done your research. You might be one of the 5% who actually succeeds.
+You understand the risks. You understand the math. You've looked at the odds and decided to roll the dice anyway. You might be one of the 5% who actually succeeds. And if you are, we genuinely salute you.
 
-If you are, we salute you.
-
-**But if you've changed your mind:** That's the smarter decision. Go build something with better odds.
+**But if you've changed your mind:** That's the statistically smarter decision. Go build something with better odds. Go build something where the math actually works. Your future self will thank you.
 
 ---
 
