@@ -1,0 +1,270 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║              Y-IT PDF ASSEMBLY SYSTEM - QUICK START CARD                 ║
+║                      5 Minutes to Your First PDF                          ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+STEP 1: INSTALL (First Time Only - 2 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+$ pip install markdown weasyprint Pillow PyPDF2 reportlab
+
+Verify:
+$ python3 -c "import markdown, weasyprint; print('✓ Ready!')"
+
+
+STEP 2: SETUP PER TOPIC (2 minutes)
+───────────────────────────────────────────────────────────────────────────
+
+Copy config template:
+$ cp /home/user/Y-it-nano/templates/TEMPLATE_CONFIG.json \
+     /home/user/Y-it-nano/templates/your-topic-config.json
+
+Edit the config file:
+$ nano /home/user/Y-it-nano/templates/your-topic-config.json
+
+Update these 4 fields:
+  "topic": "your-topic"
+  "manuscript_path": "/path/to/YOUR_LEG2_REFINED_MANUSCRIPT.md"
+  "imagery_path": "/home/user/Y-it-nano/imagery/your-topic/"
+  "output_path": "/home/user/Y-it-nano/pdfs/your-topic-final.pdf"
+
+Create imagery directory:
+$ mkdir -p /home/user/Y-it-nano/imagery/your-topic/
+
+
+STEP 3: GENERATE PDF (1 minute)
+───────────────────────────────────────────────────────────────────────────
+
+$ python3 /home/user/Y-it-nano/scripts/pdf_generator.py \
+    --config /home/user/Y-it-nano/templates/your-topic-config.json
+
+You'll see:
+  [1/5] Parsing manuscript...
+  [2/5] Processing images...
+  [3/5] Generating HTML document...
+  [4/5] Generating PDF...
+  [5/5] Validating PDF...
+  ✓ SUCCESS: PDF generated
+
+
+DONE! Your PDF is ready at:
+  /home/user/Y-it-nano/pdfs/your-topic-final.pdf
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+FILE LOCATIONS (Save This!)
+───────────────────────────────────────────────────────────────────────────
+
+Main Script:
+  /home/user/Y-it-nano/scripts/pdf_generator.py
+
+CSS Stylesheet:
+  /home/user/Y-it-nano/styles/kdp-template.css
+
+Configuration Template:
+  /home/user/Y-it-nano/templates/TEMPLATE_CONFIG.json
+
+Example Configs:
+  /home/user/Y-it-nano/templates/dropshipping-example-config.json
+  /home/user/Y-it-nano/templates/amazon-fba-example-config.json
+
+Documentation:
+  /home/user/Y-it-nano/PDF_SETUP_QUICKSTART.md (5 min read)
+  /home/user/Y-it-nano/PDF_ASSEMBLY_README.md (20 min read)
+  /home/user/Y-it-nano/PDF_ASSEMBLY_DOCUMENTATION.md (complete reference)
+  /home/user/Y-it-nano/PDF_SYSTEM_INDEX.md (navigation guide)
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+COMMON COMMANDS
+───────────────────────────────────────────────────────────────────────────
+
+Generate PDF (basic):
+  python3 /home/user/Y-it-nano/scripts/pdf_generator.py \
+    --config /home/user/Y-it-nano/templates/your-topic-config.json
+
+Generate with custom output:
+  python3 /home/user/Y-it-nano/scripts/pdf_generator.py \
+    --config /home/user/Y-it-nano/templates/your-topic-config.json \
+    --output /custom/path/output.pdf
+
+Validate existing PDF:
+  python3 /home/user/Y-it-nano/scripts/pdf_generator.py \
+    --config /home/user/Y-it-nano/templates/your-topic-config.json \
+    --validate-only
+
+Debug output:
+  python3 /home/user/Y-it-nano/scripts/pdf_generator.py \
+    --config /home/user/Y-it-nano/templates/your-topic-config.json \
+    --verbose
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+MARKDOWN FORMAT (In Your Manuscript)
+───────────────────────────────────────────────────────────────────────────
+
+Frontmatter (at top of file):
+  ---
+  title: "Y-It: Topic—Subtitle"
+  author: "Y-It Guides"
+  topic: "topic-name"
+  page_count: 24
+  ---
+
+Insert image:
+  [IMAGE:portrait:image-filename]
+  [IMAGE:chart:chart-filename]
+  [IMAGE:fullwidth:banner-filename]
+
+Callout box:
+  [CALLOUT BOX]
+  Important text here
+
+Page break:
+  ---
+
+Headers:
+  # H1 Title
+  ## H2 Section
+  ### H3 Subsection
+
+Lists:
+  - Item 1
+  - Item 2
+    - Nested item
+
+Tables:
+  | Header 1 | Header 2 |
+  |----------|----------|
+  | Data 1   | Data 2   |
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+TROUBLESHOOTING (Quick Fixes)
+───────────────────────────────────────────────────────────────────────────
+
+Module not found error?
+  $ pip install --force-reinstall markdown weasyprint Pillow PyPDF2
+
+Config file not found?
+  Use absolute path: /home/user/Y-it-nano/templates/your-config.json
+
+Manuscript file not found?
+  Check path in config file is correct and absolute
+
+Images not appearing?
+  1. Check /home/user/Y-it-nano/imagery/your-topic/ has images
+  2. Verify filenames match [IMAGE:type:name] in manuscript
+  3. Check file extensions (.png, .jpg, .svg)
+
+Page count wrong?
+  Edit config and update "page_count" value
+
+For more help:
+  Read: /home/user/Y-it-nano/PDF_ASSEMBLY_DOCUMENTATION.md
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+CONFIG TEMPLATE FIELDS (Edit These for Each Topic)
+───────────────────────────────────────────────────────────────────────────
+
+REQUIRED (must fill in):
+  "topic": "your-topic"
+  "title": "Y-It: Topic—Subtitle"
+  "manuscript_path": "/path/to/LEG2_MANUSCRIPT.md"
+  "imagery_path": "/home/user/Y-it-nano/imagery/your-topic/"
+  "output_path": "/home/user/Y-it-nano/pdfs/your-topic-final.pdf"
+  "page_count": 24
+
+OPTIONAL (can customize):
+  "color_scheme": { "primary": "#YOUR_HEX_COLOR", ... }
+  "isbn": "ISBN_NUMBER_OR_TO_BE_ASSIGNED"
+  "publication_date": "2025-11-18"
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+VERIFICATION CHECKLIST
+───────────────────────────────────────────────────────────────────────────
+
+Before generating:
+  ☐ Dependencies installed (pip check)
+  ☐ Manuscript exists and is readable
+  ☐ Imagery directory created
+  ☐ Config file valid JSON (no syntax errors)
+
+After generating:
+  ☐ PDF file created
+  ☐ Page count is correct
+  ☐ Images are visible
+  ☐ Typography looks good
+  ☐ Colors match config
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+NEXT STEPS
+───────────────────────────────────────────────────────────────────────────
+
+1. Install dependencies (pip install...)
+2. Create config for first topic
+3. Generate first PDF
+4. Review output
+5. Create configs for remaining 10 topics
+6. Batch generate all PDFs
+7. Submit to KDP
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+SUPPORT
+───────────────────────────────────────────────────────────────────────────
+
+Quick questions?
+  → See PDF_ASSEMBLY_README.md (20 min read)
+
+Need detailed help?
+  → See PDF_ASSEMBLY_DOCUMENTATION.md (complete reference)
+
+Can't find answer?
+  → Check FAQ in PDF_ASSEMBLY_DOCUMENTATION.md
+
+Want to navigate system?
+  → See PDF_SYSTEM_INDEX.md
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+SPECIFICATIONS
+───────────────────────────────────────────────────────────────────────────
+
+Page Size:      6" × 9" (KDP standard)
+Bleed:          0.125" all sides
+Resolution:     300 DPI (print quality)
+Fonts:          Bebas Neue, Lato, Open Sans (embedded)
+Color Profile:  RGB (CMYK-compatible for print)
+Time Per Topic: 5 minutes
+Topics:         All 11 Y-IT topics (scalable)
+
+
+═════════════════════════════════════════════════════════════════════════════
+
+SYSTEMS GO! YOU'RE READY!
+───────────────────────────────────────────────────────────────────────────
+
+Your Y-IT PDF Assembly System is:
+  ✓ Installed
+  ✓ Configured
+  ✓ Documented
+  ✓ Ready for production
+
+Start with Step 1 above!
+
+═════════════════════════════════════════════════════════════════════════════
