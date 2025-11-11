@@ -4,7 +4,7 @@
 
 set -e
 
-PROJECT_ROOT="/home/user/Y-it-nano"
+PROJECT_ROOT=$(dirname "$0")/..
 SCRIPT="${PROJECT_ROOT}/scripts/pdf_generator.py"
 CONFIG="${PROJECT_ROOT}/templates/dropshipping-example-config.json"
 MANUSCRIPT="${PROJECT_ROOT}/DROPSHIPPING_LEG1_RAW_MANUSCRIPT.md"
