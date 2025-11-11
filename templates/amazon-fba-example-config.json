@@ -5,9 +5,9 @@
   "author": "Y-It Guides",
   "isbn": "978-1-234567-01-2",
   "publication_date": "2025-11-18",
-  "manuscript_path": "/home/user/Y-it-nano/AMAZON_FBA_LEG2_REFINED_MANUSCRIPT.md",
-  "imagery_path": "/home/user/Y-it-nano/imagery/amazon-fba/",
-  "output_path": "/home/user/Y-it-nano/pdfs/amazon-fba-final.pdf",
+  "manuscript_path": "AMAZON_FBA_LEG2_REFINED_MANUSCRIPT.md",
+  "imagery_path": "imagery/amazon-fba/",
+  "output_path": "pdfs/amazon-fba-final.pdf",
   "page_count": 24,
   "color_scheme": {
     "primary": "#FF9900",
