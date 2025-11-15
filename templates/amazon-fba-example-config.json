@@ -1,0 +1,84 @@
+{
+  "topic": "amazon-fba",
+  "title": "Y-It: Amazon FBA—Seller Central Survival",
+  "subtitle": "How to Avoid the 92% Failure Rate in Amazon Private Label",
+  "author": "Y-It Guides",
+  "isbn": "978-1-234567-01-2",
+  "publication_date": "2025-11-18",
+  "manuscript_path": "AMAZON_FBA_LEG2_REFINED_MANUSCRIPT.md",
+  "imagery_path": "imagery/amazon-fba/",
+  "output_path": "pdfs/amazon-fba-final.pdf",
+  "page_count": 24,
+  "color_scheme": {
+    "primary": "#FF9900",
+    "secondary": "#146EB4",
+    "text": "#333333",
+    "background": "#F5F5F5",
+    "accent1": "#FFB81C",
+    "accent2": "#0066CC"
+  },
+  "fonts": {
+    "header": "Bebas Neue",
+    "body": "Lato",
+    "subheader": "Open Sans",
+    "monospace": "Courier New"
+  },
+  "specs": {
+    "width": 6,
+    "height": 9,
+    "width_unit": "inches",
+    "height_unit": "inches",
+    "margin_top": 0.5,
+    "margin_bottom": 0.5,
+    "margin_left": 0.5,
+    "margin_right": 0.5,
+    "bleed": 0.125,
+    "dpi": 300,
+    "colorspace": "CMYK"
+  },
+  "content_config": {
+    "include_toc": true,
+    "include_copyright": true,
+    "include_about_author": true,
+    "enable_page_numbers": true,
+    "page_number_position": "footer",
+    "header_text": "Y-It Guides",
+    "footer_text": "Amazon FBA"
+  },
+  "validation": {
+    "check_page_count": true,
+    "check_image_quality": true,
+    "check_font_embedding": true,
+    "check_metadata": true,
+    "check_bleed": true,
+    "check_dpi": true,
+    "expected_page_count": 24,
+    "expected_images": 10,
+    "expected_dpi": 300,
+    "expected_file_size_mb_min": 15,
+    "expected_file_size_mb_max": 80
+  },
+  "metadata": {
+    "creator": "Y-It Guides",
+    "producer": "Y-IT PDF Generator v1.0",
+    "keywords": "amazon fba, seller central, private label, product sourcing, ecommerce, fulfillment",
+    "subject": "A data-driven guide to the realities of Amazon FBA business models and success metrics"
+  },
+  "image_config": {
+    "portrait_width": 4.5,
+    "portrait_height": 6,
+    "chart_width": 5,
+    "chart_height": 3,
+    "full_width": 5.75,
+    "min_dpi": 300,
+    "supported_formats": ["png", "jpg", "jpeg", "svg", "gif", "webp"]
+  },
+  "processing": {
+    "convert_markdown": true,
+    "apply_css": true,
+    "embed_fonts": true,
+    "embed_images": true,
+    "optimize_pdf": true,
+    "validate_output": true
+  }
+}

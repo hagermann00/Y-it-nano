@@ -1,0 +1,98 @@
+{
+  "topic": "TOPIC_IDENTIFIER",
+  "title": "Y-It: [Topic Title]—[Subtitle]",
+  "subtitle": "[Full subtitle explaining the topic]",
+  "author": "Y-It Guides",
+  "isbn": "[TO_BE_ASSIGNED]",
+  "publication_date": "2025-11-18",
+  "manuscript_path": "/path/to/manuscript.md",
+  "imagery_path": "/path/to/imagery/directory/",
+  "output_path": "/path/to/output/topic-final.pdf",
+  "page_count": 24,
+  "color_scheme": {
+    "primary": "#E63946",
+    "secondary": "#D4AF37",
+    "text": "#333333",
+    "background": "#F5F5F5",
+    "accent1": "#2196F3",
+    "accent2": "#4CAF50"
+  },
+  "fonts": {
+    "header": "Bebas Neue",
+    "body": "Lato",
+    "subheader": "Open Sans",
+    "monospace": "Courier New"
+  },
+  "specs": {
+    "width": 6,
+    "height": 9,
+    "width_unit": "inches",
+    "height_unit": "inches",
+    "margin_top": 0.5,
+    "margin_bottom": 0.5,
+    "margin_left": 0.5,
+    "margin_right": 0.5,
+    "bleed": 0.125,
+    "dpi": 300,
+    "colorspace": "CMYK"
+  },
+  "content_config": {
+    "include_toc": true,
+    "include_copyright": true,
+    "include_about_author": true,
+    "enable_page_numbers": true,
+    "page_number_position": "footer",
+    "header_text": "Y-It Guides",
+    "footer_text": "[Topic Name]"
+  },
+  "validation": {
+    "check_page_count": true,
+    "check_image_quality": true,
+    "check_font_embedding": true,
+    "check_metadata": true,
+    "check_bleed": true,
+    "check_dpi": true,
+    "expected_page_count": 24,
+    "expected_images": 0,
+    "expected_dpi": 300,
+    "expected_file_size_mb_min": 10,
+    "expected_file_size_mb_max": 100
+  },
+  "metadata": {
+    "creator": "Y-It Guides",
+    "producer": "Y-IT PDF Generator v1.0",
+    "keywords": "[TOPIC, keywords, related, topics]",
+    "subject": "[Full topic description]"
+  },
+  "image_config": {
+    "portrait_width": 4.5,
+    "portrait_height": 6,
+    "chart_width": 5,
+    "chart_height": 3,
+    "full_width": 5.75,
+    "min_dpi": 300,
+    "supported_formats": ["png", "jpg", "jpeg", "svg", "gif", "webp"]
+  },
+  "processing": {
+    "convert_markdown": true,
+    "apply_css": true,
+    "embed_fonts": true,
+    "embed_images": true,
+    "optimize_pdf": true,
+    "validate_output": true
+  },
+  "_notes": {
+    "topic": "Short identifier (alphanumeric, hyphens ok). Used for filenames and references.",
+    "title": "Full title in format: Y-It: [Topic]—[Subtitle]",
+    "manuscript_path": "Absolute path to LEG 2 refined manuscript markdown file",
+    "imagery_path": "Directory containing all images for this topic",
+    "output_path": "Where to save the final PDF file",
+    "page_count": "Expected page count (typically 24 for Y-It books)",
+    "isbn": "Leave as TO_BE_ASSIGNED until ISBN is assigned; will be embedded in metadata",
+    "color_scheme": "Define brand colors per topic. Primary used for headers/emphasis, secondary for accents.",
+    "fonts": "Font names must match those available. Will be embedded in PDF.",
+    "specs": "KDP standard is 6\" × 9\" with 0.125\" bleed for trim marks",
+    "validation": "Set expected values for automated validation after PDF generation",
+    "image_config": "Define size constraints for different image types used in the topic"
+  }
+}
