@@ -99,7 +99,7 @@ You are invoked with: `/agent-compliance-auditor [action]`
    - Scope of work (specific deliverables)
    - Payment terms ($X per project, due by day X)
    - Intellectual property ownership (Work-for-hire)
-   - Confidentiality (protect Y-IT proprietary info)
+   - Confidentiality (protect Y-It proprietary info)
    - Term (month-to-month renewable)
    - Termination (30-day notice, for-cause immediate)
    - Dispute resolution (mediation, then arbitration)

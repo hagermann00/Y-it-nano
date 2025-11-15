@@ -33,7 +33,7 @@ You are invoked with: `/agent-lead-magnet-builder [action]`
    - AI analyzes and scores 5 dimensions
    - Generates harsh but fair assessment
    - Identifies red flags and realistic prospects
-   - Recommends relevant Y-IT books
+   - Recommends relevant Y-It books
    - Results delivered via email
 
 3. **Email Funnel**
@@ -127,7 +127,7 @@ You are invoked with: `/agent-lead-magnet-builder [action]`
 3. **Email Funnel Sequence**
    ```
    EMAIL 1 (Day 0 - Immediate):
-   Subject: "Here's your brutal Y-IT evaluation"
+   Subject: "Here's your brutal Y-It evaluation"
    - Deliver AI evaluation results
    - Personalized book recommendations
    - Offer: 20% off first book

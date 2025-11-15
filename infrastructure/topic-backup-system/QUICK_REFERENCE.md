@@ -1,4 +1,4 @@
-# Quick Reference - Y-IT Topic Backup System
+# Quick Reference - Y-It Topic Backup System
 
 Cheat sheet for common commands and workflows.
 

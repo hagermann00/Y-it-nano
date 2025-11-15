@@ -1,4 +1,4 @@
-# Y-IT CRITICAL FIXES - FILE STRUCTURE
+# Y-It CRITICAL FIXES - FILE STRUCTURE
 
 All implementation files organized by fix and category.
 

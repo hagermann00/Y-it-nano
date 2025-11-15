@@ -1,14 +1,14 @@
 # MCP Integration Guide: Web Scraping & Image Generation
 
 **Purpose:** Configure Model Context Protocol (MCP) servers for automated web research and image generation
-**Target:** Y-IT Nano-Book Research Infrastructure
+**Target:** Y-It Nano-Book Research Infrastructure
 **Status:** Configuration Ready
 
 ---
 
 ## **Overview**
 
-MCP servers extend Claude's capabilities by connecting to external tools and APIs. For Y-IT research, we need:
+MCP servers extend Claude's capabilities by connecting to external tools and APIs. For Y-It research, we need:
 
 1. **Web Scraping MCPs** - Gather current market data, competitor intelligence
 2. **Image Generation MCPs** - Create/source images with commercial rights
@@ -235,7 +235,7 @@ Create or update: `~/.config/Claude/claude_desktop_config.json`
 | **Midjourney** | $10/mo | ✅ YES (paid tier) | Excellent | Medium | Artistic images |
 | **DALL-E 3** | $0.04/img | ✅ YES | Excellent | Fast | OpenAI integration |
 
-**Recommendation for Y-IT:**
+**Recommendation for Y-It:**
 1. **Unsplash MCP** - Free stock photos (warehouses, offices, people)
 2. **Replicate FLUX** - Custom satirical illustrations, diagrams
 3. **Fallback**: Pixabay for additional free options
@@ -321,7 +321,7 @@ Prompt to Claude:
 
 **Total Cost: ~$145/month**
 
-**Recommendation for Y-IT:** Start with **Minimal Setup**, add Replicate ($5/mo) for custom images
+**Recommendation for Y-It:** Start with **Minimal Setup**, add Replicate ($5/mo) for custom images
 
 ---
 

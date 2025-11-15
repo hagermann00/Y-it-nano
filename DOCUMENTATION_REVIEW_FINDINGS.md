@@ -1,4 +1,4 @@
-# Y-IT DOCUMENTATION REVIEW: GAPS & FINDINGS
+# Y-It DOCUMENTATION REVIEW: GAPS & FINDINGS
 
 **Date:** November 9, 2025
 **Status:** ✅ COMPLETE
@@ -9,7 +9,7 @@
 
 ## EXECUTIVE SUMMARY
 
-A comprehensive review of all Y-IT documentation identified **24 gaps** requiring **21-29 hours** to resolve. The most critical issues are:
+A comprehensive review of all Y-It documentation identified **24 gaps** requiring **21-29 hours** to resolve. The most critical issues are:
 
 1. **Universal Research Engine template** - Missing (referenced 4+ times)
 2. **Financial model contradictions** - Partially corrected but inconsistent
@@ -26,7 +26,7 @@ A comprehensive review of all Y-IT documentation identified **24 gaps** requirin
 **Status:** Referenced but does not exist as standalone document
 
 **Referenced In:**
-- Y-IT_NANO_BOOK_PRODUCTION_SOP.md:33
+- Y-It_NANO_BOOK_PRODUCTION_SOP.md:33
 - AUDIT_SYNTHESIS_3_ANGLES.md:29, 205
 - CURRENT_STATUS_AND_SETUP_RECORD.md:224, 576
 - SESSION_SUMMARY_AUDIT_COMPLETE.md:104
@@ -41,7 +41,7 @@ Template with 7 research phases:
 - Strategic positioning
 - Financial projections
 
-**Current Workaround:** Y-IT_NANO_BOOK_PRODUCTION_SOP.md describes format in Phase 0, Step 2 (lines 30-61) but should be extracted as separate reusable template.
+**Current Workaround:** Y-It_NANO_BOOK_PRODUCTION_SOP.md describes format in Phase 0, Step 2 (lines 30-61) but should be extracted as separate reusable template.
 
 **Solution:** Create `/UNIVERSAL_RESEARCH_ENGINE_v1_TEMPLATE.md`
 **Effort:** 2-3 hours
@@ -55,7 +55,7 @@ Template with 7 research phases:
 
 | Document | Stated | Correct | Status |
 |----------|--------|---------|--------|
-| Y-IT_NANO_BOOK_PRODUCTION_SOP.md:805 | $3.79 | $3.29 | ❌ OUTDATED |
+| Y-It_NANO_BOOK_PRODUCTION_SOP.md:805 | $3.79 | $3.29 | ❌ OUTDATED |
 | Claude.md:391-392 | $3.29 | $3.29 | ✅ CORRECT |
 | STRATEGIC_SUMMARY.md:161 | $3.29 | $3.29 | ✅ CORRECT |
 
@@ -75,9 +75,9 @@ Template with 7 research phases:
 
 | Document | Tier 1 Revenue | Status |
 |----------|----------------|--------|
-| Y-IT_NANO_BOOK_PRODUCTION_SOP.md:819 | $1,100 | OUTDATED |
+| Y-It_NANO_BOOK_PRODUCTION_SOP.md:819 | $1,100 | OUTDATED |
 | Claude.md:412 | $950-$1,257 | Current |
-| Y-IT_PRODUCTION_ROADMAP_50_TOPICS.md | $1,257 (tiered) | Current |
+| Y-It_PRODUCTION_ROADMAP_50_TOPICS.md | $1,257 (tiered) | Current |
 
 **Impact:** -17.7% portfolio revenue variance using old numbers
 
@@ -95,7 +95,7 @@ Template with 7 research phases:
 - **Impact:** -$8,000/month Year 2
 - **Status:** No customer acquisition cost analysis
 
-**Solution:** Create `Y-IT_FINANCIAL_MODEL_MASTER.md` with exact formulas
+**Solution:** Create `Y-It_FINANCIAL_MODEL_MASTER.md` with exact formulas
 **Effort:** 4-5 hours
 **Priority:** CRITICAL
 
@@ -119,7 +119,7 @@ Template with 7 research phases:
 | Document | Hours | Rate | Cost | Variance |
 |----------|-------|------|------|----------|
 | EXECUTION_SUMMARY.md | 30 | $50/hr | $1,500 | Baseline |
-| Y-IT_SOP.md:782 | 60 | $75/hr | $4,500 | +200% |
+| Y-It_SOP.md:782 | 60 | $75/hr | $4,500 | +200% |
 | STRATEGIC_SUMMARY.md:279-281 | — | — | $5,000-8,000 | +233-433% |
 
 **Impact:** 100% variance in labor estimates (30 hours vs 60 hours)
@@ -127,7 +127,7 @@ Template with 7 research phases:
 ### Issue C: Batch Timing Misalignment
 
 - Claude.md:172-180 shows Batch A weeks 1-7, Batch B weeks 3-9
-- Y-IT_PRODUCTION_ROADMAP.md:119-132 shows overlapping content/designer weeks
+- Y-It_PRODUCTION_ROADMAP.md:119-132 shows overlapping content/designer weeks
 - **Unclear:** Whether timeline is consecutive or parallel execution
 
 **Solution:** Reconcile STRATEGIC_SUMMARY.md or archive as superseded
@@ -158,7 +158,7 @@ Template with 7 research phases:
 2. Email sequence copy (4 emails, actual content)
 3. PDF generation timeout handling
 
-**Solution:** Create `Y-IT_EVALUATOR_IMPLEMENTATION_SPEC.md`
+**Solution:** Create `Y-It_EVALUATOR_IMPLEMENTATION_SPEC.md`
 **Effort:** 6-8 hours
 **Priority:** HIGH
 
@@ -170,7 +170,7 @@ Template with 7 research phases:
 
 **1. AI Evaluator Prompt Specifications**
 - Claude.md:256-277 describes conceptually
-- Y-IT_LEAD_MAGNET_SYSTEM.md has flow
+- Y-It_LEAD_MAGNET_SYSTEM.md has flow
 - ❌ No document contains exact prompt template, model parameters, token budgets
 
 **2. Email Sequence Templates**
@@ -181,10 +181,10 @@ Template with 7 research phases:
 **3. KDP Upload Specification**
 - EXECUTION_SUMMARY.md:305-310 references process
 - ❌ No checklist for ISBN, proof validation, metadata
-- Links to Amazon but no Y-IT-specific SOP
+- Links to Amazon but no Y-It-specific SOP
 
 **4. Database Migration Scripts**
-- Y-IT_DATABASE_SCHEMA_DESIGN.md defines schema
+- Y-It_DATABASE_SCHEMA_DESIGN.md defines schema
 - CRITICAL_FIXES_BEFORE_WEEK_1.md:164 references `001_add_performance_indexes.sql`
 - ✅ Now exists in `/database/migrations/`
 
@@ -193,7 +193,7 @@ Template with 7 research phases:
 - ❌ No template file or detailed specs
 - EXECUTION_SUMMARY.md references "template" 7x without format/location
 
-**Solution:** Create `Y-IT_DESIGNER_HANDOFF_PACKAGE_MASTER.md`
+**Solution:** Create `Y-It_DESIGNER_HANDOFF_PACKAGE_MASTER.md`
 **Effort:** 8-10 hours
 **Priority:** HIGH
 
@@ -208,7 +208,7 @@ Template with 7 research phases:
 | Claude.md:42, 62 | 7-11 | Range (ambiguous) |
 | STRATEGIC_SUMMARY.md:84 | 7 | "7 archetypes" (clear) |
 | PHASE_2_CONTENT_EXTRACTION.md | 11 | Extracted (specific) |
-| Y-IT_SOP.md:5 | 11 in 24 pages | Reference |
+| Y-It_SOP.md:5 | 11 in 24 pages | Reference |
 
 **Issue:** "7-11" creates ambiguity. Final spec uses 11 case studies.
 
@@ -239,7 +239,7 @@ Template with 7 research phases:
 ---
 
 ### #2: Create Financial Model Master (CRITICAL)
-**File:** `/Y-IT_FINANCIAL_MODEL_MASTER.md`
+**File:** `/Y-It_FINANCIAL_MODEL_MASTER.md`
 **Why:** Numbers scattered across 6+ docs with inconsistencies
 **Contains:**
 - All 5 tier revenue calculations (exact formulas)
@@ -258,7 +258,7 @@ Template with 7 research phases:
 **Why:** 12-page spec conflicts with 24-page final spec
 **Options:**
 - **A:** Archive STRATEGIC_SUMMARY.md as "superseded by Claude.md"
-- **B:** Create `Y-IT_FINAL_SPECIFICATION_v1_LOCKED.md` reconciling all 7 specs
+- **B:** Create `Y-It_FINAL_SPECIFICATION_v1_LOCKED.md` reconciling all 7 specs
 
 **Effort:** 3-4 hours
 **Priority:** CRITICAL
@@ -266,7 +266,7 @@ Template with 7 research phases:
 ---
 
 ### #4: Create AI Evaluator Implementation Guide (HIGH)
-**File:** `/Y-IT_EVALUATOR_IMPLEMENTATION_SPEC.md`
+**File:** `/Y-It_EVALUATOR_IMPLEMENTATION_SPEC.md`
 **Why:** Conceptual description exists but no implementation spec
 **Contains:**
 - OpenAI prompt template (exact system + user message)
@@ -284,7 +284,7 @@ Template with 7 research phases:
 ---
 
 ### #5: Create Designer Handoff Package (HIGH)
-**File:** `/Y-IT_DESIGNER_HANDOFF_PACKAGE_MASTER.md`
+**File:** `/Y-It_DESIGNER_HANDOFF_PACKAGE_MASTER.md`
 **Why:** Scattered specs, designer needs definitive source
 **Contains:**
 - Complete designer checklist (all gates)
@@ -327,7 +327,7 @@ Template with 7 research phases:
 5. Create Designer Handoff Package Master (8-10 hrs)
 
 ### Week 1 Launch (Before Implementation):
-6. Update Y-IT_NANO_BOOK_PRODUCTION_SOP.md with corrected financials
+6. Update Y-It_NANO_BOOK_PRODUCTION_SOP.md with corrected financials
 7. Create email sequence content templates
 8. Document KDP upload checklist
 

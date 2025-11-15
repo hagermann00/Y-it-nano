@@ -1,8 +1,8 @@
-# Y-IT DROPSHIPPING VALIDATION PLAN
+# Y-It DROPSHIPPING VALIDATION PLAN
 
 ## Overview
 
-Complete validation plan for using the dropshipping nano-book as the template and test case for all 50 Y-IT topics. This document ensures dropshipping validates **every** aspect of the ecosystem before scaling.
+Complete validation plan for using the dropshipping nano-book as the template and test case for all 50 Y-It topics. This document ensures dropshipping validates **every** aspect of the ecosystem before scaling.
 
 **Timeline:** Weeks 1-13 (test case runs parallel to Batch A/B content production)
 **Success Criteria:** All gates pass, then replicate process for 49 other topics
@@ -21,7 +21,7 @@ Complete validation plan for using the dropshipping nano-book as the template an
 - [ ] All core statistics included with sources
 - [ ] Chapter headers match standard framework exactly
 - [ ] No forbidden elements (motivational language, unsubstantiated claims, fluff)
-- [ ] Y-IT voice consistent throughout (satirical, contrarian, data-driven)
+- [ ] Y-It voice consistent throughout (satirical, contrarian, data-driven)
 - [ ] 0 unsubstantiated claims (every stat has source)
 
 **Responsible:** Content Editor
@@ -50,7 +50,7 @@ Complete validation plan for using the dropshipping nano-book as the template an
 
 - [ ] Hero image brief (500 words, visual description)
   - [ ] Topic metaphor clear (sinking ship of packages)
-  - [ ] Matches Y-IT aesthetic (dark, satirical, corporate)
+  - [ ] Matches Y-It aesthetic (dark, satirical, corporate)
   - [ ] Dimensions specified for print (6×9", 300 DPI)
 
 - [ ] Character portraits (11 total)
@@ -68,7 +68,7 @@ Complete validation plan for using the dropshipping nano-book as the template an
 - [ ] Chapter comic strip (8 panels)
   - [ ] Chad/PosiBot characters arc across chapters
   - [ ] Each panel shows topic-specific failure moment
-  - [ ] Tone matches Y-IT voice (satirical, not cruel)
+  - [ ] Tone matches Y-It voice (satirical, not cruel)
   - [ ] Final panel shows recovery/learning
 
 **Responsible:** Designer/Art Director
@@ -89,7 +89,7 @@ Complete validation plan for using the dropshipping nano-book as the template an
   - [ ] Timeline confirmed (2-3 weeks)
 
 - [ ] Designer confirms:
-  - [ ] Understands Y-IT voice/tone
+  - [ ] Understands Y-It voice/tone
   - [ ] Can match Universal Primer standards (colors, typography)
   - [ ] Has capacity for timeline
   - [ ] Familiar with KDP specifications
@@ -114,7 +114,7 @@ Complete validation plan for using the dropshipping nano-book as the template an
 - [ ] All content placed in correct pages
 - [ ] Typography specifications applied:
   - [ ] Body text: 11pt, sans-serif, justified, 1.2 line height
-  - [ ] Headers: Y-IT specified sizes and weights
+  - [ ] Headers: Y-It specified sizes and weights
   - [ ] Pull quotes: styled consistently, in brand colors
 
 - [ ] Images integrated:
@@ -126,7 +126,7 @@ Complete validation plan for using the dropshipping nano-book as the template an
 
 - [ ] Color palette exact:
   - [ ] Primary color: #1a1a1a (dark gray/black)
-  - [ ] Accent color: #FF6B35 (Y-IT orange)
+  - [ ] Accent color: #FF6B35 (Y-It orange)
   - [ ] No deviations from Universal Primer
   - [ ] Text contrast meets WCAG AA standards
 
@@ -305,7 +305,7 @@ Complete validation plan for using the dropshipping nano-book as the template an
     - [ ] research_done (textarea, optional)
 
 - [ ] System prompt for GPT configured:
-  - [ ] Y-IT voice instructions clear
+  - [ ] Y-It voice instructions clear
   - [ ] Roast tone: satirical, honest, specific data
   - [ ] Output format: ~500-1000 words
   - [ ] CTA clear: "Get the full book"
@@ -340,9 +340,9 @@ Complete validation plan for using the dropshipping nano-book as the template an
 
 - [ ] Roast Quality Check:
   - [ ] Roast is topic-specific (mentions dropshipping, not generic)
-  - [ ] Includes Y-IT statistics (92% failure, etc.)
+  - [ ] Includes Y-It statistics (92% failure, etc.)
   - [ ] References case study (Karen, TikTok Tim, etc.)
-  - [ ] Tone matches Y-IT voice (satirical, not cruel)
+  - [ ] Tone matches Y-It voice (satirical, not cruel)
   - [ ] Includes CTA to "Get the full book"
   - [ ] No hallucinated data (only sources mentioned in database)
 
@@ -403,7 +403,7 @@ Complete validation plan for using the dropshipping nano-book as the template an
   - [ ] Sent exactly ~168 hours after roast
   - [ ] Includes testimonials/social proof
   - [ ] References alternative approaches
-  - [ ] Cross-sell other Y-IT books (preview)
+  - [ ] Cross-sell other Y-It books (preview)
 
 - [ ] Email 4 (day 14):
   - [ ] Sent exactly ~336 hours after roast
@@ -626,7 +626,7 @@ From customer feedback, validate:
 
 - [ ] Value perception:
   - [ ] >70% feel book was worth the price
-  - [ ] >40% consider buying other Y-IT books
+  - [ ] >40% consider buying other Y-It books
 
 **Responsible:** Editor + Content Manager
 **Input:** Customer reviews and surveys
@@ -802,7 +802,7 @@ Week 14: Scale decision
 
 ---
 
-*Y-IT Dropshipping Validation Plan v1.0*
+*Y-It Dropshipping Validation Plan v1.0*
 *Complete testing blueprint before scaling to 49 other topics*
 *Success = Dropshipping validation approves all gates*
 *Failure = Address issues before proceeding to Batch B*

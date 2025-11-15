@@ -1,7 +1,7 @@
-# Y-IT PRODUCTION ROADMAP: 50 TOPICS
+# Y-It PRODUCTION ROADMAP: 50 TOPICS
 
 ## Overview
-Scalable production schedule for launching all 50 Y-IT nano-books using parallel batch processing with one designer. Complete ecosystem live within 5-6 months.
+Scalable production schedule for launching all 50 Y-It nano-books using parallel batch processing with one designer. Complete ecosystem live within 5-6 months.
 
 ---
 
@@ -25,7 +25,7 @@ These topics have the highest guru saturation, failure rates, and search traffic
 | 9 | YouTube Ad Revenue | High | 90%+ | Very High | Week 9 |
 | 10 | OnlyFans Creator | Very High | 95%+ | Extreme | Week 9 |
 
-**Rationale:** These 10 topics cover 60%+ of search traffic in Y-IT's target market. Launch these first to maximize initial audience capture and test platform at scale.
+**Rationale:** These 10 topics cover 60%+ of search traffic in Y-It's target market. Launch these first to maximize initial audience capture and test platform at scale.
 
 ---
 
@@ -276,7 +276,7 @@ Weeks: 1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21
 ### Why Dropshipping First?
 
 1. **Highest Proof of Concept Value**
-   - Most competitive Y-IT topic (hardest test)
+   - Most competitive Y-It topic (hardest test)
    - Validates all processes at maximum complexity
    - Largest audience for early feedback
    - Highest guru saturation (best content testing ground)
@@ -539,7 +539,7 @@ Weeks: 1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21
 
 ---
 
-*Y-IT Production Roadmap v1.0*
+*Y-It Production Roadmap v1.0*
 *50-Topic Scalable Launch Strategy*
 *Timeline: 21 weeks (5 months) to complete catalog*
 *Lead Designer: 1 | Content Team: 2-3 writers | Platform: 2 engineers*

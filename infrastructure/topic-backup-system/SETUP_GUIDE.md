@@ -1,6 +1,6 @@
-# Setup Guide - Y-IT Topic Backup System
+# Setup Guide - Y-It Topic Backup System
 
-Complete step-by-step setup instructions for the Y-IT topic backup system.
+Complete step-by-step setup instructions for the Y-It topic backup system.
 
 ## Prerequisites
 
@@ -89,7 +89,7 @@ Open the JSON file and copy:
 3. Go to **APIs & Services** > **Credentials**
 4. Click **Create Credentials** > **OAuth Client ID**
 5. Application type: **Desktop app**
-6. Name: `Y-IT Backup Desktop`
+6. Name: `Y-It Backup Desktop`
 7. Click **Create**
 
 #### 2.2 Download Credentials
@@ -210,7 +210,7 @@ npm run sync -- --dry-run --topic=dropshipping
 Expected output:
 
 ```
-Y-IT Topic Backup Sync
+Y-It Topic Backup Sync
 
 ✓ Connected to Google Drive
 
@@ -501,4 +501,4 @@ If setup fails:
 4. Review logs: `./logs/sync.log`
 5. Try dry-run mode first
 
-Setup complete! You're ready to start backing up your Y-IT production files.
+Setup complete! You're ready to start backing up your Y-It production files.

@@ -14,7 +14,7 @@ tags:
 
 # Dropshipping Affiliate Opportunities Index
 
-**Purpose:** Monetization layer for Y-IT dropshipping content
+**Purpose:** Monetization layer for Y-It dropshipping content
 **Strategy:** Catalog ALL affiliate opportunities for every entity mentioned
 **CRITICAL RULE:** If mentioned in book/research → catalog affiliate (even if we expose it as BS)
 
@@ -311,7 +311,7 @@ tags:
 - **Use Case:** Promote specific products/deals
 
 **Revenue Potential:** LOW (better for product promotions than B2B tools)
-**Implementation:** Limited relevance for Y-IT dropshipping content
+**Implementation:** Limited relevance for Y-It dropshipping content
 **Ethical Score:** 8/10 (Transparent, legitimate)
 **Research Status:** COMPLETE
 
@@ -802,7 +802,7 @@ tags:
 
 ## IMPLEMENTATION STRATEGY (Documented for Future)
 
-### In the Y-IT Book:
+### In the Y-It Book:
 
 **Chapter 1-7 (The Dropshipping Reality):**
 - Minimal affiliate links (credibility building phase)
@@ -1197,7 +1197,7 @@ yit.co/avoid-gurus → Article exposing expensive courses → Project Verum alte
 - Reddit r/dropshipping has anti-guru sentiment BUT no monetization
 - Biaheza, Verum Ecom, etc. promote courses (conflicted)
 
-**Y-IT Competitive Advantage:**
+**Y-It Competitive Advantage:**
 - **Unique positioning:** Expose the model AND gurus but still provide ethical affiliate alternatives
 - **Trust arbitrage:** Anti-dropshipping stance = higher trust = better conversion on alternatives
 - **Dual revenue:** Book sales + affiliate revenue (gurus only have course revenue)

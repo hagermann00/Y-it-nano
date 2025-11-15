@@ -1,4 +1,4 @@
-# Y-IT FINANCIAL MODEL: SOLO + 3% CONVERSION
+# Y-It FINANCIAL MODEL: SOLO + 3% CONVERSION
 ## Updated Business Model Based on Executive Decisions (Nov 8, 2025)
 
 **Executive Decisions:**

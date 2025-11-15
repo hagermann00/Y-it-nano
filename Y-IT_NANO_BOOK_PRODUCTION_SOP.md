@@ -1,9 +1,9 @@
-# Y-IT NANO-BOOK PRODUCTION SOP v1.0
+# Y-It NANO-BOOK PRODUCTION SOP v1.0
 
 ## Standard Operating Procedure for Scalable Nano-Book Creation
 
-**Purpose:** Create repeatable, high-quality 24-page nano-books on any Y-IT topic in 3-4 weeks
-**Applies to:** All future Y-IT titles (Print-on-Demand, Affiliate Marketing, Course Creation, AI Tools, etc.)
+**Purpose:** Create repeatable, high-quality 24-page nano-books on any Y-It topic in 3-4 weeks
+**Applies to:** All future Y-It titles (Print-on-Demand, Affiliate Marketing, Course Creation, AI Tools, etc.)
 **Standard:** All books follow Universal Primer + Topic-Specific Research
 **Output:** KDP-ready 24-page nano-books with multi-format ecosystem
 
@@ -12,12 +12,12 @@
 ## PHASE 0: TOPIC SELECTION & RESEARCH INTAKE
 
 ### Step 1: Topic Approval
-- Select Y-IT topic (business opportunity with high failure rate)
-- Confirm topic fits Y-IT brand (guru-driven, statistically dishonest, needs reality check)
+- Select Y-It topic (business opportunity with high failure rate)
+- Confirm topic fits Y-It brand (guru-driven, statistically dishonest, needs reality check)
 - Document topic scope and boundaries
 - Identify primary target audience
 
-**Topics Well-Suited for Y-IT Format:**
+**Topics Well-Suited for Y-It Format:**
 - Print-on-Demand (similar failure rate to dropshipping)
 - Affiliate Marketing (97%+ failure rate)
 - Course Creation (extremely high failure rate)
@@ -222,7 +222,7 @@ Create exactly 8 chapters following this structure:
 
 **Total: ~9,800-10,200 words** (more than nano-book target, allows compression)
 
-**Note:** All 50 Y-IT books use identical 8-chapter structure. Content varies by topic, but framework is universal.
+**Note:** All 50 Y-It books use identical 8-chapter structure. Content varies by topic, but framework is universal.
 
 **Tone Requirements:**
 - Lead with counterintuitive data
@@ -271,7 +271,7 @@ Create exactly 8 chapters following this structure:
 - [ ] Web-only content clearly marked
 - [ ] Total word count: 7,800 words ±200
 - [ ] All chapters proportionally represented
-- [ ] Zero loss of Y-IT credibility
+- [ ] Zero loss of Y-It credibility
 
 ### Step 3: Page-by-Page Content Mapping
 
@@ -309,7 +309,7 @@ Create spreadsheet mapping:
 **Framework:**
 - What's the visual equivalent of "doomed business"?
 - What image captures the promise → failure arc?
-- What's the Y-IT aesthetic version of your topic?
+- What's the Y-It aesthetic version of your topic?
 
 **Examples by Topic:**
 - **Print-on-Demand:** T-shirt designs flying into trash can
@@ -465,7 +465,7 @@ Create spreadsheet mapping:
 4. `[TOPIC]_COMPLETE_SPECIFICATION_PACKAGE.md` (full specs)
 
 **Plus reference documents:**
-- `Y-IT_STYLE_GUIDE_VOICE_TONE.md` (brand voice - universal)
+- `Y-It_STYLE_GUIDE_VOICE_TONE.md` (brand voice - universal)
 - `UNIVERSAL_PRIMER.md` (design standards - universal)
 
 **Designer timeline:** 2-3 weeks to KDP-ready PDF
@@ -629,7 +629,7 @@ Create spreadsheet mapping:
 - Single print: $2.99
 - Print + Digital: $5.99
 - All formats + 1-year web access: $12.99
-- All 7 Y-IT books (print): $14.99
+- All 7 Y-It books (print): $14.99
 - Annual subscription (all formats, all books): $99/year
 
 **Cross-promotion:**
@@ -637,7 +637,7 @@ Create spreadsheet mapping:
 - Digital → Web upgrade offer
 - Web → Podcast link
 - AI evaluator → Book purchase
-- First book → Other Y-IT books cross-sell
+- First book → Other Y-It books cross-sell
 
 ---
 
@@ -658,7 +658,7 @@ Create spreadsheet mapping:
 
 **Every image must pass:**
 - [ ] Resolution 300 DPI minimum at print size
-- [ ] Colors ONLY from Y-IT palette (hex codes exact)
+- [ ] Colors ONLY from Y-It palette (hex codes exact)
 - [ ] Typography matches specifications
 - [ ] Safe zone respected (0.25" from trim)
 - [ ] Character consistency maintained (Chad/PosiBot)
@@ -699,10 +699,10 @@ All templates are copied from dropshipping book:
 
 These apply to EVERY topic, no customization needed:
 
-- ✅ `Y-IT_STYLE_GUIDE_VOICE_TONE.md` (brand voice, universal)
+- ✅ `Y-It_STYLE_GUIDE_VOICE_TONE.md` (brand voice, universal)
 - ✅ `UNIVERSAL_PRIMER.md` (design standards, universal)
 - ✅ `UNIVERSAL_RESEARCH_ENGINE.md` (research framework, universal)
-- ✅ `Y-IT_NANO_BOOK_PRODUCTION_SOP.md` (this document - the process itself)
+- ✅ `Y-It_NANO_BOOK_PRODUCTION_SOP.md` (this document - the process itself)
 
 ### Checklist by Phase
 
@@ -822,7 +822,7 @@ These apply to EVERY topic, no customization needed:
 
 ### Multi-Book Scaling
 
-**At 7 books (full Y-IT series):**
+**At 7 books (full Y-It series):**
 - Monthly revenue: $7,700 (1 book × 7)
 - Plus cross-sell bundle effects: +20% = +$1,540
 - **Total monthly revenue: $9,240**
@@ -874,7 +874,7 @@ These apply to EVERY topic, no customization needed:
 
 ## NEXT STEPS
 
-**To create a new Y-IT nano-book:**
+**To create a new Y-It nano-book:**
 
 1. Select topic and confirm approval
 2. Submit research using UNIVERSAL RESEARCH ENGINE
@@ -911,7 +911,7 @@ These apply to EVERY topic, no customization needed:
 ✅ Include specific costs/timeline
 ✅ Have emotional resonance (reader sees themselves)
 ✅ End with satirical punchline
-✅ Connect to broader Y-IT thesis
+✅ Connect to broader Y-It thesis
 
 **All statistics must:**
 
@@ -923,6 +923,6 @@ These apply to EVERY topic, no customization needed:
 
 ---
 
-*Y-IT Nano-Book Production SOP v1.0*
+*Y-It Nano-Book Production SOP v1.0*
 *Standard Operating Procedure for Scalable 24-Page Nano-Book Creation*
 *Apply this process to any business opportunity with guru-driven failure*

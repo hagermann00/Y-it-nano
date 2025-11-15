@@ -2,7 +2,7 @@
 ## Advanced Independent Case Study Investigation Framework
 
 ### PURPOSE
-This framework guides comprehensive research to identify, document, and analyze 7-11 real failure case studies for any Y-IT business opportunity topic. Each case study becomes both a compressed print version (2-3 lines) and an expanded web narrative (1,500 words).
+This framework guides comprehensive research to identify, document, and analyze 7-11 real failure case studies for any Y-It business opportunity topic. Each case study becomes both a compressed print version (2-3 lines) and an expanded web narrative (1,500 words).
 
 ---
 
@@ -281,10 +281,10 @@ Karen the MLM Refugee - Former Beachbody coach seeking "real" business freedom, 
 
 ### STEP 5: ADD EXPERT COMMENTARY (200 words)
 
-**After the narrative, add Y-IT analysis:**
+**After the narrative, add Y-It analysis:**
 
 ```
-**Y-IT ANALYSIS: The [Archetype] Pattern**
+**Y-It ANALYSIS: The [Archetype] Pattern**
 
 [Name]'s story exemplifies the [archetype] failure pattern we see repeatedly in [business topic]:
 
@@ -341,7 +341,7 @@ For each case study, verify:
 - [ ] Generalizable lesson
 - [ ] Prevents reader from making same mistake
 
-**Y-IT Voice Compliance:**
+**Y-It Voice Compliance:**
 - [ ] Satirical but not cruel
 - [ ] Data-driven, not judgmental
 - [ ] Respectful of subject while honest about failure
@@ -473,7 +473,7 @@ Many forum members post progress updates over weeks/months. Compile these into a
 
 ## DELIVERABLES CHECKLIST
 
-For each Y-IT topic, deliver:
+For each Y-It topic, deliver:
 
 **Research Phase:**
 - [ ] 15-25 source examples collected
@@ -490,7 +490,7 @@ For each Y-IT topic, deliver:
 **Quality Phase:**
 - [ ] Emotional resonance validated
 - [ ] Specificity verified (numbers, dates, details)
-- [ ] Y-IT voice compliance confirmed
+- [ ] Y-It voice compliance confirmed
 - [ ] Archetype diversity confirmed
 - [ ] Legal review (anonymization sufficient)
 
@@ -523,7 +523,7 @@ Marcus graduated Stanford GSB in 2023...
 
 [Continues through all 7 sections...]
 
-**Y-IT ANALYSIS: The Trust Fund Trader Pattern**
+**Y-It ANALYSIS: The Trust Fund Trader Pattern**
 Marcus's story exemplifies the "capital ≠ acumen" failure pattern...
 [200 words of analysis]
 ```
@@ -539,7 +539,7 @@ Marcus's story exemplifies the "capital ≠ acumen" failure pattern...
 - ✅ Web versions are 1,500 words, emotionally complete
 - ✅ Expert commentary adds value
 - ✅ Reader can see themselves and make informed decision
-- ✅ Y-IT voice maintained throughout
+- ✅ Y-It voice maintained throughout
 - ✅ No legal/ethical concerns with anonymization
 
 **Time Estimate Per Topic:**

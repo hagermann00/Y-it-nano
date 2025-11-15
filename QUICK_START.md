@@ -1,4 +1,4 @@
-# Y-IT CRITICAL FIXES - QUICK START
+# Y-It CRITICAL FIXES - QUICK START
 
 **Total Time to Setup:** 2-3 hours
 **Prerequisites:** Node.js 18+, PostgreSQL 12+, Redis, AWS account

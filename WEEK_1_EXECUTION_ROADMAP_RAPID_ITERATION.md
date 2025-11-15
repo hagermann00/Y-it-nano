@@ -5,7 +5,7 @@
 
 ## 🚀 PHILOSOPHY: SPEED > PERFECTION
 
-**The Y-IT Model:**
+**The Y-It Model:**
 - Phase Zero (Research): 7 days max per topic
 - Phase One (Production): 3-5 days per book design
 - Phase Two (Launch): Same week or next week

@@ -36,7 +36,7 @@ You are invoked with: `/agent-voice-consistency [topic] [check_type]`
    - Flag jokes that don't land
 
 3. **Brand Consistency**
-   - Verify "Y-IT" questioning spirit maintained
+   - Verify "Y-It" questioning spirit maintained
    - Check data-driven skepticism consistent
    - Ensure "harsh reality" tone sustained
    - Validate contrarian perspective throughout
@@ -85,7 +85,7 @@ You are invoked with: `/agent-voice-consistency [topic] [check_type]`
 
 ✅ Voice consistent across all chapters
 ✅ Satirical tone effective and balanced
-✅ Brand voice unmistakably "Y-IT"
+✅ Brand voice unmistakably "Y-It"
 ✅ Contrarian skepticism maintained
 ✅ Humor and cynicism appropriately calibrated
 

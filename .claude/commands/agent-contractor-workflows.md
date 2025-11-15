@@ -57,7 +57,7 @@ You are invoked with: `/agent-contractor-workflows [action]`
    ```
    MORNING SESSION (4 hours):
    9:00-10:00 - Project Overview
-     - Y-IT mission and vision
+     - Y-It mission and vision
      - 50-book roadmap
      - Week 1-21 execution plan
      - Their role in success

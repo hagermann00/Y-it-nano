@@ -188,7 +188,7 @@ Assuming 40 images per book:
 ✅ **It's just for transparency** (AI-generated attribution)
 ✅ **Doesn't reduce image quality**
 
-**For Y-IT nano-books:**
+**For Y-It nano-books:**
 - ✅ Fine to use - watermark doesn't affect book sales
 - ✅ Actually beneficial - proves authenticity
 - ✅ May become industry standard

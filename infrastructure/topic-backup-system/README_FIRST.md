@@ -1,4 +1,4 @@
-# 🎯 START HERE - Y-IT Topic Backup System
+# 🎯 START HERE - Y-It Topic Backup System
 
 **Welcome! This is your complete, production-ready backup system.**
 

@@ -1,4 +1,4 @@
-# Y-IT RESEARCH WORKFLOW: COMPLETE EXECUTION MAP
+# Y-It RESEARCH WORKFLOW: COMPLETE EXECUTION MAP
 
 **Status:** READY FOR APPROVAL
 **Purpose:** End-to-end research workflow from topic selection → final archival
@@ -193,7 +193,7 @@ tags:
 **Agent Q1 Questions:**
 ```yaml
 Q1.1: How many case studies do you need?
-Answer: 11 (standard for Y-IT books)
+Answer: 11 (standard for Y-It books)
 
 Q1.2: What case study sources are available?
 Answer:
@@ -221,7 +221,7 @@ Answer:
 3. Creates composite case studies from real patterns
 4. Anonymizes all personal details
 5. Validates failure mechanisms against research data
-6. Structures each case study with Y-IT template
+6. Structures each case study with Y-It template
 
 **What Gets Created:**
 ```
@@ -327,7 +327,7 @@ created: 2025-11-09
 
 5. **Creates decision-ready database**
    - Mark as "Ready to implement" or "Documented for future decision"
-   - Ethical scoring: which affiliates align with Y-IT honest positioning
+   - Ethical scoring: which affiliates align with Y-It honest positioning
    - Revenue potential ranking
 
 6. **No link goes un-monetized unless impossible**
@@ -404,8 +404,8 @@ tags:
 
 # Dropshipping Affiliate Opportunities Index
 
-**Purpose:** Monetization layer for Y-IT content
-**Strategy:** Position Y-IT book as honest guide while ethically monetizing through relevant affiliates
+**Purpose:** Monetization layer for Y-It content
+**Strategy:** Position Y-It book as honest guide while ethically monetizing through relevant affiliates
 **Revenue Model:** Affiliate commissions + alternative recommendation fees
 
 ---
@@ -415,7 +415,7 @@ tags:
 **Total Programs Identified:** 75+
 **Estimated Revenue Potential:** $500-2,000 per 1,000 book sales
 **Implementation Status:** Ready for content integration
-**Ethical Framework:** Only recommend tools/services that align with Y-IT thesis (honest alternatives)
+**Ethical Framework:** Only recommend tools/services that align with Y-It thesis (honest alternatives)
 
 **Top Revenue Opportunities:**
 1. Shopify Partner Program: $150-2,000 per referral
@@ -547,7 +547,7 @@ tags:
 ### [1] - Upwork/Fiverr (Freelancing Alternative)
 **Affiliate Programs:** Both have referral programs
 **Commission:** Varies ($10-50 per freelancer sign-up)
-**Revenue Potential:** HIGH (Y-IT recommends freelancing over dropshipping)
+**Revenue Potential:** HIGH (Y-It recommends freelancing over dropshipping)
 **Implementation:** "Instead of dropshipping, leverage your skills on Upwork"
 **Ethical Score:** 10/10 (genuinely better alternative for most people)
 
@@ -573,12 +573,12 @@ tags:
 
 **Where to Place Affiliate Links:**
 
-**In the Y-IT Book:**
+**In the Y-It Book:**
 - End of each chapter: "If you still want to try..." → affiliate links
 - Chapter 8 (alternatives): Heavy affiliate integration for better paths
 - Appendix: "Resources if you ignore our advice" section
 
-**In Y-IT Marketing Funnel:**
+**In Y-It Marketing Funnel:**
 - Landing page: Tool comparison chart (affiliate links)
 - Email sequence: "Day 30: Still determined? Use these tools"
 - Blog content: SEO-optimized tool reviews (affiliates)
@@ -1003,7 +1003,7 @@ Research Complete Package (per topic):
 **Week 2: Content Creation**
 - Write 8 chapters (~7,800 words)
 - Create inline assets (charts, callouts)
-- Apply Y-IT voice and tone
+- Apply Y-It voice and tone
 - Compress to 24-page format
 
 ---

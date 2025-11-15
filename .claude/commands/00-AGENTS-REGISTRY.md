@@ -1,4 +1,4 @@
-# Y-IT Agents System Registry
+# Y-It Agents System Registry
 
 **Last Updated:** November 10, 2025
 **Total Agents:** 21 (4 Core + 17 Supporting)

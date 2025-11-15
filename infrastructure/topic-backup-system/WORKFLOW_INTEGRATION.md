@@ -1,10 +1,10 @@
 # Workflow Integration Guide
 
-How to integrate the Topic Backup System into the Y-IT nano-book production workflow.
+How to integrate the Topic Backup System into the Y-It nano-book production workflow.
 
 ## Overview
 
-The Y-IT production process has 10 phases (Phase 0-9). This guide shows when and how to sync files at each stage for maximum safety and minimal disruption.
+The Y-It production process has 10 phases (Phase 0-9). This guide shows when and how to sync files at each stage for maximum safety and minimal disruption.
 
 ## Integration Strategy
 
@@ -563,7 +563,7 @@ npm run report -- --detailed --output=monthly_report_$(date +%Y%m).html
 
 ## Checklist: Adding Sync to Your SOP
 
-Update `Y-IT_NANO_BOOK_PRODUCTION_SOP.md`:
+Update `Y-It_NANO_BOOK_PRODUCTION_SOP.md`:
 
 ### Phase 0 Checklist
 

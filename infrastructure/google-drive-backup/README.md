@@ -1,4 +1,4 @@
-# Y-IT Google Drive Backup System
+# Y-It Google Drive Backup System
 
 Automated PostgreSQL database and critical files backup to Google Drive as a secondary backup location alongside AWS S3.
 
@@ -55,7 +55,7 @@ npm run backup:full
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                   Y-IT Backup Strategy                      │
+│                   Y-It Backup Strategy                      │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  PRIMARY BACKUP         SECONDARY BACKUP                    │

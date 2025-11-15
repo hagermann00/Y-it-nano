@@ -33,7 +33,7 @@ tags:
 
 Dropshipping represents a compelling case study in the democratization of e-commerce—and the severe consequences of low barriers to entry. While the global market reached $344-365 billion in 2024 with projected annual growth of 22-28%, the individual success rate tells a dramatically different story: 80-90% of dropshippers fail within the first four months, with only 10-20% achieving sustained profitability.
 
-This research validates the Y-IT thesis: when barriers to entry approach zero and information asymmetry favors "gurus" over practitioners, market saturation creates a wealth transfer mechanism from aspiring entrepreneurs to course creators. The dropshipping guru economy has spawned 1,000+ courses generating hundreds of millions in revenue—far exceeding what most individual dropshippers will ever earn.
+This research validates the Y-It thesis: when barriers to entry approach zero and information asymmetry favors "gurus" over practitioners, market saturation creates a wealth transfer mechanism from aspiring entrepreneurs to course creators. The dropshipping guru economy has spawned 1,000+ courses generating hundreds of millions in revenue—far exceeding what most individual dropshippers will ever earn.
 
 **Market Snapshot:**
 - **Global Market Size (2024):** $344-365 billion USD
@@ -63,7 +63,7 @@ Dropshipping exemplifies a "guru trap" market where:
 4. **Success stories are statistical outliers** - Survivorship bias in marketing materials
 5. **Market saturation accelerates** - 22% annual growth in competitors outpaces skill development
 
-**Y-IT Recommendation:** This is a prime example of "Why I Tried It"—documenting why intelligent people attempt dropshipping despite poor odds, and creating a comprehensive failure post-mortem that gurus systematically omit from their curriculum.
+**Y-It Recommendation:** This is a prime example of "Why I Tried It"—documenting why intelligent people attempt dropshipping despite poor odds, and creating a comprehensive failure post-mortem that gurus systematically omit from their curriculum.
 
 ---
 
@@ -1474,9 +1474,9 @@ The market size ($344B+, growing 22-28% annually) is deceptively attractive. The
 3. **Dividend Stocks** - Quarterly passive income
 4. **Note:** Dropshipping is NOT passive despite guru claims
 
-### Y-IT Thesis Validation
+### Y-It Thesis Validation
 
-**Dropshipping validates ALL core Y-IT principles:**
+**Dropshipping validates ALL core Y-It principles:**
 
 1. **Guru Trap Market Indicator:**
    - 1,000+ courses vs. low success rate

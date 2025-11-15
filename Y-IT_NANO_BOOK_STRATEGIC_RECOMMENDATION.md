@@ -1,8 +1,8 @@
-# Y-IT NANO-BOOK TRANSFORMATION: STRATEGIC RECOMMENDATION
+# Y-It NANO-BOOK TRANSFORMATION: STRATEGIC RECOMMENDATION
 
 **Status:** Strategic Analysis Complete | Ready for Execution
 **Date:** November 8, 2025
-**Target Book:** Y-IT Dropshipping (35-page → 12-page nano-book)
+**Target Book:** Y-It Dropshipping (35-page → 12-page nano-book)
 **Scope:** Multi-format ecosystem (print + web + podcast + lead magnet)
 
 ---
@@ -59,7 +59,7 @@ PRINT (6×9", 12 pages, 3,500 words, $2.99)
 ├─ Essential cost breakdown (stripped to essentials)
 ├─ Decision framework (complete)
 ├─ QR codes linking to web extensions
-└─ Cross-sell references to other Y-IT books
+└─ Cross-sell references to other Y-It books
 
 WEB INTERACTIVE ($7.99 one-time / $4.99/mo)
 ├─ Full print content
@@ -146,7 +146,7 @@ CASE STUDY LINEUP: 7 FAILED DROPSHIPPERS
 ### Why This Works with AI Evaluator
 
 When AI evaluator generates a roast for "eco-friendly phone cases," it says:
-> "Your situation mirrors Case Study #2 in the Y-IT Dropshipping book (The Spiritual
+> "Your situation mirrors Case Study #2 in the Y-It Dropshipping book (The Spiritual
 > Wellness Type who believed market passion = sales). See the full analysis in the
 > interactive version to learn why this founder failed despite genuine expertise."
 
@@ -230,26 +230,26 @@ When AI evaluator generates a roast for "eco-friendly phone cases," it says:
 - Panel 3: Reality hits
 - Panel 4: Failure
 - Panel 5: Statistics overlay
-- Panel 6: Y-IT message
+- Panel 6: Y-It message
 
 ### Why This Approach
 1. **Print space efficiency:** ½ page vs 2-3 pages for comic panels
 2. **QR code payoff:** Reader curious about full story = visits web = email capture
 3. **Digital advantage:** Animated comic > static panels (justifies web upgrade)
 4. **Production timeline:** 1 quality illustration (1 week) vs 4-6 comic panels (2-3 weeks)
-5. **Scaling:** Same hero image works across all 7 Y-IT nano-books
+5. **Scaling:** Same hero image works across all 7 Y-It nano-books
 
 ---
 
 ## 6. PROPOSED TABLE OF CONTENTS (12-page nano-book)
 
 ```
-Y-IT: WHY YOUR DROPSHIP WILL FAIL
+Y-It: WHY YOUR DROPSHIP WILL FAIL
 (Nano-book Edition)
 
 FRONT MATTER
 Cover: Title + Promise vs Reality hero image
-Inside cover: Author bio + Y-IT mission (100 words)
+Inside cover: Author bio + Y-It mission (100 words)
 
 PAGES 1-2: TITLE PAGE
 ├─ Hero illustration (2/3 page)
@@ -301,7 +301,7 @@ PAGES 8-9: WHAT ACTUALLY WORKS INSTEAD
 ├─ 3 realistic alternatives
 ├─ Why each works better (stat for each)
 ├─ Word count: 500 words
-└─ Cross-sell: Other Y-IT books
+└─ Cross-sell: Other Y-It books
 
 PAGES 9-10: THE DECISION FRAMEWORK
 ├─ Decision tree: Should you read any further?
@@ -320,8 +320,8 @@ PAGES 10-11: IF YOU'RE STILL HERE
 PAGES 11-12: BACK MATTER
 ├─ Left: Conclusion (100 words)
 ├─ Right (back cover):
-│  ├─ Y-IT Series description
-│  ├─ Other Y-IT books
+│  ├─ Y-It Series description
+│  ├─ Other Y-It books
 │  ├─ Interactive version pitch
 │  ├─ Website + bundle offer
 │  └─ QR code → landing page + email signup
@@ -404,7 +404,7 @@ AI Roast generated from:
 
 THE HARSH TRUTH:
 You're seller #2,848 in 2,847 competitor market.
-(Y-IT Chapter 3: Platform Roulette)
+(Y-It Chapter 3: Platform Roulette)
 
 THE MATH:
 Supplier: $6.50 | Shipping: $4.20 | Fees: $3.75 | Ads: $18-35
@@ -437,7 +437,7 @@ Print structure must support:
 - ✓ Framework references (decision tree, quitting thresholds)
 
 This means:
-- Consistent chapter numbering across all 7 Y-IT books
+- Consistent chapter numbering across all 7 Y-It books
 - Case studies numbered + named consistently
 - Key statistics highlighted for easy reference
 - Accurate page numbers in TOC
@@ -478,7 +478,7 @@ This means:
 - Savings: $8.98 (41% discount)
 
 **Multi-Book Bundle:**
-- All 7 Y-IT Books (print): $14.99 (vs $20.93)
+- All 7 Y-It Books (print): $14.99 (vs $20.93)
 - Savings: $5.94 (28% discount)
 
 **Annual Subscription:**
@@ -637,7 +637,7 @@ Print structure enables citation:
 ## BRAND CONSISTENCY CHECKLIST
 
 ### Must Include
-- ✓ 3+ guru quote boxes (satirical with Y-IT commentary)
+- ✓ 3+ guru quote boxes (satirical with Y-It commentary)
 - ✓ Real statistics with sources (2+ citations)
 - ✓ "Beautiful, stubborn fool" empathy in cases
 - ✓ Dark humor without cruelty
@@ -647,7 +647,7 @@ Print structure enables citation:
 ### Universal Primer Integration
 - Color palette: 2-3 primary colors from system
 - Typography: Consistent fonts across all 7 books
-- Logo: Y-IT mark on title page + back cover
+- Logo: Y-It mark on title page + back cover
 - Visual style: Clean, minimal, business-professional
 - Tone: Empirical analysis + satirical edge
 
@@ -713,7 +713,7 @@ Print structure enables citation:
 
 ## CONCLUSION
 
-This nano-booklet transformation is **producible, profitable, and philosophically aligned** with Y-IT mission.
+This nano-booklet transformation is **producible, profitable, and philosophically aligned** with Y-It mission.
 
 The nano-book isn't a stripped-down version of the big book. It's a **concentrated dose of decision-changing reality** optimized for people who want credibility over hope.
 

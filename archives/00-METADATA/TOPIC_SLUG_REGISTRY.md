@@ -1,4 +1,4 @@
-# Y-IT Topic Slug Registry
+# Y-It Topic Slug Registry
 
 **Last Updated:** November 10, 2025 (Batch A research phase COMPLETE)
 **Purpose:** Master registry of all topic slugs and their status
