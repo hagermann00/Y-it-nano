@@ -1,0 +1,117 @@
+# Y-IT-NANO Git Ignore Rules
+
+# ========================================
+# LOCAL PRODUCTION WORKSPACE
+# ========================================
+# DO NOT commit binary files (images, PDFs, InDesign)
+LOCAL_WORKSPACE/
+
+# Exception: Allow the README to be committed
+!LOCAL_WORKSPACE/README.md
+
+# ========================================
+# NODE / DEPENDENCIES
+# ========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ========================================
+# ENVIRONMENT
+# ========================================
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+
+# ========================================
+# BUILD OUTPUTS
+# ========================================
+dist/
+build/
+.next/
+out/
+
+# ========================================
+# DESIGN FILES (Large Binary Files)
+# ========================================
+*.indd
+*.idml
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# High-res images (keep only finals in /artifacts if needed)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.bmp
+!*-thumbnail.png
+!*-preview.jpg
+
+# ========================================
+# PDF FILES (except documentation)
+# ========================================
+*.pdf
+# Exception: Allow docs
+!docs/**/*.pdf
+!README*.pdf
+
+# ========================================
+# VIDEO/AUDIO (if you add these later)
+# ========================================
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+*.flac
+
+# ========================================
+# OS FILES
+# ========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================================
+# EDITOR FILES
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================================
+# LOGS
+# ========================================
+logs/
+*.log
+
+# ========================================
+# TEMPORARY FILES
+# ========================================
+tmp/
+temp/
+*.tmp
+*.cache
+
+# ========================================
+# BACKUP FILES
+# ========================================
+*.bak
+*.backup
+*~
+
+# ========================================
+# GOOGLE DRIVE SYNC (if using Drive for Desktop)
+# ========================================
+.gdrive/
+Google Drive/
