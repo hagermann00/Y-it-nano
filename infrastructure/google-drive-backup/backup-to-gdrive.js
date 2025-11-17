@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Y-IT Google Drive Backup System
+ * Y-It Google Drive Backup System
  *
  * This script backs up PostgreSQL database dumps and critical files to Google Drive.
  * It works alongside the existing AWS S3 backup system as a secondary backup location.
@@ -47,7 +47,7 @@ const CONFIG = {
     serviceAccountKeyPath: process.env.GOOGLE_SERVICE_ACCOUNT_KEY_PATH ||
                           path.join(__dirname, 'credentials', 'service-account-key.json'),
     backupFolderId: process.env.GDRIVE_BACKUP_FOLDER_ID || null, // Root folder ID for backups
-    folderName: process.env.GDRIVE_FOLDER_NAME || 'Y-IT-Backups',
+    folderName: process.env.GDRIVE_FOLDER_NAME || 'Y-It-Backups',
     scopes: ['https://www.googleapis.com/auth/drive.file'],
   },
 
@@ -536,13 +536,13 @@ class NotificationService {
     const status = success ? '✅ SUCCESS' : '❌ FAILED';
 
     const message = {
-      text: `Y-IT Backup ${status}`,
+      text: `Y-It Backup ${status}`,
       blocks: [
         {
           type: 'header',
           text: {
             type: 'plain_text',
-            text: `Y-IT Google Drive Backup ${status}`,
+            text: `Y-It Google Drive Backup ${status}`,
           },
         },
         {
@@ -610,7 +610,7 @@ class NotificationService {
 
 async function main() {
   console.log('╔════════════════════════════════════════════════════════════╗');
-  console.log('║         Y-IT Google Drive Backup System v1.0              ║');
+  console.log('║         Y-It Google Drive Backup System v1.0              ║');
   console.log('╚════════════════════════════════════════════════════════════╝\n');
 
   const startTime = Date.now();

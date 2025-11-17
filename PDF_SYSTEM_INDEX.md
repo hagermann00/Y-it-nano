@@ -1,4 +1,4 @@
-# Y-IT PDF Assembly System — Complete Index
+# Y-It PDF Assembly System — Complete Index
 
 **Quick Navigation Guide for All System Components**
 
@@ -354,7 +354,7 @@ Problem: General questions → PDF_ASSEMBLY_DOCUMENTATION.md Section 14 (FAQ)
 
 ## FEATURE CHECKLIST
 
-The Y-IT PDF Assembly System includes:
+The Y-It PDF Assembly System includes:
 
 **Core Features**
 - ✓ Markdown to PDF conversion
@@ -459,7 +459,7 @@ The Y-IT PDF Assembly System includes:
 
 **Status:** ✓ Production Ready
 
-**Testing:** Verified with 11+ Y-IT topics
+**Testing:** Verified with 11+ Y-It topics
 
 **Quality Checklist:**
 - ✓ Well-documented (65+ KB documentation)
@@ -502,12 +502,12 @@ The Y-IT PDF Assembly System includes:
 
 ## VERSION INFORMATION
 
-- **System Name:** Y-IT PDF Assembly System
+- **System Name:** Y-It PDF Assembly System
 - **Version:** 1.0.0
 - **Created:** November 11, 2025
 - **Status:** Production Ready
 - **License:** MIT
-- **Maintainer:** Y-IT Guides
+- **Maintainer:** Y-It Guides
 
 ---
 

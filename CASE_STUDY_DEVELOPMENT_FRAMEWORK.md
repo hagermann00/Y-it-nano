@@ -54,7 +54,7 @@ Each case study follows this proven Y-It format:
 ### WHAT THEY WISH THEY KNEW
 [3-5 bullet points of critical insights they missed]
 
-### Y-IT ARCHETYPE TAG
+### Y-It ARCHETYPE TAG
 [Which failure pattern: Capital shock, Saturation, Guru trap, etc.]
 ```
 

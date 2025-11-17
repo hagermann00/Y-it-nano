@@ -27,7 +27,7 @@ class BackupSystemTester {
    * Run all tests
    */
   async runAll() {
-    console.log(chalk.bold.cyan('Y-IT Topic Backup System - Test Suite\n'));
+    console.log(chalk.bold.cyan('Y-It Topic Backup System - Test Suite\n'));
 
     try {
       await this.test1_CreateTestData();

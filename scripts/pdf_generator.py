@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Y-IT PDF Generator - KDP-Compliant PDF Assembly System
-Converts Y-IT Markdown Manuscripts to Publication-Ready PDFs
+Y-It PDF Generator - KDP-Compliant PDF Assembly System
+Converts Y-It Markdown Manuscripts to Publication-Ready PDFs
 
-Author: Y-IT Guides
+Author: Y-It Guides
 License: MIT
 Version: 1.0.0
 
@@ -61,7 +61,7 @@ except ImportError:
 
 class MarkdownParser:
     """
-    Parses YAML frontmatter and Markdown content with Y-IT-specific extensions.
+    Parses YAML frontmatter and Markdown content with Y-It-specific extensions.
 
     Features:
     - Extract YAML frontmatter (metadata)
@@ -440,7 +440,7 @@ class PDFGenerator:
                     '/Author': self.config.get('author', 'Y-It Guides'),
                     '/Subject': self.config.get('subtitle', ''),
                     '/Keywords': self.config.get('topic', ''),
-                    '/Creator': 'Y-IT PDF Generator v1.0',
+                    '/Creator': 'Y-It PDF Generator v1.0',
                     '/Producer': 'weasyprint',
                     '/CreationDate': datetime.now().isoformat(),
                 })
@@ -753,7 +753,7 @@ class PDFAssemblyOrchestrator:
 def main():
     """Command-line interface for PDF generator."""
     parser = argparse.ArgumentParser(
-        description='Y-IT PDF Generator - Convert manuscripts to KDP-compliant PDFs',
+        description='Y-It PDF Generator - Convert manuscripts to KDP-compliant PDFs',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
@@ -789,7 +789,7 @@ Examples:
 
     # Load and execute
     print(f"\n{'='*60}")
-    print(f"Y-IT PDF GENERATOR")
+    print(f"Y-It PDF GENERATOR")
     print(f"{'='*60}")
 
     try:

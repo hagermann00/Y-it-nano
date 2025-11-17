@@ -218,13 +218,13 @@ Across all 7 topics:
    - Chapter structure based on research phases
    - Word count targets per section
    - Key statistics integration plan
-   - Narrative framework (Y-IT voice)
+   - Narrative framework (Y-It voice)
 
 3. **Begin manuscript writing**
    - Start with Batch A topics in parallel (1 writer per topic)
    - Use research briefs as content foundation
    - Integrate case studies into chapters
-   - Apply Y-IT compression formula
+   - Apply Y-It compression formula
 
 ### Parallel Ongoing Work
 - Affiliates opportunity mapping for remaining topics
@@ -268,7 +268,7 @@ Across all 7 topics:
 
 ## Critical Insights for Book Development
 
-### The Y-IT Thesis Is Validated
+### The Y-It Thesis Is Validated
 Every single Batch A topic demonstrates:
 1. **Massive markets** (often $10B-$300B+)
 2. **Extremely low success rates** (0.4-5%)
@@ -282,7 +282,7 @@ Every single Batch A topic demonstrates:
 ### The Reality
 "80-95% will fail within 12-18 months. Those who succeed rarely make more than traditional employment. Gurus profit regardless."
 
-### The Opportunity for Y-IT
+### The Opportunity for Y-It
 Position the book as the **only honest assessment** of why intelligent people attempt these businesses and why they systematically fail.
 
 ---

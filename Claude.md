@@ -599,19 +599,19 @@ Use dropshipping nano-book as complete test case to validate entire ecosystem be
 4. ✅ COMPLETE_SPECIFICATION_PACKAGE_MASTER.md - Master integration guide
 
 **Production Documents (4):**
-1. ✅ Y-IT_NANO_BOOK_PRODUCTION_SOP.md - Standard operating procedure
-2. ✅ Y-IT_PRODUCTION_ROADMAP_50_TOPICS.md - 50-topic rollout plan
-3. ✅ Y-IT_STYLE_GUIDE_VOICE_TONE.md - Brand voice standards
+1. ✅ Y-It_NANO_BOOK_PRODUCTION_SOP.md - Standard operating procedure
+2. ✅ Y-It_PRODUCTION_ROADMAP_50_TOPICS.md - 50-topic rollout plan
+3. ✅ Y-It_STYLE_GUIDE_VOICE_TONE.md - Brand voice standards
 4. ✅ CONSOLIDATED_RECOMMENDATIONS.md - Action plan
 
 **Technical Documents (3):**
-9. ✅ Y-IT_PLATFORM_ARCHITECTURE.md - Tech stack and system design
-10. ✅ Y-IT_DATABASE_SCHEMA_DESIGN.md - Complete PostgreSQL schema
-11. ✅ Y-IT_WEB_PLATFORM_ARCHITECTURE.md - Frontend/backend architecture
+9. ✅ Y-It_PLATFORM_ARCHITECTURE.md - Tech stack and system design
+10. ✅ Y-It_DATABASE_SCHEMA_DESIGN.md - Complete PostgreSQL schema
+11. ✅ Y-It_WEB_PLATFORM_ARCHITECTURE.md - Frontend/backend architecture
 
 **Marketing Documents (2):**
-12. ✅ Y-IT_LEAD_MAGNET_SYSTEM.md - AI evaluator and email funnel
-13. ✅ Y-IT_DROPSHIPPING_VALIDATION_PLAN.md - Complete testing blueprint
+12. ✅ Y-It_LEAD_MAGNET_SYSTEM.md - AI evaluator and email funnel
+13. ✅ Y-It_DROPSHIPPING_VALIDATION_PLAN.md - Complete testing blueprint
 
 **Audit & Review Documents (4):**
 14. ✅ AUDIT_SYNTHESIS_3_ANGLES.md - 360-degree assessment
@@ -623,7 +623,7 @@ Use dropshipping nano-book as complete test case to validate entire ecosystem be
 18. ✅ MANUSCRIPT_AUDIT_AND_24PAGE_STRUCTURE.md - Dropshipping content audit
 19. ✅ PHASE_2_CONTENT_EXTRACTION_24PAGES.md - Page-by-page content
 20. ✅ EXECUTION_SUMMARY_READY_FOR_DESIGN.md - Designer handoff brief
-21. ✅ Y-IT_NANO_BOOK_STRATEGIC_RECOMMENDATION.md - Format and strategy
+21. ✅ Y-It_NANO_BOOK_STRATEGIC_RECOMMENDATION.md - Format and strategy
 
 **Status & Progress Documents (3):**
 22. ✅ CURRENT_STATUS_AND_SETUP_RECORD.md - Baseline snapshot
@@ -637,8 +637,8 @@ Use dropshipping nano-book as complete test case to validate entire ecosystem be
 28. ✅ FILE_STRUCTURE.md - Directory reference
 
 **Expansion Documents (2):**
-29. ✅ Y-IT_INTERNATIONAL_EXPANSION_STRATEGY.md - Global expansion
-30. ✅ Y-IT_PHASE_2_ROADMAP_MONTHS_6-36.md - Long-term roadmap
+29. ✅ Y-It_INTERNATIONAL_EXPANSION_STRATEGY.md - Global expansion
+30. ✅ Y-It_PHASE_2_ROADMAP_MONTHS_6-36.md - Long-term roadmap
 
 **Production Documents:**
 4. ✅ Y-It_NANO_BOOK_PRODUCTION_SOP.md - Standard operating procedure

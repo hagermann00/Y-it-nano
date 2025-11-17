@@ -43,7 +43,7 @@ LEG 2: REFINEMENT & QA AGENT
 - Research brief (populated)
 - Case studies (11 available)
 - KDP execution plan
-- Y-IT tone guide
+- Y-It tone guide
 
 ### Process
 
@@ -158,7 +158,7 @@ TASK:
 ### Input
 - Raw manuscripts (from Leg 1)
 - Research briefs (source verification)
-- Y-IT brand voice guide
+- Y-It brand voice guide
 - KDP specifications
 
 ### Process
@@ -182,9 +182,9 @@ OUTPUT:
 
 #### Step 2: Tone & Voice Alignment (Per Topic)
 ```
-REVIEW: Every section for Y-IT voice consistency
+REVIEW: Every section for Y-It voice consistency
 
-Y-IT VOICE CHECKLIST:
+Y-It VOICE CHECKLIST:
 - ✓ Sarcasm/humor present (not mean-spirited)
 - ✓ Data-driven (every claim has source)
 - ✓ Honest (admits complexity)
@@ -380,7 +380,7 @@ QUESTION: Is content good enough for design?
 
 CRITERIA:
 ✓ No factual errors
-✓ Y-IT voice consistent
+✓ Y-It voice consistent
 ✓ KDP compliant
 ✓ Word counts correct
 ✓ Case studies compressed
@@ -573,7 +573,7 @@ OPTIONS:
 
 ✅ **Refinement Leg:**
 - 100% fact accuracy
-- Y-IT voice consistent across all topics
+- Y-It voice consistent across all topics
 - Zero KDP compliance issues
 - Quick turnaround (5 hours per topic)
 

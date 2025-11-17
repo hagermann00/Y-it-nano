@@ -1,4 +1,4 @@
-# Y-IT Nano-Book Project - Immediate Action Items
+# Y-It Nano-Book Project - Immediate Action Items
 **Generated:** November 11, 2025
 
 ---

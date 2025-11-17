@@ -327,7 +327,7 @@ class SyncReportGenerator {
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Y-IT Sync Status Report</title>
+  <title>Y-It Sync Status Report</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; background: #f5f5f5; }
     .container { max-width: 1200px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
@@ -350,7 +350,7 @@ class SyncReportGenerator {
 </head>
 <body>
   <div class="container">
-    <h1>Y-IT Sync Status Report</h1>
+    <h1>Y-It Sync Status Report</h1>
     <p style="color: #7f8c8d;">Generated: ${this.reportData.generated.toLocaleString()}</p>
 
     <h2>Summary</h2>

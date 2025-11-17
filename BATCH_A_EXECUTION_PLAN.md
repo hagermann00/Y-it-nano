@@ -310,7 +310,7 @@
 **Content Team Tasks:**
 - Use research briefs as manuscript foundation
 - Weave case studies into narrative chapters
-- Apply Y-IT compression formula
+- Apply Y-It compression formula
 - Create compelling failure analysis sections
 - Prepare affiliate integration points for monetization
 

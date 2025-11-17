@@ -32,7 +32,7 @@ tags:
 
 YouTube represents one of the most seductive wealth-building myths in the creator economy—a platform where 61.8 million creators chase the promise of passive income through content creation, yet less than 1% achieve sustainable earnings. While the global creator economy reached $212.32 billion in 2024 (projected to hit $894.84 billion by 2032), YouTube's individual creator landscape tells a profoundly different story: a massive failure mechanism where content creators systematically sacrifice 50-100 hours per week for earnings that average $50-100 monthly on small channels, while the platform captures 45% of ad revenue and gurus selling "YouTube secrets" courses generate more revenue than 99% of actual creators.
 
-This research validates the Y-IT thesis: YouTube monetization is not a scaling opportunity but a time-to-money catastrophe where structural barriers, algorithmic unpredictability, platform risk, and extreme income inequality combine to create a wealth transfer mechanism from aspiring creators to both YouTube and the guru economy selling creator dreams.
+This research validates the Y-It thesis: YouTube monetization is not a scaling opportunity but a time-to-money catastrophe where structural barriers, algorithmic unpredictability, platform risk, and extreme income inequality combine to create a wealth transfer mechanism from aspiring creators to both YouTube and the guru economy selling creator dreams.
 
 **Critical Market Snapshot:**
 - **YouTube Creator Base:** 61.8 million creators; 113.9 million active channels
@@ -70,7 +70,7 @@ YouTube monetization exemplifies a "guru trap" market where:
 5. **Saturation is structural** - 500 hours of video uploaded per minute; 61.8M competitors; market growth (22-28% annually) increases competition faster than skill development
 6. **Burnout is inevitable** - 79% of creators report burnout; 50-100 hour workweeks drive mental health crises; consistency requirements prevent audience building at sustainable pace
 
-**Y-IT Recommendation:** YouTube monetization is a prime example of "Why I Tried It"—documenting why intelligent people attempt YouTube despite worse odds than dropshipping or other failed ventures, analyzing the psychological mechanics of the creator economy trap (social media addiction, artificial urgency from algorithms, parasocial audience relationships), and creating a comprehensive guide to recognizing when YouTube has become a time-stealing drain disguised as entrepreneurship.
+**Y-It Recommendation:** YouTube monetization is a prime example of "Why I Tried It"—documenting why intelligent people attempt YouTube despite worse odds than dropshipping or other failed ventures, analyzing the psychological mechanics of the creator economy trap (social media addiction, artificial urgency from algorithms, parasocial audience relationships), and creating a comprehensive guide to recognizing when YouTube has become a time-stealing drain disguised as entrepreneurship.
 
 ---
 
@@ -514,7 +514,7 @@ Global creator economy growing 18-22% annually, but this growth represents:
 
 ---
 
-## PHASE 7: STRATEGIC INSIGHTS & Y-IT POSITIONING
+## PHASE 7: STRATEGIC INSIGHTS & Y-It POSITIONING
 
 ### Why YouTube Monetization Fails as Wealth-Building Strategy
 
@@ -572,9 +572,9 @@ Global creator economy growing 18-22% annually, but this growth represents:
 **Creator Trap Recognition:**
 Successful creators are incentivized to create courses about YouTube success, not to continue creating primary content. This creates a survival bias where the most visible "successful" creators are actually gurus, not creators. New creators trying to replicate their path miss that those creators succeeded despite the strategy taught, not because of it.
 
-### Y-IT Content Positioning
+### Y-It Content Positioning
 
-**Why YouTube Monetization Belongs in Y-IT:**
+**Why YouTube Monetization Belongs in Y-It:**
 1. **Universal appeal of the myth:** "Passive income through content creation" ranks among the most searched wealth-building strategies for people 18-45
 2. **Hidden failure mechanisms:** YouTube's algorithm opacity and policy changes create confusion about why channels fail; creators blame themselves rather than structural constraints
 3. **Time-to-money disaster:** Few opportunities waste more human hours for lower returns; the opportunity cost alone makes this worthy of documentation
@@ -616,7 +616,7 @@ Successful creators are incentivized to create courses about YouTube success, no
 - "Viral formula templates" (viral content is inherently unpredictable)
 - "Growth hacks" (no legitimate shortcuts exist; saturation prevents growth hacks from scaling)
 
-### Market Validation for Y-IT
+### Market Validation for Y-It
 
 **Search Volume Evidence:**
 - "How to make money on YouTube": 5M+ monthly searches
@@ -645,7 +645,7 @@ YouTube monetization fails as a wealth-building opportunity due to:
 6. **Guru economy profiteering:** $100M-$300M annual guru course revenue represents wealth transfer from aspiring creators to gurus
 7. **Structural inequality:** Gini coefficient in creator earnings rivals developing nation inequality; 50% make under $15K; only 4% exceed $100K
 
-**Y-IT Strategic Recommendation:** YouTube monetization is a perfect Y-IT chapter. It represents a wealth-building myth that attracts millions despite terrible odds, involves substantial human hours and emotional investment, features a sophisticated guru economy, and includes psychological manipulation through algorithmic engagement mechanics. Documenting why intelligent people attempt YouTube, the hidden failure mechanisms, and the opportunity costs would provide significant value to aspiring creators and establish Y-IT as the authoritative voice on creator economy failure mechanics.
+**Y-It Strategic Recommendation:** YouTube monetization is a perfect Y-It chapter. It represents a wealth-building myth that attracts millions despite terrible odds, involves substantial human hours and emotional investment, features a sophisticated guru economy, and includes psychological manipulation through algorithmic engagement mechanics. Documenting why intelligent people attempt YouTube, the hidden failure mechanisms, and the opportunity costs would provide significant value to aspiring creators and establish Y-It as the authoritative voice on creator economy failure mechanics.
 
 **Market Attractiveness Score: 1/10 for new entrants**
 

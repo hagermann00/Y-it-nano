@@ -1,9 +1,9 @@
-# Y-IT PDF ASSEMBLY SYSTEM
+# Y-It PDF ASSEMBLY SYSTEM
 ## Complete Documentation and Implementation Guide
 
 **Version:** 1.0.0
 **Last Updated:** November 11, 2025
-**Author:** Y-IT Guides
+**Author:** Y-It Guides
 **Status:** Production-Ready
 
 ---
@@ -29,9 +29,9 @@
 
 ## SYSTEM OVERVIEW
 
-### What is the Y-IT PDF Assembly System?
+### What is the Y-It PDF Assembly System?
 
-A production-ready, automated system for converting Y-IT Markdown manuscripts into KDP-compliant PDFs. This system:
+A production-ready, automated system for converting Y-It Markdown manuscripts into KDP-compliant PDFs. This system:
 
 - **Reads** Markdown manuscripts with YAML metadata
 - **Processes** content, images, and styling
@@ -395,7 +395,7 @@ These colors are referenced in the CSS and will be applied to:
 ```json
 "metadata": {
   "creator": "Y-It Guides",
-  "producer": "Y-IT PDF Generator v1.0",
+  "producer": "Y-It PDF Generator v1.0",
   "keywords": "amazon, fba, dropshipping, ecommerce",
   "subject": "Complete guide to Amazon FBA success and failure patterns"
 }
@@ -1158,7 +1158,7 @@ Embed rich metadata:
 {
   "metadata": {
     "creator": "Y-It Guides",
-    "producer": "Y-IT PDF Generator v1.0",
+    "producer": "Y-It PDF Generator v1.0",
     "keywords": "dropshipping, ecommerce, amazon, fba, shopify",
     "subject": "A comprehensive guide examining why dropshipping businesses typically fail"
   }
@@ -1305,9 +1305,9 @@ parallel --max-procs 4 "python3 /home/user/Y-it-nano/scripts/pdf_generator.py --
 
 ### KDP Format Requirements
 
-**Y-IT PDF system is built to KDP specifications:**
+**Y-It PDF system is built to KDP specifications:**
 
-| Requirement | Specification | Y-IT Compliance |
+| Requirement | Specification | Y-It Compliance |
 |-------------|--------------|-----------------|
 | Page Size | 6" × 9" | ✓ Configured |
 | Bleed Area | 0.125" all sides | ✓ In CSS |
@@ -1385,7 +1385,7 @@ gs -sDEVICE=pdfwrite \
 2. Print → Save as PDF
 3. In print dialog, set color to "CMYK"
 
-**Note:** Y-IT system uses RGB by default. CMYK conversion happens at KDP print service.
+**Note:** Y-It system uses RGB by default. CMYK conversion happens at KDP print service.
 
 ---
 
@@ -1394,7 +1394,7 @@ gs -sDEVICE=pdfwrite \
 ### General Questions
 
 **Q: How many topics does this system support?**
-A: The system is designed for all 11+ Y-IT topics. It's infinitely scalable—one template, multiple configurations.
+A: The system is designed for all 11+ Y-It topics. It's infinitely scalable—one template, multiple configurations.
 
 **Q: How long does it take to generate a PDF?**
 A: Typically 30 seconds to 5 minutes per topic, depending on:
@@ -1517,7 +1517,7 @@ A: Document:
 A: Yes. The system is actively maintained. Check git commits for updates.
 
 **Q: Can I contribute improvements?**
-A: Yes! Submit pull requests or issues to the Y-IT repository.
+A: Yes! Submit pull requests or issues to the Y-It repository.
 
 ---
 
@@ -1585,9 +1585,9 @@ Output:      /home/user/Y-it-nano/pdfs/
 
 ## CONCLUSION
 
-The Y-IT PDF Assembly System is a production-ready solution for converting manuscripts to professional, KDP-compliant PDFs. It combines:
+The Y-It PDF Assembly System is a production-ready solution for converting manuscripts to professional, KDP-compliant PDFs. It combines:
 
-- **Reliability** — Tested on all 11 Y-IT topics
+- **Reliability** — Tested on all 11 Y-It topics
 - **Speed** — 5 minutes per topic
 - **Quality** — KDP-compliant every time
 - **Maintainability** — Version controlled, documented

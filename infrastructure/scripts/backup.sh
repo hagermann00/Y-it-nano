@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =====================================================================
-# Y-IT DATABASE BACKUP SCRIPT
+# Y-It DATABASE BACKUP SCRIPT
 # =====================================================================
 #
 # Purpose: Automated hourly backups to S3 with compression and logging
@@ -81,7 +81,7 @@ cleanup() {
 # =====================================================================
 
 log "========================================="
-log "Starting Y-IT Database Backup"
+log "Starting Y-It Database Backup"
 log "Timestamp: $TIMESTAMP"
 log "========================================="
 
@@ -132,7 +132,7 @@ if PGPASSWORD="$DB_PASSWORD" pg_dump \
   success "Database dump completed successfully"
 else
   error "Database dump failed"
-  send_slack_notification "❌ Y-IT Database Backup FAILED at $TIMESTAMP"
+  send_slack_notification "❌ Y-It Database Backup FAILED at $TIMESTAMP"
   cleanup
   exit 1
 fi
@@ -164,7 +164,7 @@ if aws s3 cp "${TEMP_DIR}/${BACKUP_FILE}" \
   success "Upload to S3 completed successfully"
 else
   error "Upload to S3 failed"
-  send_slack_notification "❌ Y-IT Database Backup upload FAILED at $TIMESTAMP"
+  send_slack_notification "❌ Y-It Database Backup upload FAILED at $TIMESTAMP"
   cleanup
   exit 1
 fi
@@ -184,7 +184,7 @@ if aws s3 ls "s3://${S3_BUCKET}/${S3_PREFIX}/${BACKUP_FILE}" &> /dev/null; then
   log "S3 file size: $S3_SIZE bytes"
 else
   error "Backup verification failed - file not found in S3"
-  send_slack_notification "❌ Y-IT Database Backup verification FAILED at $TIMESTAMP"
+  send_slack_notification "❌ Y-It Database Backup verification FAILED at $TIMESTAMP"
   cleanup
   exit 1
 fi
@@ -234,7 +234,7 @@ log "  - Status: SUCCESS"
 log "========================================="
 
 # Send success notification to Slack
-send_slack_notification "✅ Y-IT Database Backup completed successfully
+send_slack_notification "✅ Y-It Database Backup completed successfully
   • Time: $TIMESTAMP
   • Size: $BACKUP_SIZE
   • Duration: ${TOTAL_DURATION}s

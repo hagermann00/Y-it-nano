@@ -24,7 +24,7 @@ This will install all required packages automatically.
 **Option A: Service Account (Recommended for automation)**
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)
-2. Create new project: "Y-IT-Backup"
+2. Create new project: "Y-It-Backup"
 3. Enable Google Drive API
 4. Create Service Account
 5. Download JSON key
@@ -207,7 +207,7 @@ Your local structure should be:
 Google Drive structure (auto-created):
 
 ```
-Y-IT-Production/
+Y-It-Production/
 └── Topics/
     ├── 01-Dropshipping/
     │   ├── Phase-0-Research/

@@ -1,6 +1,6 @@
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║              Y-IT PDF ASSEMBLY SYSTEM - QUICK START CARD                 ║
+║              Y-It PDF ASSEMBLY SYSTEM - QUICK START CARD                 ║
 ║                      5 Minutes to Your First PDF                          ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
@@ -251,7 +251,7 @@ Resolution:     300 DPI (print quality)
 Fonts:          Bebas Neue, Lato, Open Sans (embedded)
 Color Profile:  RGB (CMYK-compatible for print)
 Time Per Topic: 5 minutes
-Topics:         All 11 Y-IT topics (scalable)
+Topics:         All 11 Y-It topics (scalable)
 
 
 ═════════════════════════════════════════════════════════════════════════════
@@ -259,7 +259,7 @@ Topics:         All 11 Y-IT topics (scalable)
 SYSTEMS GO! YOU'RE READY!
 ───────────────────────────────────────────────────────────────────────────
 
-Your Y-IT PDF Assembly System is:
+Your Y-It PDF Assembly System is:
   ✓ Installed
   ✓ Configured
   ✓ Documented

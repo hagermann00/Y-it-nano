@@ -1,6 +1,6 @@
 # Project Todo Agent
 
-**Purpose:** Manage Y-IT Nano-Book ecosystem project with persistent, urgency-prioritized todo list
+**Purpose:** Manage Y-It Nano-Book ecosystem project with persistent, urgency-prioritized todo list
 
 **Usage:**
 - `/project-todo` - Display current todo list with urgency scale and progress
@@ -16,7 +16,7 @@
 ### Display Mode (No Args)
 When invoked without arguments, display:
 ```
-Y-IT NANO-BOOK ECOSYSTEM - PROJECT TODO LIST
+Y-It NANO-BOOK ECOSYSTEM - PROJECT TODO LIST
 Last Updated: [timestamp]
 
 [CRITICAL PRIORITY]
@@ -146,4 +146,4 @@ You are on branch: `claude/agent-project-todo-list-011CUw97yCPqnjjbtMgmNiTg`
 
 ---
 
-*Y-IT Project Agent - Repository-Wide Todo Management*
+*Y-It Project Agent - Repository-Wide Todo Management*

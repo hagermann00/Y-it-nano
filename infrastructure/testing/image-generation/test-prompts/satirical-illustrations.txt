@@ -1,6 +1,6 @@
 # Satirical Illustration Prompts for AI Image Generation
 
-**Purpose:** Generate custom satirical illustrations for Y-IT nano-books
+**Purpose:** Generate custom satirical illustrations for Y-It nano-books
 **Tone:** Humorous, slightly cynical, data-driven satire
 **Style:** Business illustration, editorial cartoon, infographic
 

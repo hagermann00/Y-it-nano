@@ -161,7 +161,7 @@ class ProductionWatcher {
    * Start watching production directory
    */
   async start() {
-    console.log(chalk.bold.cyan('Y-IT Production Folder Watcher\n'));
+    console.log(chalk.bold.cyan('Y-It Production Folder Watcher\n'));
 
     // Initialize Google Drive connection
     await this.sync.initDrive();

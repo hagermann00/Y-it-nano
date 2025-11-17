@@ -1,4 +1,4 @@
-# Y-IT PDF Assembly System — Quick Start Guide
+# Y-It PDF Assembly System — Quick Start Guide
 
 **Get up and running in 5 minutes**
 
@@ -71,7 +71,7 @@ python3 /home/user/Y-it-nano/scripts/pdf_generator.py \
 **Expected output:**
 ```
 ============================================================
-Y-IT PDF GENERATOR
+Y-It PDF GENERATOR
 ============================================================
 
 [1/5] Parsing manuscript...

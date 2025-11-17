@@ -210,7 +210,7 @@ For each topic, create this structure inside the batch folder:
 
 **Location:** `📋 TOPIC INITIALIZATION TEMPLATES` folder
 
-**Copy from:** Y-IT_GOOGLE_DRIVE_STRUCTURE_AND_AFFILIATE_SCORING.md
+**Copy from:** Y-It_GOOGLE_DRIVE_STRUCTURE_AND_AFFILIATE_SCORING.md
 
 **For each template:**
 - [ ] Copy to Google Docs (or keep as markdown)

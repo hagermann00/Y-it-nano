@@ -591,9 +591,9 @@ Gurus aren't wrong that YouTube success is possible; they just imply their syste
 
 ---
 
-## Y-IT STRATEGIC POSITIONING
+## Y-It STRATEGIC POSITIONING
 
-### Why YouTube Gurus Belong in Y-IT Framework
+### Why YouTube Gurus Belong in Y-It Framework
 
 1. **Wealth Transfer Mechanism:** Gurus extract estimated $100M-$300M annually from aspiring creators (wealth transfer)
 
@@ -627,9 +627,9 @@ Gurus aren't wrong that YouTube success is possible; they just imply their syste
 
 ---
 
-## CONCLUSION: THE GURU LANDSCAPE VALIDATES Y-IT THESIS
+## CONCLUSION: THE GURU LANDSCAPE VALIDATES Y-It THESIS
 
-The YouTube guru ecosystem provides perfect case study for Y-IT framework:
+The YouTube guru ecosystem provides perfect case study for Y-It framework:
 
 1. **Wealth Transfer:** $100M-$300M annually flowing from aspiring creators to gurus
 2. **Structural Failure:** 99% of creators fail; gurus hide this fact

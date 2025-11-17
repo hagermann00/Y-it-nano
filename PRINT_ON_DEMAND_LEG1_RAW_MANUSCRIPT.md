@@ -24,7 +24,7 @@ leg_status: ready-for-leg2
 
 [IMAGE:fullwidth:print-on-demand-hero-cover]
 
-Y-IT
+Y-It
 
 **Why Your Print-on-Demand Store Probably Will Fail: Even Though The Setup Costs Only $500**
 
@@ -394,7 +394,7 @@ Quit her $50K job to do POD "full-time." Invested $5,000 (aggressive setup). Mon
 
 ---
 
-**Y-IT TRUTH™**
+**Y-It TRUTH™**
 
 What do all these stories have in common? They did everything the gurus told them. They created designs. They launched early. They ran ads. They tried to scale. And they failed anyway.
 
@@ -656,11 +656,11 @@ This research is based on 45+ authoritative sources:
 - POD seller Slack communities and forums
 - Success and failure story documentation
 
-Full citations available at: www.y-it-guides.com/sources/pod
+Full citations available at: www.Y-It-Guides.com/sources/pod
 
 ---
 
-### PAGE 23: ABOUT Y-IT
+### PAGE 23: ABOUT Y-It
 
 **Our Mission:** We tell uncomfortable truths about businesses everyone talks about but few succeed at.
 
@@ -691,7 +691,7 @@ Full citations available at: www.y-it-guides.com/sources/pod
 
 Each guide is research-backed, written by people who've been there, designed to save you time, money, and heartbreak.
 
-**Connect With Us:** www.y-it-guides.com
+**Connect With Us:** www.Y-It-Guides.com
 
 ---
 

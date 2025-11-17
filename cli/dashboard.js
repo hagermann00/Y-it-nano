@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Y-IT Project Dashboard
+ * Y-It Project Dashboard
  * Main overview of entire book production pipeline
  */
 
@@ -42,7 +42,7 @@ function printHeader() {
   console.clear();
   console.log(`${colors.cyan}${colors.bright}`);
   console.log(`╔════════════════════════════════════════════════════════════════════════════╗`);
-  console.log(`║                      Y-IT BOOK PRODUCTION DASHBOARD                        ║`);
+  console.log(`║                      Y-It BOOK PRODUCTION DASHBOARD                        ║`);
   console.log(`║                   "You've Invested Too Much" Series                        ║`);
   console.log(`╚════════════════════════════════════════════════════════════════════════════╝`);
   console.log(`${colors.reset}\n`);

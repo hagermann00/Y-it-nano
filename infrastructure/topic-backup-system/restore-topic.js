@@ -329,7 +329,7 @@ class TopicRestore {
 
 // Main execution
 async function main() {
-  console.log(chalk.bold.cyan('Y-IT Topic Restore Tool\n'));
+  console.log(chalk.bold.cyan('Y-It Topic Restore Tool\n'));
 
   const restore = new TopicRestore({
     interactive: args.interactive,

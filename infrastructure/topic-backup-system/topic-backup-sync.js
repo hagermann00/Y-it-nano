@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Y-IT Topic Backup Sync Engine
+ * Y-It Topic Backup Sync Engine
  * Progressive, intelligent sync to Google Drive
  */
 
@@ -655,7 +655,7 @@ class TopicBackupSync {
 
 // Main execution
 async function main() {
-  console.log(chalk.bold.cyan('Y-IT Topic Backup Sync\n'));
+  console.log(chalk.bold.cyan('Y-It Topic Backup Sync\n'));
 
   const sync = new TopicBackupSync({
     dryRun: args['dry-run'],

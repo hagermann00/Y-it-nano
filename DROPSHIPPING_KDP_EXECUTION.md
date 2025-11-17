@@ -4,7 +4,7 @@
 **Status:** READY TO EXECUTE
 **Timeline:** 7 days to PDF submission
 **Existing Assets:** Research brief (12.5K words) + 11 case studies archived
-**Template:** Y-IT 24-page nano format
+**Template:** Y-It 24-page nano format
 
 ---
 
@@ -58,7 +58,7 @@ All archived, complete with failure mechanisms.
 ### PAGES 1-3: FRONT MATTER (3 pages)
 ```
 PAGE 1: Front cover
-        Y-IT: DROPSHIPPING—THE INVENTORY TRAP
+        Y-It: DROPSHIPPING—THE INVENTORY TRAP
         Hero image: Package + broken arrow down
 
 PAGE 2: Title page
@@ -473,7 +473,7 @@ EXPANDED VERSION ONLINE:
 ✓ Email support
 
 GET BOTH:
-www.y-it-guides.com/dropshipping
+www.Y-It-Guides.com/dropshipping
 
 [Email signup box]
 "Get realistic about your
@@ -516,7 +516,7 @@ one of the 9 surprised by failure.
 You can still try. Just do it
 with open eyes.
 
-www.y-it-guides.com
+www.Y-It-Guides.com
 [Social icons]
 
 [QR Code linking to resources]
@@ -549,14 +549,14 @@ Interviews & Case Studies:
 
 [Box]
 Full citations available at:
-www.y-it-guides.com/dropshipping/sources
+www.Y-It-Guides.com/dropshipping/sources
 
 [QR Code]
 ```
 
 **PAGE 23: About Y-It**
 ```
-ABOUT Y-IT GUIDES
+ABOUT Y-It GUIDES
 
 We tell uncomfortable truths
 about businesses everyone
@@ -576,7 +576,7 @@ Our Other Guides:
 [+ more coming]
 
 Connect:
-www.y-it-guides.com
+www.Y-It-Guides.com
 [Social media handles]
 
 "If this guide saved you from
@@ -619,15 +619,15 @@ This book shows you why."
 - [ ] Set up InDesign template (6" × 9")
 - [ ] Import case study images/graphics
 - [ ] Create visualization charts
-- [ ] Design page layouts per Y-IT template
-- [ ] Add Y-IT color scheme (red, gold, gray)
+- [ ] Design page layouts per Y-It template
+- [ ] Add Y-It color scheme (red, gold, gray)
 - [ ] Typography styling
 
 ### Writing & Refinement (Days 3-4)
 - [ ] Write page-specific copy
 - [ ] Create subheaders and callouts
 - [ ] Fact-check all statistics
-- [ ] Review for Y-IT voice (sarcastic, honest)
+- [ ] Review for Y-It voice (sarcastic, honest)
 - [ ] Edit for KDP 24-page constraints
 - [ ] Internal review and feedback
 

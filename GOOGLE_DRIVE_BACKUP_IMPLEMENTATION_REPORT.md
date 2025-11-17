@@ -118,7 +118,7 @@ All files created in `/home/user/Y-it-nano/infrastructure/google-drive-backup/`
 ### 2.4 Directory Structure in Google Drive
 
 ```
-Y-IT-Backups/                          ← Root folder (shared with service account)
+Y-It-Backups/                          ← Root folder (shared with service account)
 ├── 2025-11-08/                        ← Date-based folder (YYYY-MM-DD)
 │   ├── yit_db_2025-11-08_00-00-00.dump      ← Hourly DB dumps
 │   ├── yit_db_2025-11-08_01-00-00.dump
@@ -350,7 +350,7 @@ try {
 # Google Drive API
 GOOGLE_SERVICE_ACCOUNT_KEY_PATH=./credentials/service-account-key.json
 GDRIVE_BACKUP_FOLDER_ID=1abc123def456
-GDRIVE_FOLDER_NAME=Y-IT-Backups
+GDRIVE_FOLDER_NAME=Y-It-Backups
 
 # Database
 DB_HOST=yit-production.xxxx.us-east-1.rds.amazonaws.com
@@ -383,11 +383,11 @@ SLACK_WEBHOOK_URL=https://hooks.slack.com/services/YOUR/WEBHOOK/URL
 ### 4.1 Google Cloud Setup (30 minutes)
 
 **Steps:**
-1. Create Google Cloud project (`Y-IT-Backups`)
+1. Create Google Cloud project (`Y-It-Backups`)
 2. Enable Google Drive API
 3. Create service account (`yit-backup-service`)
 4. Generate service account key (JSON)
-5. Create Google Drive folder (`Y-IT-Backups`)
+5. Create Google Drive folder (`Y-It-Backups`)
 6. Share folder with service account (Editor permission)
 7. Get folder ID from URL
 
@@ -438,7 +438,7 @@ npm run backup:database
 npm run backup:full
 
 # Verify in Google Drive
-# Open https://drive.google.com/ and check Y-IT-Backups folder
+# Open https://drive.google.com/ and check Y-It-Backups folder
 ```
 
 ### 4.4 Automation (10 minutes)
@@ -557,7 +557,7 @@ sudo chmod 666 /var/log/yit-gdrive-backup.log
 │          /infrastructure/google-drive-backup/     │
 │              backup-to-gdrive.js                  │
 │          ├─ pg_dump → /tmp/yit-backups/          │
-│          ├─ gdrive upload → Y-IT-Backups/        │
+│          ├─ gdrive upload → Y-It-Backups/        │
 │          └─ cleanup /tmp/yit-backups/            │
 │                                                    │
 └────────────────────────────────────────────────────┘

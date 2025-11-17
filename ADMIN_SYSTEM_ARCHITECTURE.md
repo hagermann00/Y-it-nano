@@ -1,8 +1,8 @@
-# Y-IT ADMIN SYSTEM ARCHITECTURE
+# Y-It ADMIN SYSTEM ARCHITECTURE
 **Future-Proof Stack for Managing 50 Books + Affiliate Programs**
 
 **Created:** November 10, 2025
-**Purpose:** Web-based admin system for Y-IT project management
+**Purpose:** Web-based admin system for Y-It project management
 **Scope:** Research tracking, affiliate management, content pipeline, analytics
 
 ---
@@ -500,7 +500,7 @@ CREATE INDEX idx_activity_log_date ON activity_log(created_at DESC);
 **Tabs:**
 
 **General:**
-- Project name: "Y-IT: You've Invested Too Much"
+- Project name: "Y-It: You've Invested Too Much"
 - Total books target: 50
 - Current batch: A
 - Quality thresholds (validation %, sources, etc.)

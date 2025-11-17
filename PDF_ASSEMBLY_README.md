@@ -1,10 +1,10 @@
-# Y-IT PDF Assembly System
+# Y-It PDF Assembly System
 
-**A Production-Ready Automated System for Converting Y-IT Manuscripts to KDP-Compliant PDFs**
+**A Production-Ready Automated System for Converting Y-It Manuscripts to KDP-Compliant PDFs**
 
 ## Overview
 
-This system transforms Y-IT markdown manuscripts into professional, publication-ready PDFs in minutes. Designed for the Y-IT 11-topic collection (and beyond), it's a single reusable template with configurable parameters per topic.
+This system transforms Y-It markdown manuscripts into professional, publication-ready PDFs in minutes. Designed for the Y-It 11-topic collection (and beyond), it's a single reusable template with configurable parameters per topic.
 
 ### Key Features
 
@@ -360,7 +360,7 @@ The validation report appears in console output after PDF generation.
 
 This system is designed specifically for KDP specifications:
 
-| Specification | Y-IT Implementation |
+| Specification | Y-It Implementation |
 |--------------|-------------------|
 | Page Size | 6" × 9" (configured in CSS) |
 | Bleed | 0.125" all sides (in specs) |
@@ -547,7 +547,7 @@ Start with QUICKSTART, refer to README for daily use, consult full documentation
 
 ---
 
-## Integration with Y-IT Workflow
+## Integration with Y-It Workflow
 
 ### Input
 - **LEG 2 Refined Manuscript** — Markdown with YAML metadata
@@ -602,11 +602,11 @@ git log scripts/pdf_generator.py
 
 ## License & Attribution
 
-**Y-IT PDF Assembly System v1.0.0**
+**Y-It PDF Assembly System v1.0.0**
 - Created: November 11, 2025
 - Status: Production Ready
-- Tested on: 11+ Y-IT topics
-- Maintainer: Y-IT Guides
+- Tested on: 11+ Y-It topics
+- Maintainer: Y-It Guides
 
 ---
 
@@ -678,12 +678,12 @@ python3 /home/user/Y-it-nano/scripts/pdf_generator.py \
 
 ## Summary
 
-The Y-IT PDF Assembly System is a **production-ready, fully automated solution** for converting Y-IT manuscripts to KDP-compliant PDFs. It combines:
+The Y-It PDF Assembly System is a **production-ready, fully automated solution** for converting Y-It manuscripts to KDP-compliant PDFs. It combines:
 
 - **Simplicity** — One template, one script, configurable per topic
 - **Speed** — ~5 minutes per topic
 - **Quality** — KDP-compliant every time
-- **Reliability** — Tested on all 11+ Y-IT topics
+- **Reliability** — Tested on all 11+ Y-It topics
 - **Maintainability** — Version controlled, documented, extensible
 
 **Get started in 5 minutes with PDF_SETUP_QUICKSTART.md**

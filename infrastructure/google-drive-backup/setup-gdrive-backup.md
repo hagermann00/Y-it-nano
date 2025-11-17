@@ -46,7 +46,7 @@ psql -h your-rds-endpoint.amazonaws.com -U postgres -d yit_database -c "SELECT v
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)
 2. Click **Select a Project** → **New Project**
-3. Project Name: `Y-IT-Backups`
+3. Project Name: `Y-It-Backups`
 4. Click **Create**
 5. Wait for project creation (30-60 seconds)
 
@@ -88,7 +88,7 @@ psql -h your-rds-endpoint.amazonaws.com -U postgres -d yit_database -c "SELECT v
 
 1. Go to [Google Drive](https://drive.google.com/)
 2. Click **+ New** → **Folder**
-3. Name: `Y-IT-Backups`
+3. Name: `Y-It-Backups`
 4. Click **Create**
 5. Open the folder
 6. **Share with service account:**
@@ -170,7 +170,7 @@ nano .env
 # Google Drive
 GOOGLE_SERVICE_ACCOUNT_KEY_PATH=./credentials/service-account-key.json
 GDRIVE_BACKUP_FOLDER_ID=1abc123def456  # From Step 5 of Google Cloud Setup
-GDRIVE_FOLDER_NAME=Y-IT-Backups
+GDRIVE_FOLDER_NAME=Y-It-Backups
 
 # Database (use your actual credentials)
 DB_HOST=yit-production.c9abc123xyz.us-east-1.rds.amazonaws.com
@@ -245,7 +245,7 @@ npm run backup:config
 **Expected output:**
 ```
 ✓ Google Drive API initialized successfully
-✓ Using existing backup folder: Y-IT-Backups
+✓ Using existing backup folder: Y-It-Backups
 ✓ Configuration backup created: yit_config_2025-11-08_14-30-00.tar.gz (2.5 KB)
 ✓ Uploaded: yit_config_2025-11-08_14-30-00.tar.gz (2.5 KB)
 ✓ Checksum verified: a1b2c3d4...
@@ -289,7 +289,7 @@ Total Size: 128.5 MB
 ### Verify in Google Drive
 
 1. Open [Google Drive](https://drive.google.com/)
-2. Navigate to **Y-IT-Backups** folder
+2. Navigate to **Y-It-Backups** folder
 3. You should see a folder named with today's date (e.g., `2025-11-08`)
 4. Open the date folder
 5. Verify files are present:

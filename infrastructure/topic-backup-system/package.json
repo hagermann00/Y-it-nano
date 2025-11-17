@@ -1,7 +1,7 @@
 {
   "name": "y-it-topic-backup-system",
   "version": "1.0.0",
-  "description": "Intelligent progressive backup system for Y-IT nano-book production workflow",
+  "description": "Intelligent progressive backup system for Y-It nano-book production workflow",
   "main": "topic-backup-sync.js",
   "scripts": {
     "watch": "node watch-production-folder.js",
@@ -20,7 +20,7 @@
     "production-workflow",
     "incremental-backup"
   ],
-  "author": "Y-IT Production Team",
+  "author": "Y-It Production Team",
   "license": "MIT",
   "dependencies": {
     "googleapis": "^128.0.0",

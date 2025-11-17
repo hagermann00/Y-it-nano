@@ -1,4 +1,4 @@
-# Y-IT: CONTENT PRODUCTION PIPELINE EXECUTIVE SUMMARY
+# Y-It: CONTENT PRODUCTION PIPELINE EXECUTIVE SUMMARY
 ## Master Overview of the 50-Topic Nano-Book System
 
 **Date:** November 16, 2025
@@ -204,11 +204,11 @@ Email 3: "Get all 50 books + web access for $99/year" → SUBSCRIPTION
 
 | Document | Purpose | Length | Key Content |
 |----------|---------|--------|---|
-| **Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md** | Complete how-to for any topic | 2,435 lines | 10 sections, all phases, all standards, complete checklists |
-| **Y-IT_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md** | How topics interconnect | 537 lines | Dependency matrix, bundling strategy, cross-sell sequences |
+| **Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md** | Complete how-to for any topic | 2,435 lines | 10 sections, all phases, all standards, complete checklists |
+| **Y-It_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md** | How topics interconnect | 537 lines | Dependency matrix, bundling strategy, cross-sell sequences |
 | **CONTENT_PRODUCTION_PIPELINE_EXECUTIVE_SUMMARY.md** | This document | TK | Quick reference, key metrics, overview |
-| **Y-IT_NANO_BOOK_PRODUCTION_SOP.md** | Standard operating procedure | 946 lines | 9-phase workflow, existing |
-| **Y-IT_STYLE_GUIDE_VOICE_TONE.md** | Brand voice standards | 570 lines | Tone by chapter, forbidden/mandatory elements |
+| **Y-It_NANO_BOOK_PRODUCTION_SOP.md** | Standard operating procedure | 946 lines | 9-phase workflow, existing |
+| **Y-It_STYLE_GUIDE_VOICE_TONE.md** | Brand voice standards | 570 lines | Tone by chapter, forbidden/mandatory elements |
 | **COMPLETE_SPECIFICATION_PACKAGE_MASTER.md** | Dropshipping specification example | 524 lines | All-in-one reference for completed topic |
 
 ### Supporting References (Existing)
@@ -334,19 +334,19 @@ Email 3: "Get all 50 books + web access for $99/year" → SUBSCRIPTION
 ## 📞 HOW TO USE THIS SYSTEM
 
 ### For Content Producers
-→ Reference: Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md
+→ Reference: Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md
 → Use: Phase-by-phase checklist and quality gates
 
 ### For Project Managers
-→ Reference: Y-IT_NANO_BOOK_PRODUCTION_SOP.md (timeline)
+→ Reference: Y-It_NANO_BOOK_PRODUCTION_SOP.md (timeline)
 → Use: This document for overview, dependencies map for sequencing
 
 ### For Designers
 → Reference: COMPLETE_SPECIFICATION_PACKAGE_MASTER.md (Dropshipping example)
-→ Use: Y-IT_STYLE_GUIDE_VOICE_TONE.md for brand standards
+→ Use: Y-It_STYLE_GUIDE_VOICE_TONE.md for brand standards
 
 ### For Marketing
-→ Reference: Y-IT_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md
+→ Reference: Y-It_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md
 → Use: Email sequences and cross-sell strategy for revenue optimization
 
 ### For Developers/Infrastructure

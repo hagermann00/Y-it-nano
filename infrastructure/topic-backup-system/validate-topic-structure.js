@@ -359,7 +359,7 @@ class TopicValidator {
 
 // Main execution
 async function main() {
-  console.log(chalk.bold.cyan('Y-IT Topic Structure Validator\n'));
+  console.log(chalk.bold.cyan('Y-It Topic Structure Validator\n'));
 
   const validator = new TopicValidator({
     verbose: args.verbose,

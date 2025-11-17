@@ -24,7 +24,7 @@ leg_status: ready-for-leg2
 
 [IMAGE:fullwidth:amazon-fba-hero-cover]
 
-Y-IT
+Y-It
 
 **Why Your Amazon FBA Business Probably Will Fail: Even Though You've Heard Otherwise**
 
@@ -338,7 +338,7 @@ Social media manager with 45K followers chose phone cases (150K monthly searches
 
 ---
 
-**Y-IT TRUTH™**
+**Y-It TRUTH™**
 
 The uncomfortable thing all these stories have in common? They did everything "right." They followed the system. They researched. They executed. They failed anyway. The business model itself is fundamentally broken for 95% of people. It's not execution failure. It's structural failure. It's math that doesn't add up.
 
@@ -548,7 +548,7 @@ The digital version includes:
 ✓ Alternative business models analyzed
 ✓ Community access (private seller support group)
 
-Available at: www.y-it-guides.com/amazon-fba
+Available at: www.Y-It-Guides.com/amazon-fba
 
 ---
 
@@ -629,7 +629,7 @@ This research is based on 50+ industry sources:
 - Time-tracked failure sequences
 - Financial outcome documentation
 
-Full citations available at: www.y-it-guides.com/sources/amazon-fba
+Full citations available at: www.Y-It-Guides.com/sources/amazon-fba
 
 **Get The Expanded Digital Guide**
 
@@ -642,11 +642,11 @@ The digital version includes:
 ✓ Alternative business models
 ✓ Community access (private seller support group)
 
-Available at: www.y-it-guides.com/amazon-fba
+Available at: www.Y-It-Guides.com/amazon-fba
 
 ---
 
-### PAGE 23: ABOUT Y-IT
+### PAGE 23: ABOUT Y-It
 
 **Our Mission:** We tell uncomfortable truths about businesses everyone talks about but few succeed at.
 
@@ -675,7 +675,7 @@ Available at: www.y-it-guides.com/amazon-fba
 5. Why Social Media Agencies Fail
 6. Why YouTube Monetization Fails
 
-**Connect With Us:** www.y-it-guides.com
+**Connect With Us:** www.Y-It-Guides.com
 
 Each guide is research-backed, written by people who've been there, designed to save you time, money, and heartbreak.
 

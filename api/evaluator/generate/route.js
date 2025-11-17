@@ -180,6 +180,6 @@ async function applyRateLimit(req, limiter) {
  */
 async function triggerEmailSequence(email, topicId, responseId) {
   // Implementation would go here
-  // See ConvertKit integration in Y-IT_WEB_PLATFORM_ARCHITECTURE.md
+  // See ConvertKit integration in Y-It_WEB_PLATFORM_ARCHITECTURE.md
   console.log(`Triggering email sequence for ${email}, topic ${topicId}, response ${responseId}`);
 }
