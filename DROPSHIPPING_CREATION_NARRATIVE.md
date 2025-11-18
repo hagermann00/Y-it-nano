@@ -10,7 +10,7 @@
 
 It began with a single word: "Go."
 
-The prompt was simple. In the Y-IT universe—a project designed to expose the gap between entrepreneurial hype and brutal reality—the next target was dropshipping. Not to promote it. Not to teach "the secrets." But to dissect why 80-90% of dropshippers fail within their first four months, and why the gurus make vastly more money from selling courses about dropshipping than most individual dropshippers will ever earn from the business itself.
+The prompt was simple. In the Y-It universe—a project designed to expose the gap between entrepreneurial hype and brutal reality—the next target was dropshipping. Not to promote it. Not to teach "the secrets." But to dissect why 80-90% of dropshippers fail within their first four months, and why the gurus make vastly more money from selling courses about dropshipping than most individual dropshippers will ever earn from the business itself.
 
 This was the thesis: When barriers to entry approach zero and information asymmetry favors "gurus" over practitioners, market saturation creates a wealth transfer mechanism. Follow the money. Find the pattern. Document the failure post-mortem that gurus systematically omit.
 
@@ -203,7 +203,7 @@ Same information. Tighter. Snappier. The verbose became visceral.
 
 This pattern repeated throughout the manuscript. Sentences that could be combined, were. Paragraph breaks that could be eliminated, were. Adjectives that could be cut, were. The goal was surgical precision—every word earning its place on the page.
 
-**The Tone/Voice Alignment: Ensuring It Sounds Like Y-IT**
+**The Tone/Voice Alignment: Ensuring It Sounds Like Y-It**
 
 One critical question: Did the entire manuscript sound like it came from the same author?
 
@@ -259,16 +259,16 @@ Amazon Kindle Direct Publishing has specific requirements. The manuscript needed
    - Proper margins (0.5" minimum)? ✓
 
 2. **Metadata:**
-   - Title: Y-IT: DROPSHIPPING—THE INVENTORY TRAP ✓
+   - Title: Y-It: DROPSHIPPING—THE INVENTORY TRAP ✓
    - Subtitle: Why Your Amazon FBA, eBay, or Shopify Store Will Probably Fail ✓
    - ASIN category: Business → Entrepreneurship ✓
    - Keywords: dropshipping, e-commerce, entrepreneurship, failure post-mortem ✓
 
 3. **Back Matter:**
-   - About the Author (Y-IT series introduction) ✓
-   - About the Series (positioning within broader Y-IT universe) ✓
+   - About the Author (Y-It series introduction) ✓
+   - About the Series (positioning within broader Y-It universe) ✓
    - Resources and Further Reading ✓
-   - Call-to-action (subscribe to Y-IT updates) ✓
+   - Call-to-action (subscribe to Y-It updates) ✓
 
 4. **Cover Specifications:**
    - Dimensions: 6" × 9" (standard paperback) ✓
@@ -320,7 +320,7 @@ Complete LEG 2 refinement - Copy editing, tone alignment, fact-checking, KDP com
 
 The raw manuscript has undergone:
 - Full copy editing pass (prose tightened, redundancy eliminated)
-- Tone/voice alignment (consistent Y-IT voice throughout)
+- Tone/voice alignment (consistent Y-It voice throughout)
 - Complete fact-checking (all statistics traced to source)
 - KDP compliance verification (formatting, metadata, back matter)
 - Final quality approval (publication-ready)
@@ -359,7 +359,7 @@ The Dropshipping manuscript exists as a complete, publication-ready artifact:
 7. Module 6: The Platform Dependency Risk (pages 14-15)
 8. Module 7: The Math That Doesn't Work (pages 16-17)
 9. Module 8: The Alternative Routes (pages 18-19)
-10. Back matter (pages 20-24): Case study profiles, about Y-IT series, resources
+10. Back matter (pages 20-24): Case study profiles, about Y-It series, resources
 
 **Evidence Artifacts:**
 
@@ -399,7 +399,7 @@ The Dropshipping manuscript exists as a complete, publication-ready artifact:
 
 **How to Reproduce It**
 
-If another Y-IT topic needed the same treatment, the playbook is now established:
+If another Y-It topic needed the same treatment, the playbook is now established:
 
 1. **Research Phase (2-3 days):**
    - Conduct comprehensive market research (multiple sources, cross-verified)
@@ -438,7 +438,7 @@ If another Y-IT topic needed the same treatment, the playbook is now established
 
 **The Template for Next 10 Topics**
 
-The Y-IT series has identified 10+ topics ready for this same treatment:
+The Y-It series has identified 10+ topics ready for this same treatment:
 
 - **Topic 2:** Amazon FBA (Private labeling, inventory risk)
 - **Topic 3:** Cryptocurrency/NFTs (Volatility, regulatory risk)
@@ -477,7 +477,7 @@ The designer ensures it looks like it deserves to be read.
 
 Most projects fail because they collapse structure and refinement into a single pass. Write once. Publish. Hope it's right.
 
-The Y-IT Dropshipping project split this into two distinct legs:
+The Y-It Dropshipping project split this into two distinct legs:
 
 - **LEG 1 (Content Creation):** Focus entirely on getting the right words on the page. Draw from research. Assemble narrative. Hit the target word count. Get the structure right. *Don't worry about polish yet.*
 
@@ -546,7 +546,7 @@ But the real artifact isn't the book. The real artifact is the process.
 
 The method that took a 12,500-word research brief and 11 separate case studies, assembled them into a coherent 21,847-word manuscript, refined it to publication standards, and created an auditable trail showing every decision and every source.
 
-This process is now the template for 10 more Y-IT topics.
+This process is now the template for 10 more Y-It topics.
 
 The next manuscript won't take weeks. It will take 6-9 days.
 
@@ -568,7 +568,7 @@ The InDesign brief has been prepared. The designer will receive:
 
 - Complete, verified manuscript
 - 24-page layout specification
-- Color palette (Y-IT brand colors: deep blue, accent gold, white space)
+- Color palette (Y-It brand colors: deep blue, accent gold, white space)
 - Typography standards (serif headers, sans-serif body text)
 - Case study profiles with suggested imagery
 - KDP specifications for print-ready PDF
@@ -577,7 +577,7 @@ The InDesign brief has been prepared. The designer will receive:
 
 November 18, 2025: The book goes live on Amazon Kindle Direct Publishing.
 
-- Title: Y-IT: DROPSHIPPING—THE INVENTORY TRAP
+- Title: Y-It: DROPSHIPPING—THE INVENTORY TRAP
 - Subtitle: Why Your Amazon FBA, eBay, or Shopify Store Will Probably Fail
 - Price: $9.99
 - Format: Paperback (6" × 9", 24 pages)
@@ -585,7 +585,7 @@ November 18, 2025: The book goes live on Amazon Kindle Direct Publishing.
 
 **The Template Proven**
 
-One complete Y-IT topic—from research concept to published book—in 9 days.
+One complete Y-It topic—from research concept to published book—in 9 days.
 
 The model works.
 
@@ -595,7 +595,7 @@ Topic 2: Amazon FBA (LEG 1 + LEG 2 = 9 days)
 Topic 3: Cryptocurrency (LEG 1 + LEG 2 = 9 days)
 Topic 4: Influencer courses (LEG 1 + LEG 2 = 9 days)
 
-By the end of Q1 2026, ten Y-IT topics could be published.
+By the end of Q1 2026, ten Y-It topics could be published.
 
 Not because of rushing. Because of process.
 

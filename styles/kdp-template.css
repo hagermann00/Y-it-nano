@@ -1,5 +1,5 @@
 /*
-  Y-IT KDP Template - Professional Print-Ready Stylesheet
+  Y-It KDP Template - Professional Print-Ready Stylesheet
 
   Specifications:
   - Page Size: 6" x 9" (1728px x 2592px @ 288 DPI)
@@ -417,7 +417,7 @@ figcaption {
   text-align: center;
 }
 
-/* Portrait images (typical for Y-IT) */
+/* Portrait images (typical for Y-It) */
 .image-portrait {
   max-width: 4.5in;
   margin: 1em auto;

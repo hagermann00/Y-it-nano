@@ -9,7 +9,7 @@ page_count: 24
 topic: dropshipping
 ---
 
-# Y-IT: DROPSHIPPING—THE INVENTORY TRAP
+# Y-It: DROPSHIPPING—THE INVENTORY TRAP
 ## "Why Your Amazon FBA, eBay, or Shopify Store Will Probably Fail"
 
 ---
@@ -19,16 +19,16 @@ topic: dropshipping
 ### PAGE 1: COVER
 [Front cover image: Package with broken arrow down]
 
-**Y-IT: DROPSHIPPING—THE INVENTORY TRAP**
+**Y-It: DROPSHIPPING—THE INVENTORY TRAP**
 Why Your Amazon FBA, eBay, or Shopify Store Will Probably Fail
 
 ---
 
 ### PAGE 2: TITLE PAGE
-Y-IT: DROPSHIPPING—THE INVENTORY TRAP
+Y-It: DROPSHIPPING—THE INVENTORY TRAP
 Why Your Amazon FBA, eBay, or Shopify Store Will Probably Fail
 
-Y-IT GUIDES
+Y-It GUIDES
 Truth Over Hype
 
 ---
@@ -859,7 +859,7 @@ If you're committed to understanding WHY dropshipping fails BEFORE you fail at i
 ✓ Email support (ask questions about YOUR specific situation)
 
 **GET BOTH:**
-www.y-it-guides.com/dropshipping
+www.Y-It-Guides.com/dropshipping
 
 [EMAIL SIGNUP BOX]
 "Get realistic about your business idea before you lose $10,000."
@@ -910,7 +910,7 @@ Understanding why 90% fail is your only real advantage.
 
 ---
 
-**www.y-it-guides.com**
+**www.Y-It-Guides.com**
 [Social media icons]
 
 [QR Code linking to resources]
@@ -945,13 +945,13 @@ This research is sourced from:
 ✓ E-commerce platform data
 
 **Full citations available at:**
-www.y-it-guides.com/dropshipping/sources
+www.Y-It-Guides.com/dropshipping/sources
 
 [QR Code]
 
 ---
 
-### PAGE 23: ABOUT Y-IT GUIDES
+### PAGE 23: ABOUT Y-It GUIDES
 
 **ABOUT US**
 
@@ -977,7 +977,7 @@ We've compiled 11 full case studies, 100+ data points, and complete market analy
 ---
 
 **CONNECT WITH US:**
-www.y-it-guides.com
+www.Y-It-Guides.com
 [Social media handles]
 
 **"If this guide saved you from losing $10K, you're welcome."**
@@ -1059,7 +1059,7 @@ Price: $9.99
 
 ✓ All 8 modules complete
 ✓ 7 compressed case studies embedded
-✓ Y-IT voice consistent (sarcastic, data-driven, empathetic, no shame)
+✓ Y-It voice consistent (sarcastic, data-driven, empathetic, no shame)
 ✓ Page breaks noted
 ✓ Callout boxes identified
 ✓ Image/chart placement areas flagged

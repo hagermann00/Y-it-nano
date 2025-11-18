@@ -1,4 +1,4 @@
-# Y-IT PRODUCTION ARCHIVE: NARRATIVE DOCUMENTATION
+# Y-It PRODUCTION ARCHIVE: NARRATIVE DOCUMENTATION
 ## A Living Journal of the Content Production System in Action
 
 **Purpose:** Document the entire Y-It production process in natural language narrative form, capturing the experience, insights, and evolution of the system as it operates

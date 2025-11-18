@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Y-IT Research Progress Dashboard
+ * Y-It Research Progress Dashboard
  * Track progress across all 7 Batch A topics with detailed metrics
  */
 

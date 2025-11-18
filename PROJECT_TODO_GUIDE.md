@@ -1,4 +1,4 @@
-# Y-IT Project Todo Agent - Usage Guide
+# Y-It Project Todo Agent - Usage Guide
 
 **Status:** ✅ Active and ready to use
 **Location:** `.claude/commands/project-todo.md` (slash command)
@@ -337,4 +337,4 @@ git log --oneline -- .claude/data/project-todo.json
 
 ---
 
-*Y-IT Project Todo Agent - Ready for implementation tracking*
+*Y-It Project Todo Agent - Ready for implementation tracking*

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Y-IT Affiliate Opportunities Dashboard
+ * Y-It Affiliate Opportunities Dashboard
  * Filterable view of affiliate programs by category, revenue, ethical score
  */
 

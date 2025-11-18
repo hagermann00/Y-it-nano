@@ -1,4 +1,4 @@
-# Y-IT CLI Dashboards
+# Y-It CLI Dashboards
 
 **Created:** November 10, 2025
 **Purpose:** Visual command-line dashboards for project monitoring
@@ -19,7 +19,7 @@
 - Recent activity feed
 - Next action items
 
-**Use When:** You want a high-level overview of entire Y-IT project
+**Use When:** You want a high-level overview of entire Y-It project
 
 ---
 
@@ -110,7 +110,7 @@ Visual representation of completion:
 ### Main Dashboard Example:
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
-║                      Y-IT BOOK PRODUCTION DASHBOARD                        ║
+║                      Y-It BOOK PRODUCTION DASHBOARD                        ║
 ║                   "You've Invested Too Much" Series                        ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 

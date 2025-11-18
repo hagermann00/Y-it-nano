@@ -1,8 +1,8 @@
 # Print-on-Demand (POD) Business Research: Comprehensive Market Analysis
-## Why Most POD Sellers Fail - A Y-IT Case Study
+## Why Most POD Sellers Fail - A Y-It Case Study
 
 **Status:** Research Complete  
-**Target Audience:** Y-IT Book Chapter Development  
+**Target Audience:** Y-It Book Chapter Development  
 **Word Count:** 2,800+ words  
 **Research Date:** November 2025  
 **Data Sources:** 45+ authoritative sources  
@@ -702,7 +702,7 @@ The market is large but saturated with low barriers to entry. This creates a fun
 
 ---
 
-## CONCLUSION: THE Y-IT THESIS VALIDATED
+## CONCLUSION: THE Y-It THESIS VALIDATED
 
 Print-on-demand exemplifies the "Why I Tried" archetype:
 

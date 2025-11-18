@@ -669,7 +669,7 @@ Month 5-6:
 
 ### Brand Voice in Imagery
 
-These images should WHISPER (darkly) the Y-IT voice visually:
+These images should WHISPER (darkly) the Y-It voice visually:
 - **Darkly humorous:** The system is the villain. The punchline is the system's obvious unfairness.
 - **Data-driven:** Numbers visible. Real. Specific. Not abstract.
 - **Empathetic:** Viewers should identify with the person, not judge them.

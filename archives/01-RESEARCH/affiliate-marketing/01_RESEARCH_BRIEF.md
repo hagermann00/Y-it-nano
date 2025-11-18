@@ -1,5 +1,5 @@
 # AFFILIATE MARKETING COMPREHENSIVE RESEARCH SUMMARY
-## For "Y-IT" Book: Why Most Affiliate Marketers Fail
+## For "Y-It" Book: Why Most Affiliate Marketers Fail
 
 ---
 
@@ -658,7 +658,7 @@ Most published success stories come from the 5% who succeeded. The 95% who faile
 
 ---
 
-## CONCLUSION: The Y-IT Perspective
+## CONCLUSION: The Y-It Perspective
 
 ### Why the Affiliate Marketing Ecosystem Is Structured for Failure
 
@@ -686,7 +686,7 @@ Success patterns for the 5% are:
 - **Diversified traffic**: Multiple channels, not Google-dependent
 - **Brand building**: Created personal brand/authority that generates inbound
 
-### For the Y-IT Book: The Narrative
+### For the Y-It Book: The Narrative
 
 The affiliate marketing ecosystem is built on a narrative of "passive income" that contradicts market realities. It attracts people seeking lifestyle freedom, then presents them with:
 - An economically unviable unit economics problem

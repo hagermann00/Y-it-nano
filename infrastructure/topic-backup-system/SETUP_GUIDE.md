@@ -35,7 +35,7 @@ You have two options: **Service Account** (recommended for automation) or **OAut
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)
 2. Click **Create Project**
-3. Name: `Y-IT-Backup`
+3. Name: `Y-It-Backup`
 4. Click **Create**
 
 #### 2.2 Enable Google Drive API
@@ -70,7 +70,7 @@ Open the JSON file and copy:
 
 #### 2.6 Share Google Drive Folder
 
-1. Create folder in Google Drive: `Y-IT-Production`
+1. Create folder in Google Drive: `Y-It-Production`
 2. Right-click > **Share**
 3. Add the service account email (e.g., `y-it-backup-service@y-it-backup.iam.gserviceaccount.com`)
 4. Give **Editor** permissions
@@ -216,7 +216,7 @@ Y-It Topic Backup Sync
 
 === Syncing Topic: Dropshipping (01) ===
 
-[DRY RUN] Would create folder: Y-IT-Production
+[DRY RUN] Would create folder: Y-It-Production
 [DRY RUN] Would create folder: Topics
 [DRY RUN] Would upload: dropshipping_research_engine.md (2.3 KB)
 ...
@@ -242,7 +242,7 @@ This will:
 3. Upload all files for dropshipping
 4. Record in database
 
-Check Google Drive: `Y-IT-Production/Topics/01-Dropshipping/`
+Check Google Drive: `Y-It-Production/Topics/01-Dropshipping/`
 
 ## Step 8: Verify Sync
 
@@ -347,7 +347,7 @@ Create this Google Drive structure (auto-created by system):
 
 ```
 Google Drive/
-└── Y-IT-Production/
+└── Y-It-Production/
     ├── Topics/
     │   ├── 01-Dropshipping/
     │   │   ├── Phase-0-Research/

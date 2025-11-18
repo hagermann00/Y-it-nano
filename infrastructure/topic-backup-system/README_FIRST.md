@@ -132,7 +132,7 @@ npm run validate -- --topic=X  # Check structure
 Your files automatically organized like this:
 
 ```
-Y-IT-Production/
+Y-It-Production/
 └── Topics/
     ├── 01-Dropshipping/
     │   ├── Phase-0-Research/

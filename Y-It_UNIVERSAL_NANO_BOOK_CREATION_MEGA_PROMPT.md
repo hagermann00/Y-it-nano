@@ -1,4 +1,4 @@
-# Y-IT: UNIVERSAL NANO-BOOK CREATION MEGA PROMPT
+# Y-It: UNIVERSAL NANO-BOOK CREATION MEGA PROMPT
 ## Topic-Agnostic Framework for All 50 Books
 
 **Version:** 1.0
@@ -678,7 +678,7 @@ Every topic needs these data points (sources required):
    - Deliverables checklist
    - Quality gates
 
-4. **Y-IT_STYLE_GUIDE_VOICE_TONE.md**
+4. **Y-It_STYLE_GUIDE_VOICE_TONE.md**
    - Universal brand voice standards
    - Tone specifications by chapter
    - Forbidden elements
@@ -1433,7 +1433,7 @@ Go/No-Go:
 - Multi-agent coordination approach
 - Quality gates and validation checklists
 
-**File:** `/Y-IT_STYLE_GUIDE_VOICE_TONE.md`
+**File:** `/Y-It_STYLE_GUIDE_VOICE_TONE.md`
 - Brand voice definition
 - Tone specifications by chapter
 - Forbidden/mandatory elements
@@ -1496,8 +1496,8 @@ python /scripts/pdf_generator.py \
 ### 7.4 Documentation References
 
 **Master Documents:**
-1. `/Y-IT_NANO_BOOK_PRODUCTION_SOP.md` - Complete 9-phase workflow
-2. `/Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md` - This document
+1. `/Y-It_NANO_BOOK_PRODUCTION_SOP.md` - Complete 9-phase workflow
+2. `/Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md` - This document
 3. `/COMPLETE_SPECIFICATION_PACKAGE_MASTER.md` - Dropshipping example (reference)
 4. `/Y-It_PRODUCTION_ROADMAP_50_TOPICS.md` - Overall timeline and sequencing
 
@@ -1997,7 +1997,7 @@ Preparation for Next Batch:
 - Look for hedging: "arguably," "might," "could" (removes power)
 
 **Solution:**
-- Re-read Y-IT_STYLE_GUIDE_VOICE_TONE.md before each chapter
+- Re-read Y-It_STYLE_GUIDE_VOICE_TONE.md before each chapter
 - Compare against good examples from existing books
 - Add more mockery quotes from gurus
 - Replace hedging with direct statements backed by data
@@ -2192,7 +2192,7 @@ Preparation for Next Batch:
 - Overall aesthetic doesn't feel like "harsh reality exposed with dark humor"
 
 **How to catch it:**
-- Phase 7 gate: Designer signs off on reading Y-IT_STYLE_GUIDE_VOICE_TONE.md
+- Phase 7 gate: Designer signs off on reading Y-It_STYLE_GUIDE_VOICE_TONE.md
 - Phase 8 review: Do proof pages feel like Y-It tone?
 - Compare hero image and character portraits to existing books
 

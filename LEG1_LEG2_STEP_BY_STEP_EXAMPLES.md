@@ -1,10 +1,10 @@
 # LEG 1 & LEG 2: STEP-BY-STEP EXAMPLES & VARIATIONS
 
-**Purpose:** Complete reference guide showing actual examples from Y-IT Dropshipping manuscript with before/after comparisons, alternative approaches, and phrase variations for each step.
+**Purpose:** Complete reference guide showing actual examples from Y-It Dropshipping manuscript with before/after comparisons, alternative approaches, and phrase variations for each step.
 
 **Document Version:** 1.0
 **Created:** 2025-11-10
-**Manuscript Source:** Y-IT: Dropshipping—The Inventory Trap (LEG 1 & LEG 2 Complete)
+**Manuscript Source:** Y-It: Dropshipping—The Inventory Trap (LEG 1 & LEG 2 Complete)
 
 ---
 
@@ -64,7 +64,7 @@ intensifying competition, not opportunity expansion.
 **VARIATION 2: Plain English Phrasing**
 > "The dropshipping market is huge—over $344 billion worldwide and growing fast. But here's the problem: most people trying it make zero dollars. 9 out of 10 quit in the first 4 months. The few who make money make a lot, but that's rare."
 
-**VARIATION 3: Y-IT Voice Phrasing**
+**VARIATION 3: Y-It Voice Phrasing**
 > "The market is $344B. You're not. The pie is massive, but you're competing against 1.9 million other dropshippers, 90% of whom will fail before month 4 of watching money disappear into Facebook ads. Want to guess who's really making the $344B? The people selling you courses."
 
 ### Examples: Good vs. Poor Extraction
@@ -94,7 +94,7 @@ opportunities are tiny. The difference is who owns the information.
 - Three stats form a narrative (market size → actual earnings → reason)
 - Each stat answers the follow-up question ("So what?")
 - Juxtaposition creates insight (not just data, but meaning)
-- Sets up the Y-IT thesis
+- Sets up the Y-It thesis
 
 ---
 
@@ -499,9 +499,9 @@ Jake quits.
 
 **Advantage:** Character-driven narrative makes abstract problems concrete. Readers follow along and see the failure mechanism in real time.
 
-### Y-IT Voice Examples vs. Non-Y-IT
+### Y-It Voice Examples vs. Non-Y-It
 
-**Y-IT VOICE (What We Use):**
+**Y-It VOICE (What We Use):**
 
 > "You're not buying a business. You're renting access to a system that's specifically designed to profit from your failure. Shopify gets $29/month whether you make $0 or $10,000. Facebook gets their ad spend whether your product sells or not. Your supplier gets their $5 whether you can actually sell it to someone. The system is set up so that everyone wins except the person trying to actually do dropshipping."
 
@@ -512,7 +512,7 @@ Jake quits.
 - Reveals how the system actually works
 - Ends with perspective shift (everyone wins except the person trying)
 
-**NON-Y-IT VOICE (What We Avoid):**
+**NON-Y-It VOICE (What We Avoid):**
 
 > "There are several challenges associated with the dropshipping model that entrepreneurs should carefully consider. Operational costs, including platform fees and advertising expenses, can significantly impact profitability margins. Additionally, supplier-related factors such as shipping delays and quality control issues represent potential obstacles to success. Understanding these dynamics is important for anyone considering this business model."
 
@@ -523,7 +523,7 @@ Jake quits.
 - Makes problems sound manageable ("important to understand")
 - No perspective shift or insight
 
-**ANOTHER Y-IT VOICE EXAMPLE:**
+**ANOTHER Y-It VOICE EXAMPLE:**
 
 > "You think you're hiring a supplier. You're actually hiring someone who doesn't care if you succeed. AliExpress makes the same $5 whether you sell the product for $20 (and make $8 profit) or you discount it to $15 (and make $3 profit). Your desperation is not their problem. Your Facebook ads failing? Meta doesn't care. Your Shopify store has zero sales this month? Shopify still charges you $29. Everyone in this system has already won. Except you."
 
@@ -552,7 +552,7 @@ Jake quits.
 ### Example Output: Assembled 24-Page Manuscript Structure
 
 ```
-Y-IT: DROPSHIPPING—THE INVENTORY TRAP
+Y-It: DROPSHIPPING—THE INVENTORY TRAP
 Why Your Amazon FBA, eBay, or Shopify Store Will Probably Fail
 
 ═══════════════════════════════════════════════════════════════
@@ -561,12 +561,12 @@ FRONT MATTER (Pages 1-3)
 ├─ Page 1: COVER
 │  ├─ Title + Subtitle
 │  ├─ Hero Image [Package with broken arrow down]
-│  └─ Y-IT Branding
+│  └─ Y-It Branding
 │
 ├─ Page 2: TITLE PAGE
 │  ├─ Full title/subtitle
-│  ├─ "Y-IT GUIDES / Truth Over Hype"
-│  └─ Y-IT Logo
+│  ├─ "Y-It GUIDES / Truth Over Hype"
+│  └─ Y-It Logo
 │
 └─ Page 3: COPYRIGHT + OPENING QUOTE
    ├─ Copyright notice
@@ -908,7 +908,7 @@ PAGE 18: FINAL REALITY CHECK
 │  Some people's answer is yes.
 │  Both answers are reasonable.
 │
-└─ End with: Your email signup + other Y-IT books
+└─ End with: Your email signup + other Y-It books
 
 ═══════════════════════════════════════════════════════════════
 
@@ -959,11 +959,11 @@ PAGE 23: DECISION TREE FRAMEWORK
 └─ Final recommendation boxes
 
 PAGE 24: BACK COVER + CROSS-SELL
-├─ About Y-IT series
+├─ About Y-It series
 ├─ Other books available:
-│  - Y-IT: Affiliate Marketing
-│  - Y-IT: Agency Services
-│  - Y-IT: AI Writing
+│  - Y-It: Affiliate Marketing
+│  - Y-It: Agency Services
+│  - Y-It: AI Writing
 ├─ Where to learn more (website, email, podcast)
 ├─ QR code to audiobook version
 └─ Final tagline: "Truth Over Hype"
@@ -1136,7 +1136,7 @@ Why: Active voice is 30% shorter and 50% more engaging.
 Hedging: "It could be argued that some people might think that dropshipping is somewhat risky, potentially."
 Cleared: "Dropshipping is risky."
 
-Why: Y-IT voice requires conviction. Hedging undermines authority.
+Why: Y-It voice requires conviction. Hedging undermines authority.
 
 **FIX #3: Break Long Sentences into Scannable Chunks**
 
@@ -1155,7 +1155,7 @@ Why: Scannability increases comprehension and retention by 40%.
 ---
 
 ## STEP 2: TONE/VOICE ALIGNMENT
-*Ensuring consistent Y-IT voice and empathetic perspective throughout*
+*Ensuring consistent Y-It voice and empathetic perspective throughout*
 
 ### Example Input: Paragraph Missing Empathy
 
@@ -1172,7 +1172,7 @@ structures create financial constraints that limit scalability.
 ```
 
 **Issues:**
-- Academic tone (not Y-IT)
+- Academic tone (not Y-It)
 - Lacks empathy for reader
 - No acknowledgment of emotion/struggle
 - Doesn't address the reader directly
@@ -1180,7 +1180,7 @@ structures create financial constraints that limit scalability.
 
 ### Example Output: Revised with Empathy Added
 
-**Revised paragraph (Y-IT voice with empathy):**
+**Revised paragraph (Y-It voice with empathy):**
 
 ```
 Most dropshippers fail. Not because they're lazy. Not because they
@@ -1197,7 +1197,7 @@ counts you as one more "failure" instead of what you really are:
 someone who figured out the game was rigged.
 ```
 
-### Y-IT Voice Markers (Key Characteristics)
+### Y-It Voice Markers (Key Characteristics)
 
 **Marker 1: Direct address to reader ("You")**
 ```
@@ -1461,7 +1461,7 @@ Result: ✅ Contradiction resolved with added context
 
 ```
 ═══════════════════════════════════════════════════════════════
-Y-IT: DROPSHIPPING—THE INVENTORY TRAP
+Y-It: DROPSHIPPING—THE INVENTORY TRAP
 KDP COMPLIANCE VERIFICATION - FINAL REPORT
 ═══════════════════════════════════════════════════════════════
 
@@ -1472,7 +1472,7 @@ CONTENT REQUIREMENTS
 ✅ Minimum page count (24 required): 24 pages verified
 ✅ Maximum page count (no limit): Compliant
 ✅ Word count in valid range (15K-100K): ~7,800 words ✓
-✅ Title provided: "Y-IT: Dropshipping—The Inventory Trap"
+✅ Title provided: "Y-It: Dropshipping—The Inventory Trap"
 ✅ Subtitle provided: "Why Your Amazon FBA, eBay, or Shopify Store Will Probably Fail"
 ✅ Cover image (required): "Package with broken arrow" (designer brief prepared)
 ✅ ISBN assigned (required): Ready for KDP assignment at upload
@@ -1507,8 +1507,8 @@ CONTENT POLICY COMPLIANCE
 
 METADATA & INFORMATION
 ═══════════════════════════════════════════════════════════════
-✅ Author name: Y-IT (or specific author name)
-✅ Publisher name: Y-IT Guides (or specified)
+✅ Author name: Y-It (or specific author name)
+✅ Publisher name: Y-It Guides (or specified)
 ✅ Publication date: November 18, 2025 (target)
 ✅ Language: English (US)
 ✅ Category/BISAC: Business & Entrepreneurship
@@ -1524,7 +1524,7 @@ FRONT MATTER VERIFICATION
 ✅ Page 2 (Title Page): Title, Subtitle, Publisher info
 ✅ Page 3 (Copyright):
    - Copyright year: 2025
-   - Publisher name: Y-IT Guides
+   - Publisher name: Y-It Guides
    - ISBN placeholder: [To be assigned by KDP]
    - Edition: First Edition
    - Legal disclaimer: Included
@@ -1536,7 +1536,7 @@ BACK MATTER VERIFICATION
 ✅ Pages 19-24: Back matter section present
 ✅ Contact information: Email signup included
 ✅ Social links: Website reference included
-✅ Call to action: "Read more at Y-IT.com"
+✅ Call to action: "Read more at Y-It.com"
 ✅ Related books: Cross-sell included
 ✅ QR code: Audiobook version reference prepared
 
@@ -1559,7 +1559,7 @@ HEADER/FOOTER REQUIREMENTS
 ═══════════════════════════════════════════════════════════════
 ✅ Margins adequate (text not in bleed area)
 ✅ Page numbers included (for reference, will be added in design)
-✅ Running header/footer: "Y-IT Guides" (design brief prepared)
+✅ Running header/footer: "Y-It Guides" (design brief prepared)
 ✅ No page numbers on cover/title page (standard practice)
 
 SPECIAL ELEMENTS VERIFICATION
@@ -1654,7 +1654,7 @@ Version: Final (Approved)
 
 **Completed deliverables:**
 - ✅ Copy-edited manuscript (all grammar/clarity fixed)
-- ✅ Tone-aligned throughout (Y-IT voice consistent)
+- ✅ Tone-aligned throughout (Y-It voice consistent)
 - ✅ Fact-checked (all 20 claims verified)
 - ✅ KDP compliance verified (all 24 pages compliant)
 - ✅ Supporting materials (design brief, case studies, research)
@@ -1665,11 +1665,11 @@ Version: Final (Approved)
 
 ```
 ═══════════════════════════════════════════════════════════════
-Y-IT: DROPSHIPPING—THE INVENTORY TRAP
+Y-It: DROPSHIPPING—THE INVENTORY TRAP
 FINAL LEG 2 APPROVAL AUTHORIZATION
 ═══════════════════════════════════════════════════════════════
 
-PROJECT: Y-IT Dropshipping 24-page KDP Book
+PROJECT: Y-It Dropshipping 24-page KDP Book
 COMPLETION DATE: November 10, 2025
 REVIEW CYCLE: LEG 1 (Content Creation) + LEG 2 (Refinement)
 FINAL STATUS: ✅ APPROVED FOR DESIGNER HANDOFF
@@ -1684,11 +1684,11 @@ LEG 2 Refinement Checklist
    • Grammar: All issues fixed
    • Clarity: 33% reduction in word count, improved readability
    • Structure: Sentences broken into scannable chunks
-   • Consistency: Y-IT voice applied throughout
+   • Consistency: Y-It voice applied throughout
    • Issues resolved: 47 edits applied
 
 ✅ Tone/Voice Alignment Complete
-   • Y-IT markers present throughout: Direct address, system naming,
+   • Y-It markers present throughout: Direct address, system naming,
      emotional acknowledgment, specificity
    • Empathy balanced with honesty: Readers feel understood while
      challenged
@@ -1729,7 +1729,7 @@ Manuscript Quality Scores
                                  softening of 1,000+ courses)
 ✅ Clarity & Readability:  9/10 (Average sentence: 12-15 words,
                                  highly scannable)
-✅ Voice Consistency:      9/10 (Y-IT voice maintained throughout,
+✅ Voice Consistency:      9/10 (Y-It voice maintained throughout,
                                  1-2 academic sections rewritten)
 ✅ Emotional Resonance:    9/10 (Reader feels understood + challenged)
 ✅ Argument Structure:      9/10 (Dream vs Reality → How It's Sold →
@@ -1758,7 +1758,7 @@ Copy Editing Results
 
 Tone Alignment Results
 ─────────────────────────────────────────────────────────────
-• Y-IT voice markers added: 23
+• Y-It voice markers added: 23
   - Direct address ("You"): 8
   - System naming: 6
   - Emotional validation: 5
@@ -1843,7 +1843,7 @@ Probability of publication success: 95%
 | Gate | Requirement | Status | Score |
 |-----|---|---|---|
 | **Copy Editing** | Grammar clean, clarity high | ✅ Pass | 9/10 |
-| **Tone/Voice** | Y-IT voice consistent | ✅ Pass | 9/10 |
+| **Tone/Voice** | Y-It voice consistent | ✅ Pass | 9/10 |
 | **Fact-Checking** | All claims verified | ✅ Pass | 10/10 |
 | **KDP Compliance** | 24 pages, policy met | ✅ Pass | 10/10 |
 | **Design Readiness** | Brief complete, ready | ✅ Pass | 9/10 |
@@ -1876,7 +1876,7 @@ Probability of publication success: 95%
 
 ## Unified Framework: 3 Ways to Phrase the Same Concept
 
-For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate technical precision, plain language clarity, and Y-IT voice directness.
+For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate technical precision, plain language clarity, and Y-It voice directness.
 
 ### CONCEPT 1: "Extract Key Statistics"
 
@@ -1886,7 +1886,7 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Find the most important numbers from the research and put them in a clear list that shows what's really happening in the market."
 
-**Y-IT Voice Phrasing:**
+**Y-It Voice Phrasing:**
 > "Pull the numbers that make gurus look bad and students sad. The numbers that reveal what's actually happening instead of what you're told is happening."
 
 ---
@@ -1899,7 +1899,7 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Check that every number in the book actually matches the research we found it in, and make sure we can trace where it came from."
 
-**Y-IT Voice Phrasing:**
+**Y-It Voice Phrasing:**
 > "Make sure we're not lying. If we say $344B, we can point to the research that says $344B. If we say 90% fail, we have case studies to prove it."
 
 ---
@@ -1912,7 +1912,7 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Take dry statistics and turn them into a story that helps readers understand why the numbers matter and what they mean for their lives."
 
-**Y-IT Voice Phrasing:**
+**Y-It Voice Phrasing:**
 > "Take numbers and make them hurt. $344B market, 90% failure rate—that's not a story yet. Add Sarah Martinez losing $2,800, Facebook eating her ad budget, and suddenly readers understand: Big market, tiny opportunity. That's narrative."
 
 ---
@@ -1925,8 +1925,8 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Make sure the writing sounds the same throughout the whole book—same tone, same style, same way of talking to readers."
 
-**Y-IT Voice Phrasing:**
-> "Don't sound like a textbook on page 4 and an angry friend on page 12. Pick a voice. Stick with it. Readers should know it's Y-IT from word one."
+**Y-It Voice Phrasing:**
+> "Don't sound like a textbook on page 4 and an angry friend on page 12. Pick a voice. Stick with it. Readers should know it's Y-It from word one."
 
 ---
 
@@ -1938,7 +1938,7 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Use fewer words to say the same thing. Cut out the extra stuff that doesn't add meaning."
 
-**Y-IT Voice Phrasing:**
+**Y-It Voice Phrasing:**
 > "Every word should earn its place. If you can say it in 5 words instead of 15, do it. Readers are smart. They don't need you to explain things twice."
 
 ---
@@ -1951,7 +1951,7 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Take a really long story about someone's failure and make it short enough to fit in a book, keeping the most important parts."
 
-**Y-IT Voice Phrasing:**
+**Y-It Voice Phrasing:**
 > "Nobody cares that Sarah created product photos in Canva for 20 hours. They care that she lost $2,800 in 14 weeks trying to compete with 40 other sellers. Tell the loss, drop the details."
 
 ---
@@ -1964,7 +1964,7 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Figure out why something failed. Not just what went wrong, but why the system made it fail that way."
 
-**Y-IT Voice Phrasing:**
+**Y-It Voice Phrasing:**
 > "Sarah didn't fail because she's stupid. She failed because fashion dropshipping has 40+ competitors per product and zero differentiation. The system is designed so someone like her can't win."
 
 ---
@@ -1977,7 +1977,7 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Tell the truth while making readers feel understood, so they don't get defensive and stop listening."
 
-**Y-IT Voice Phrasing:**
+**Y-It Voice Phrasing:**
 > "You're not stupid for trying dropshipping. You're smart for reading about it first. Now let's talk about why it's going to fail, and what you should do instead."
 
 ---
@@ -1990,7 +1990,7 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Make sure the book follows all the rules that Amazon has for books they print and sell."
 
-**Y-IT Voice Phrasing:**
+**Y-It Voice Phrasing:**
 > "We're not breaking Amazon's rules. We're being honest without being mean. We're selling a real book about a real problem, not hype."
 
 ---
@@ -2003,7 +2003,7 @@ For each concept used in LEG 1 & LEG 2, three phrasing options demonstrate techn
 **Plain English Phrasing:**
 > "Create a detailed list of everything the designer needs to know to make the book look good: fonts, colors, sizes, where images go."
 
-**Y-IT Voice Phrasing:**
+**Y-It Voice Phrasing:**
 > "Tell the designer: This is a business book, not a novel. Make it look professional. Make the data easy to read. Make readers feel like they're getting real information, not hype."
 
 ---
@@ -2016,7 +2016,7 @@ Each phrasing style serves a different purpose:
 
 **Plain English Phrasing** → Used for internal team communication, ensuring everyone understands without jargon.
 
-**Y-IT Voice Phrasing** → Used in actual manuscript content and reader-facing materials, ensuring engaging, direct communication.
+**Y-It Voice Phrasing** → Used in actual manuscript content and reader-facing materials, ensuring engaging, direct communication.
 
 The ability to move between all three demonstrates mastery of the concept. Master the concept, and phrasing becomes flexible.
 
@@ -2028,4 +2028,4 @@ The ability to move between all three demonstrates mastery of the concept. Maste
 **Total examples: 40+ (with variations)**
 **Total phrase variations: 30 (10 concepts × 3 phrasings)**
 
-**Purpose achieved:** Complete reference for anyone executing LEG 1 (content creation) or LEG 2 (refinement) with real examples from Y-IT Dropshipping manuscript.
+**Purpose achieved:** Complete reference for anyone executing LEG 1 (content creation) or LEG 2 (refinement) with real examples from Y-It Dropshipping manuscript.

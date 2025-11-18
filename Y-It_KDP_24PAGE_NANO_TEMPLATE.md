@@ -1,4 +1,4 @@
-# Y-IT KDP 24-PAGE NANO BOOK TEMPLATE
+# Y-It KDP 24-PAGE NANO BOOK TEMPLATE
 ## 6" x 9" Amazon KDP Specifications & Content Structure
 
 ---
@@ -43,19 +43,19 @@ Bleed extends to trim:   6.125" × 9.125"
 ```
 [Full-bleed hero image or gradient background]
 
-Y-IT
+Y-It
 Why Your [BUSINESS TYPE] Probably Will Fail
 
 [Subheading in white text, 16pt]
 Even Though You've Heard Otherwise
 
 [Bottom 1/3: Relevant icon/illustration]
-[Bottom corner: Y-IT logo/tagline: "Where Dreams Go to Get Real"]
+[Bottom corner: Y-It logo/tagline: "Where Dreams Go to Get Real"]
 ```
 
 **PAGE 2: TITLE PAGE (Right)**
 ```
-Y-IT
+Y-It
 
 Why Your [BUSINESS TYPE] Probably Will Fail
 
@@ -337,7 +337,7 @@ CASE STUDY 3: Dave (The Investor)
 Threw capital at the problem. Outsourced
 everything. Margins disappeared. Lost $6K.
 
-[Bottom: Y-IT Truth™
+[Bottom: Y-It Truth™
 "The uncomfortable thing these stories
 have in common? They did everything
 'right.' The business model is just
@@ -558,12 +558,12 @@ to know the odds before you play."
 • Creator interviews: [Methods]
 
 [Note: "Full citations available at
-www.y-it-guides.com/sources"]
+www.Y-It-Guides.com/sources"]
 
 [QR Code linking to full source list]
 
 Get The Expanded Guide
-[QR Code] www.y-it-guides.com/[topic]
+[QR Code] www.Y-It-Guides.com/[topic]
 
 The Digital Version Includes:
 ✓ Extended case studies (40+ pages)
@@ -591,7 +591,7 @@ Other Guides in the Series:
 [List 8-10 other Y-It topics]
 
 Connect With Us:
-www.y-it-guides.com
+www.Y-It-Guides.com
 [Social media icons]
 
 [Small note:]

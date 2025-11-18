@@ -1,4 +1,4 @@
-# Social Media Marketing Agency (SMMA) Business Model: Comprehensive Research for Y-IT Book
+# Social Media Marketing Agency (SMMA) Business Model: Comprehensive Research for Y-It Book
 
 ## Executive Summary
 
@@ -625,7 +625,7 @@ After hiring 1 contractor ($2,500/month):
 
 ---
 
-## 10. Key Takeaways for Y-IT Book
+## 10. Key Takeaways for Y-It Book
 
 ### The Brutal Truth
 
@@ -663,7 +663,7 @@ The SMMA business model represents a fascinating case study in why market opport
 
 The reason is simple: The business model is fundamentally broken for most practitioners. It's a service business selling commoditized services to price-sensitive customers on platforms controlled by third parties, with minimal differentiation and high churn. Success requires either deep specialization (hard), exceptional sales ability (rare), or founding capital to absorb losses during scaling (uncommon).
 
-For the Y-IT book, the SMMA case study demonstrates an important principle: **Opportunity in a market is necessary but insufficient for success. Business model structure determines viability far more than market size.** The agencies that succeed do so despite the model's structural limitations, not because of exceptional market conditions.
+For the Y-It book, the SMMA case study demonstrates an important principle: **Opportunity in a market is necessary but insufficient for success. Business model structure determines viability far more than market size.** The agencies that succeed do so despite the model's structural limitations, not because of exceptional market conditions.
 
 The gurus succeeding most spectacularly are those who pivoted from operating agencies to selling education about agencies—a far superior business model. That pattern alone should signal to aspiring entrepreneurs that maybe the underlying business they're being taught to replicate has some structural flaws worth understanding before investing thousands and months of effort.
 

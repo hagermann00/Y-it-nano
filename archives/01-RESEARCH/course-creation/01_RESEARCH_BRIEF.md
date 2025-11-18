@@ -453,7 +453,7 @@ Your income is not.
 4. Profitable for 1% BUT requires unfair advantages (existing audience)
 5. Marketed as "passive" BUT requires 200+ hours + ongoing work
 
-**For Y-IT Book:** Course creation is the ultimate guru trap. The gurus are correct that the market is huge. They're wrong about your ability to capture it without an existing audience or significant paid advertising budget.
+**For Y-It Book:** Course creation is the ultimate guru trap. The gurus are correct that the market is huge. They're wrong about your ability to capture it without an existing audience or significant paid advertising budget.
 
 ---
 

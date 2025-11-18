@@ -13,7 +13,7 @@
 ### Files You Have
 ✅ Content map: `/home/user/Y-it-nano/DROPSHIPPING_KDP_EXECUTION.md`
 ✅ Case studies: `/home/user/Y-it-nano/archives/01-RESEARCH/dropshipping/case-studies/`
-✅ Template specs: `/home/user/Y-it-nano/Y-IT_KDP_24PAGE_NANO_TEMPLATE.md`
+✅ Template specs: `/home/user/Y-it-nano/Y-It_KDP_24PAGE_NANO_TEMPLATE.md`
 
 ### What to Do
 1. Open InDesign
@@ -41,7 +41,7 @@ Pages: Exactly 24
 ### Color Palette
 ```
 Primary Text:     #333333 (Dark Gray)
-Accent/Headers:   #E63946 (Y-IT Red)
+Accent/Headers:   #E63946 (Y-It Red)
 Data Boxes:       #D4AF37 (Gold)
 Backgrounds:      #F5F5F5 (Light Gray)
 White Space:      Minimum 30% per page
@@ -68,11 +68,11 @@ Data/Numbers:      Source Sans Pro Bold, 14-16pt, Gold
 Background: Gradient or solid color (6" × 9" + bleed)
 
 Top 1/3:
-- Y-IT logo (small, top left)
+- Y-It logo (small, top left)
 - Space for hero image
 
 Middle 1/3:
-- Main title: "Y-IT: DROPSHIPPING—THE INVENTORY TRAP"
+- Main title: "Y-It: DROPSHIPPING—THE INVENTORY TRAP"
   (40-48pt, Bebas Neue, Red)
 - Subtitle: "Why Your Amazon FBA, eBay, or Shopify Store
   Will Probably Fail"
@@ -89,14 +89,14 @@ Bottom 1/3:
 Top 1/3: White space
 
 Middle 1/3:
-- Title: "Y-IT"
+- Title: "Y-It"
   (60pt, Bebas Neue, Red)
 - Subtitle lines in Open Sans Bold
 
 Bottom 1/3:
 - Publisher: "Y-It Guides"
 - Date: "November 2025"
-- Small Y-IT graphic element (2" × 2")
+- Small Y-It graphic element (2" × 2")
 ```
 
 **PAGE 3: Copyright (Left)**
@@ -115,7 +115,7 @@ Small box (11pt, centered):
 "The uncomfortable truth: 85-95% of people who try
 this will quit within 18 months. This book shows you why."
 
-Footer: Y-IT branding
+Footer: Y-It branding
 ```
 
 ---
@@ -604,7 +604,7 @@ EXPANDED VERSION ONLINE:
 GET BOTH:"
 
 Link box (12pt bold, Red border):
-www.y-it-guides.com/dropshipping
+www.Y-It-Guides.com/dropshipping
 
 Email signup box (11pt):
 [Email field]
@@ -648,7 +648,7 @@ Bottom section (14pt bold, Gold box):
 one of the 9 surprised by failure."
 
 Footer (11pt):
-www.y-it-guides.com
+www.Y-It-Guides.com
 [Social icons]
 QR code (1" × 1") for resources
 ```
@@ -681,14 +681,14 @@ Interviews & Case Studies:
 
 Box (11pt bold):
 Full citations available at:
-www.y-it-guides.com/dropshipping/sources
+www.Y-It-Guides.com/dropshipping/sources
 
 QR code (1" × 1")
 ```
 
 **PAGE 23: About**
 ```
-Header: "ABOUT Y-IT GUIDES"
+Header: "ABOUT Y-It GUIDES"
 
 Body (11pt):
 We tell uncomfortable truths
@@ -709,7 +709,7 @@ Our Other Guides:
 [+ more coming]
 
 Connect:
-www.y-it-guides.com
+www.Y-It-Guides.com
 [@social handles]
 
 Quote (12pt italic):

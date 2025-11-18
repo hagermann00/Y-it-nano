@@ -2,7 +2,7 @@
 
 **Purpose:** Find relevant CC0 images from Unsplash, Pexels, Pixabay
 **License Required:** CC0 (Creative Commons Zero) - Commercial use, no attribution
-**Target Use:** Y-IT nano-books (print and web)
+**Target Use:** Y-It nano-books (print and web)
 
 ---
 

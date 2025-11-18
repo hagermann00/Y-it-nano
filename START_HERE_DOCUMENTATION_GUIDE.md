@@ -1,4 +1,4 @@
-# 📖 START HERE: Y-IT DOCUMENTATION GUIDE
+# 📖 START HERE: Y-It DOCUMENTATION GUIDE
 
 **What was delivered:** Complete documentation for Y-It's 50-topic nano-book production system
 **Total lines:** 3,349 lines across 3 documents
@@ -9,7 +9,7 @@
 
 ## 📚 THE THREE MASTER DOCUMENTS
 
-### 1. **Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md** (2,435 lines)
+### 1. **Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md** (2,435 lines)
 **The Complete How-To Guide**
 
 **What it contains:**
@@ -46,7 +46,7 @@
 
 ---
 
-### 2. **Y-IT_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md** (537 lines)
+### 2. **Y-It_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md** (537 lines)
 **The Strategy & Revenue Optimization Guide**
 
 **What it contains:**
@@ -144,30 +144,30 @@ COMPLETE SYSTEM
 
 ### **Project Manager / Producer**
 1. Read: CONTENT_PRODUCTION_PIPELINE_EXECUTIVE_SUMMARY.md (overview)
-2. Reference: Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 3 (timeline)
-3. Use: Y-IT_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md (sequencing)
+2. Reference: Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 3 (timeline)
+3. Use: Y-It_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md (sequencing)
 4. Track: Quality gates from Mega Prompt Section 6
 
 ### **Content Writer / Researcher**
-1. Read: Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 2 (structure)
-2. Reference: Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 4 (phase-by-phase)
+1. Read: Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 2 (structure)
+2. Reference: Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 4 (phase-by-phase)
 3. Follow: Execution checklists in Section 9
-4. Use: Style guide (Y-IT_STYLE_GUIDE_VOICE_TONE.md) for voice/tone
+4. Use: Style guide (Y-It_STYLE_GUIDE_VOICE_TONE.md) for voice/tone
 
 ### **Designer**
-1. Read: Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 2 (structure)
+1. Read: Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 2 (structure)
 2. Reference: COMPLETE_SPECIFICATION_PACKAGE_MASTER.md (dropshipping example)
 3. Follow: Sections 7-8 (standards, toolkit) from Mega Prompt
 4. Use: All specifications from Phase 7 (designer handoff)
 
 ### **Marketing / Revenue**
-1. Read: Y-IT_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md (full document)
-2. Reference: Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 10 (advanced)
+1. Read: Y-It_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md (full document)
+2. Reference: Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 10 (advanced)
 3. Use: Email sequences and customer journeys from Dependencies doc
 4. Track: Financial projections from Executive Summary
 
 ### **System Administrator**
-1. Read: Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 8 (toolkit)
+1. Read: Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 8 (toolkit)
 2. Reference: `/scripts/pdf_generator.py` and `/templates/TEMPLATE_CONFIG.json`
 3. Configure: Per topic using provided templates
 4. Automate: Phase 8 (design) and Phase 9 (deployment)
@@ -178,7 +178,7 @@ COMPLETE SYSTEM
 
 ### Before Starting Any Topic
 
-- [ ] Read Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 1-2
+- [ ] Read Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md Section 1-2
 - [ ] Understand the 8-chapter structure
 - [ ] Review topic's tier and position in batch
 - [ ] Confirm Chapter 7 alternative topics (from Dependencies map)
@@ -237,11 +237,11 @@ Data-driven approach makes them credible
 ## 📞 QUICK REFERENCE LINKS
 
 **Within This Repository:**
-- `/Y-IT_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md` - Complete how-to
-- `/Y-IT_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md` - Strategy & bundling
+- `/Y-It_UNIVERSAL_NANO_BOOK_CREATION_MEGA_PROMPT.md` - Complete how-to
+- `/Y-It_CROSS_TOPIC_DEPENDENCIES_AND_BUNDLING_MAP.md` - Strategy & bundling
 - `/CONTENT_PRODUCTION_PIPELINE_EXECUTIVE_SUMMARY.md` - Quick metrics
-- `/Y-IT_STYLE_GUIDE_VOICE_TONE.md` - Brand voice standards
-- `/Y-IT_NANO_BOOK_PRODUCTION_SOP.md` - Standard operating procedure
+- `/Y-It_STYLE_GUIDE_VOICE_TONE.md` - Brand voice standards
+- `/Y-It_NANO_BOOK_PRODUCTION_SOP.md` - Standard operating procedure
 - `/COMPLETE_SPECIFICATION_PACKAGE_MASTER.md` - Dropshipping example
 - `/templates/UNIVERSAL_RESEARCH_ENGINE_v1.0.md` - Research methodology
 - `/templates/TEMPLATE_CONFIG.json` - PDF config template

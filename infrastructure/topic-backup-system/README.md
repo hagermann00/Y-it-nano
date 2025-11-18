@@ -21,7 +21,7 @@ The Y-It production process generates 20-30+ files per topic across 10 phases (P
 ### Topic-Centric Organization
 
 ```
-Google Drive: Y-IT-Production/
+Google Drive: Y-It-Production/
 ├── Topics/
 │   ├── 01-Dropshipping/
 │   │   ├── Phase-0-Research/

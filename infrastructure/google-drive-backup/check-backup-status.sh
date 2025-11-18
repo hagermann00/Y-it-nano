@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ============================================================================
-# Y-IT Backup Status Checker
+# Y-It Backup Status Checker
 # ============================================================================
 #
 # This script checks if backups are running successfully and sends alerts
@@ -49,7 +49,7 @@ send_slack_alert() {
         -d "{
             \"attachments\": [{
                 \"color\": \"$color\",
-                \"title\": \"Y-IT Backup Alert\",
+                \"title\": \"Y-It Backup Alert\",
                 \"text\": \"$message\",
                 \"ts\": $(date +%s)
             }]
@@ -82,7 +82,7 @@ check_backup_age() {
 
     if [ "$age_minutes" -gt "$MAX_AGE_MINUTES" ]; then
         log "${RED}WARNING: Backup is overdue (last: $age_minutes min ago, max: $MAX_AGE_MINUTES min)${NC}"
-        send_slack_alert "⚠️ Y-IT backup is overdue!\n\nLast backup: $age_minutes minutes ago\nThreshold: $MAX_AGE_MINUTES minutes" "warning"
+        send_slack_alert "⚠️ Y-It backup is overdue!\n\nLast backup: $age_minutes minutes ago\nThreshold: $MAX_AGE_MINUTES minutes" "warning"
         return 1
     else
         log "${GREEN}OK: Backup is current (last: $age_minutes min ago)${NC}"
@@ -129,7 +129,7 @@ check_disk_space() {
 
 main() {
     log "========================================="
-    log "Y-IT Backup Status Check"
+    log "Y-It Backup Status Check"
     log "========================================="
 
     local exit_code=0

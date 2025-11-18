@@ -121,7 +121,7 @@ npm run backup:full
 ## Folder Structure in Google Drive
 
 ```
-Y-IT-Backups/
+Y-It-Backups/
 ├── 2025-11-08/
 │   ├── yit_db_2025-11-08_00-00-00.dump
 │   ├── yit_db_2025-11-08_01-00-00.dump
@@ -147,7 +147,7 @@ Y-IT-Backups/
 |----------|----------|---------|-------------|
 | `GOOGLE_SERVICE_ACCOUNT_KEY_PATH` | Yes | `./credentials/service-account-key.json` | Path to Google service account key |
 | `GDRIVE_BACKUP_FOLDER_ID` | No | Auto-created | Google Drive folder ID |
-| `GDRIVE_FOLDER_NAME` | No | `Y-IT-Backups` | Backup folder name |
+| `GDRIVE_FOLDER_NAME` | No | `Y-It-Backups` | Backup folder name |
 | `DB_HOST` | Yes | - | PostgreSQL host |
 | `DB_PORT` | No | `5432` | PostgreSQL port |
 | `DB_NAME` | Yes | `yit_database` | Database name |
@@ -244,7 +244,7 @@ Notification includes:
 #### Option 1: Using Google Drive Web Interface
 
 1. Go to [Google Drive](https://drive.google.com/)
-2. Navigate to `Y-IT-Backups/[DATE]/`
+2. Navigate to `Y-It-Backups/[DATE]/`
 3. Download desired backup file
 4. Restore database:
 

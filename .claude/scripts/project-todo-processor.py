@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Y-IT Project Todo Processor
+Y-It Project Todo Processor
 Manages persistent project todo list with urgency scale and progress tracking
 """
 
@@ -32,7 +32,7 @@ class ProjectTodoAgent:
     def display_list(self):
         """Display formatted todo list with urgency and progress"""
         print("\n" + "="*80)
-        print("Y-IT NANO-BOOK ECOSYSTEM - PROJECT TODO LIST")
+        print("Y-It NANO-BOOK ECOSYSTEM - PROJECT TODO LIST")
         print(f"Last Updated: {self.todos.get('lastUpdated', 'N/A')}")
         print("="*80 + "\n")
 

@@ -58,7 +58,7 @@ confidence_score: 94%
 - For "any meaningful income" (>$1,000/year), estimate rises to 5-10%
 - For "over $100K annual income," drops to 4%
 
-**Y-IT Assessment:** <1% is appropriate threshold for "sustainable" (can abandon employment); using 4% for "six figures" and 46% for "any monetization income above $0"
+**Y-It Assessment:** <1% is appropriate threshold for "sustainable" (can abandon employment); using 4% for "six figures" and 46% for "any monetization income above $0"
 
 ---
 
@@ -471,7 +471,7 @@ Sources Validating:
 
 ---
 
-## Recommendation for Y-IT Usage
+## Recommendation for Y-It Usage
 
 **Suitable for Book Use:**
 - All data rated 90%+ confidence

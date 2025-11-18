@@ -279,9 +279,9 @@ Edited: "The dropshipping market is massive. But most sellers in it fail."
 
 [SPEAKER CHANGE: Slightly sarcastic, warm tone]
 
-Now LEG 2 checks something different: Does this sound like Y-IT?
+Now LEG 2 checks something different: Does this sound like Y-It?
 
-Y-IT has a specific voice. It's sarcastic but not mean-spirited. Data-driven but honest. Empathetic about why people try—and ruthless about why it fails.
+Y-It has a specific voice. It's sarcastic but not mean-spirited. Data-driven but honest. Empathetic about why people try—and ruthless about why it fails.
 
 [PAUSE 1s]
 
@@ -299,7 +299,7 @@ Here's what LEG 2 checks:
 
 [SPEAKER CHANGE: Back to standard narrator]
 
-If a sentence sounds like Y-IT just said it to a friend—direct, honest, with a hint of dark humor—it stays. If it sounds academic, corporate, or preachy, it gets rewritten.
+If a sentence sounds like Y-It just said it to a friend—direct, honest, with a hint of dark humor—it stays. If it sounds academic, corporate, or preachy, it gets rewritten.
 
 In Dropshipping, we rewrote sections about why people fail. The raw version said:
 
@@ -536,7 +536,7 @@ If you're a designer, your design brief is waiting in the repository. Every page
 
 If you're building this system for your own projects, the framework is documented in `/home/user/Y-it-nano/MJSUBAGENT_ORCHESTRATOR_FRAMEWORK.md`. It scales from 1 topic to 50 topics without modification.
 
-If you're interested in how the voice and tone stays consistent across 50 topics, that's documented in the Y-IT brand guide.
+If you're interested in how the voice and tone stays consistent across 50 topics, that's documented in the Y-It brand guide.
 
 [PAUSE 1s]
 
@@ -548,7 +548,7 @@ This system creates books faster than most people write blog posts.
 
 And it does it without sacrificing quality.
 
-That's the Y-IT way.
+That's the Y-It way.
 
 [SOUND EFFECT: Subtle resolution chime or closing tone]
 
@@ -656,7 +656,7 @@ Learn the framework that scales from 1 topic to 50 topics without sacrificing qu
 ```
 
 ### For Show Notes
-- **Topic:** The Y-IT Two-Leg Content Creation System
+- **Topic:** The Y-It Two-Leg Content Creation System
 - **Key Takeaway:** Parallel processing of creation and refinement eliminates bottlenecks
 - **Timelines:** 5.5 hours creation + 5 hours refinement = 10.5 hours per topic
 - **Quality Gates:** 100% pass rate on fact-checking, voice alignment, KDP compliance

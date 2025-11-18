@@ -22,7 +22,7 @@
 ### Primary Colors
 | Color Name | Hex Code | Usage | RGB |
 |-----------|----------|-------|-----|
-| Y-IT Red (Failure) | #E63946 | Dramatic moments, failure emphasize | RGB(230, 57, 70) |
+| Y-It Red (Failure) | #E63946 | Dramatic moments, failure emphasize | RGB(230, 57, 70) |
 | Ironic Gold | #D4AF37 | "Success" moments, guru promises | RGB(212, 175, 55) |
 | Dark Gray (Reality) | #333333 | Grounding, serious moments | RGB(51, 51, 51) |
 | Neutral Light | #F5F5F5 | Background, contrast | RGB(245, 245, 245) |
@@ -640,7 +640,7 @@ Text: #333333
 
 ## VISUAL GUIDELINES
 
-### Overall Y-IT Aesthetic
+### Overall Y-It Aesthetic
 
 **Core Principles:**
 - Dark humor WITHOUT depression
@@ -748,9 +748,9 @@ Examples:
 ### Metadata to Include
 **Portraits (PNG metadata):**
 - Title: Character name + archetype
-- Description: Satirical portrait for Y-IT Dropshipping case study
-- Creator: Y-IT Creative Team
-- Copyright: Y-IT Educational Materials
+- Description: Satirical portrait for Y-It Dropshipping case study
+- Creator: Y-It Creative Team
+- Copyright: Y-It Educational Materials
 - Color Profile: sRGB (for web), Adobe RGB (for print)
 - Resolution: 300 DPI
 - Dimensions: 2" × 2.5" @ 600px × 750px
@@ -758,7 +758,7 @@ Examples:
 **Charts (SVG metadata):**
 - Title: Chart title
 - Description: Satirical visualization of dropshipping reality
-- Creator: Y-IT Creative Team
+- Creator: Y-It Creative Team
 - ViewBox: Specific dimensions
 - Responsive: Yes (scalable SVG)
 
@@ -959,7 +959,7 @@ If initial generations don't meet specifications:
 - All files properly named and organized
 - Ready for immediate KDP integration
 - Shareable on social media without modification
-- Captures Y-IT voice: educational, humorous, compassionate
+- Captures Y-It voice: educational, humorous, compassionate
 
 ---
 
@@ -967,7 +967,7 @@ If initial generations don't meet specifications:
 
 ### Brand Colors
 ```
-Y-IT Red:       #E63946  RGB(230, 57, 70)
+Y-It Red:       #E63946  RGB(230, 57, 70)
 Ironic Gold:    #D4AF37  RGB(212, 175, 55)
 Dark Gray:      #333333  RGB(51, 51, 51)
 Neutral Light:  #F5F5F5  RGB(245, 245, 245)
@@ -1014,7 +1014,7 @@ Patricia (Wisdom):
 
 ## FINAL NOTES
 
-This specification document is the complete blueprint for generating satirical, artistic AI portraits and charts for the Y-IT Dropshipping case study series. All assets should:
+This specification document is the complete blueprint for generating satirical, artistic AI portraits and charts for the Y-It Dropshipping case study series. All assets should:
 
 1. **Tell the story:** Visual narrative reinforces case study lessons
 2. **Maintain tone:** Dark humor + educational value + compassion

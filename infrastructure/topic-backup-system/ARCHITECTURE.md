@@ -34,7 +34,7 @@ Visual overview of system components and data flow.
               ↓                               ↓
     ┌─────────────────┐            ┌─────────────────┐
     │  SQLite DB      │            │  Google Drive   │
-    │ - Track state   │            │  Y-IT-Production│
+    │ - Track state   │            │  Y-It-Production│
     │ - Versions      │            │  ├── Topics/    │
     │ - History       │            │  ├── Batches/   │
     └─────────────────┘            │  └── Templates/ │
@@ -91,7 +91,7 @@ Visual overview of system components and data flow.
 │                         Storage Layer                               │
 ├────────────────────────────────────────────────────────────────────┤
 │  Local Production     SQLite Database       Google Drive           │
-│  /production/         sync-state.db         Y-IT-Production/       │
+│  /production/         sync-state.db         Y-It-Production/       │
 │  ├── dropshipping/    ├── files            ├── Topics/            │
 │  ├── print-on-demand/ ├── topics           │   ├── 01-Drop../    │
 │  └── ...              ├── phases           │   └── 02-POD../     │
@@ -244,7 +244,7 @@ Relationships:
 ## Google Drive Structure
 
 ```
-Y-IT-Production/
+Y-It-Production/
 │
 ├── Topics/
 │   ├── 01-Dropshipping/

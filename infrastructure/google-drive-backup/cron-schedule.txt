@@ -1,5 +1,5 @@
 # ============================================================================
-# Y-IT Google Drive Backup - Cron Job Configuration
+# Y-It Google Drive Backup - Cron Job Configuration
 # ============================================================================
 #
 # This file contains recommended cron schedules for automated backups.
@@ -87,7 +87,7 @@
 # PRODUCTION BEST PRACTICES
 # ----------------------------------------------------------------------------
 
-# RECOMMENDED FOR Y-IT PRODUCTION:
+# RECOMMENDED FOR Y-It PRODUCTION:
 # - Hourly database backups (matches AWS S3)
 # - Daily config backups (low overhead)
 # - 30-day retention (standard policy)

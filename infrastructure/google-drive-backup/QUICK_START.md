@@ -17,7 +17,7 @@ git --version           # Git installed
 
 ## Step 1: Google Cloud Setup (15 minutes)
 
-1. **Create Project:** [console.cloud.google.com](https://console.cloud.google.com/) → New Project → "Y-IT-Backups"
+1. **Create Project:** [console.cloud.google.com](https://console.cloud.google.com/) → New Project → "Y-It-Backups"
 2. **Enable API:** APIs & Services → Library → Search "Google Drive API" → Enable
 3. **Create Service Account:**
    - APIs & Services → Credentials → Create Credentials → Service Account
@@ -25,7 +25,7 @@ git --version           # Git installed
    - Role: None (skip)
    - Create → Keys → Add Key → JSON → Download
 4. **Setup Google Drive:**
-   - [drive.google.com](https://drive.google.com/) → New → Folder → "Y-IT-Backups"
+   - [drive.google.com](https://drive.google.com/) → New → Folder → "Y-It-Backups"
    - Share folder → Add service account email → Editor permission
    - Copy folder ID from URL: `https://drive.google.com/drive/folders/[FOLDER_ID]`
 
@@ -77,13 +77,13 @@ DB_PASSWORD=your_password_here
 npm run backup:config
 
 # Verify in Google Drive
-# Should see: Y-IT-Backups/YYYY-MM-DD/yit_config_*.tar.gz
+# Should see: Y-It-Backups/YYYY-MM-DD/yit_config_*.tar.gz
 
 # Test database backup (slower)
 npm run backup:database
 
 # Verify in Google Drive
-# Should see: Y-IT-Backups/YYYY-MM-DD/yit_db_*.dump
+# Should see: Y-It-Backups/YYYY-MM-DD/yit_db_*.dump
 ```
 
 ---

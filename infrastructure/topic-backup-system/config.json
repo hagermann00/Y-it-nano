@@ -1,6 +1,6 @@
 {
   "googleDrive": {
-    "rootFolderName": "Y-IT-Production",
+    "rootFolderName": "Y-It-Production",
     "compressionEnabled": true,
     "resumableUploadThreshold": 5242880,
     "maxRetries": 3,

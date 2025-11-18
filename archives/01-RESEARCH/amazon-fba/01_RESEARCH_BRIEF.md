@@ -424,7 +424,7 @@ Most failures aren't due to ONE problem but rather a **cascade of compounding pr
 3. **Platform support** (good) but **policy volatility** (bad) = unpredictable costs
 4. **Scalable model** (good) but **requires $40-50K capital** (bad) = inaccessible to most
 
-**For Y-IT Book:** Amazon FBA exemplifies the "guru trap" market—democratized by low barriers but actually captured by those with capital, expertise, and luck. The narrative sold to consumers is fundamentally misaligned with statistical reality.
+**For Y-It Book:** Amazon FBA exemplifies the "guru trap" market—democratized by low barriers but actually captured by those with capital, expertise, and luck. The narrative sold to consumers is fundamentally misaligned with statistical reality.
 
 ---
 

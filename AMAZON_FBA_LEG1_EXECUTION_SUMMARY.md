@@ -129,14 +129,14 @@ All case studies follow the Y-It format:
 | MODULE 2: How It's Sold | 2 | ~2,000 | Sales funnel psychology, timeline to failure |
 | MODULE 3: Hidden Costs | 2 | ~2,100 | Real cost breakdown, fee structure analysis |
 | MODULE 4: Failure Points | 2 | ~2,200 | Failure cascade, critical decision moments |
-| MODULE 5: Tales From Trenches | 4 | ~3,300 | 7 compressed case studies, Y-IT truth |
+| MODULE 5: Tales From Trenches | 4 | ~3,300 | 7 compressed case studies, Y-It truth |
 | MODULE 6: The Numbers | 2 | ~2,400 | Survival rates, income distribution, statistics |
 | MODULE 7: The Verdict | 2 | ~2,500 | Decision matrix, better alternatives |
 | MODULE 8: Call to Action | 2 | ~1,600 | Other guides, digital extension, body count |
 
 ### Content Quality Standards Met
 
-✓ All modules follow Y-IT voice (sarcastic, data-driven, empathetic, no shame)
+✓ All modules follow Y-It voice (sarcastic, data-driven, empathetic, no shame)
 ✓ Statistics backed by 50+ industry sources
 ✓ Real failure mechanisms documented with examples
 ✓ Case studies preserve: archetype, failure mechanism, financial impact, lesson
@@ -162,7 +162,7 @@ All case studies follow the Y-It format:
 |---|---|---|
 | Front Matter | 3 | Cover, title page, copyright/intro |
 | Modules 1-8 | 16 | Content modules as specified |
-| Back Matter | 3 | Sources, about Y-IT, back cover |
+| Back Matter | 3 | Sources, about Y-It, back cover |
 | **TOTAL** | **24** | Complete KDP-ready structure |
 
 ### Word Count Analysis
@@ -206,7 +206,7 @@ All case studies follow the Y-It format:
 
 **Pages 12-15: MODULE 5 (Tales From Trenches)**
 - Pages 12-13: Case study gallery (7 stories)
-- Pages 14-15: Extended profiles and Y-IT Truth
+- Pages 14-15: Extended profiles and Y-It Truth
 
 **Pages 16-17: MODULE 6 (The Numbers)**
 - Page 16: Survival curve and retention rates
@@ -257,7 +257,7 @@ All case studies follow the Y-It format:
 - Timeline to failure documented (peak quit rate months 3-6)
 - Pattern recognition for readers (sunk cost fallacy, psychological breaking point)
 
-### Y-IT Voice Elements
+### Y-It Voice Elements
 
 ✓ Sarcastic tone ("even though you've heard otherwise")
 ✓ Data-driven approach (50+ sources, verified statistics)
@@ -289,7 +289,7 @@ All case studies follow the Y-It format:
 
 **Research Integration:**
 - Amazon FBA Research Brief (utilized): `/home/user/Y-it-nano/archives/01-RESEARCH/amazon-fba/01_RESEARCH_BRIEF.md`
-- Y-IT Template (followed): `/home/user/Y-it-nano/Y-IT_KDP_24PAGE_NANO_TEMPLATE.md`
+- Y-It Template (followed): `/home/user/Y-it-nano/Y-It_KDP_24PAGE_NANO_TEMPLATE.md`
 - All statistics verified against research brief
 
 ---
@@ -307,7 +307,7 @@ All case studies follow the Y-It format:
 | Guru quotes identified | 3-4 | 4 | ✅ Complete |
 | Sources used | 50+ | 50+ | ✅ Complete |
 | Page structure compliance | KDP 6x9 24pg | Perfect | ✅ Complete |
-| Voice consistency | Y-IT (sarcastic, data-driven, empathetic) | Consistent | ✅ Complete |
+| Voice consistency | Y-It (sarcastic, data-driven, empathetic) | Consistent | ✅ Complete |
 
 ---
 
@@ -388,5 +388,5 @@ The manuscript is ready to proceed to LEG 2 (Copy Editing & Design) with full co
 **Created:** November 11, 2025
 **Word Count:** 21,000-22,000 words
 **Page Count:** 24 pages (KDP 6x9 format)
-**Quality:** Research-backed, case studies integrated, Y-IT voice consistent
+**Quality:** Research-backed, case studies integrated, Y-It voice consistent
 **Next Phase:** Copy editing, fact-checking, design specification

@@ -1,7 +1,7 @@
-# Y-IT Research Quality: Marketing Messaging
+# Y-It Research Quality: Marketing Messaging
 
 **Created:** November 10, 2025
-**Purpose:** Document research quality metrics to differentiate Y-IT from guru content in marketing
+**Purpose:** Document research quality metrics to differentiate Y-It from guru content in marketing
 **Source:** Dropshipping research (proven process, template for all 50 topics)
 
 ---
@@ -10,7 +10,7 @@
 
 **Research quality itself is a marketing differentiator.**
 
-Unlike gurus who sell dreams and cite themselves, Y-IT books are built on verifiable, cross-referenced data. This becomes our proof of honesty and a direct attack on guru credibility.
+Unlike gurus who sell dreams and cite themselves, Y-It books are built on verifiable, cross-referenced data. This becomes our proof of honesty and a direct attack on guru credibility.
 
 ---
 
@@ -59,7 +59,7 @@ Unlike gurus who sell dreams and cite themselves, Y-IT books are built on verifi
 
 ### Tagline Concepts:
 
-**"Unlike Guru Courses, Y-IT Books Are Actually Researched"**
+**"Unlike Guru Courses, Y-It Books Are Actually Researched"**
 
 **"96% of Our Claims Are Sourced. What's Your Guru's Validation Rate?"**
 
@@ -71,9 +71,9 @@ Unlike gurus who sell dreams and cite themselves, Y-IT books are built on verifi
 
 ## COMPARISON FRAMEWORK
 
-### Y-IT vs Guru Content:
+### Y-It vs Guru Content:
 
-| Element | Guru Courses | Y-IT Books |
+| Element | Guru Courses | Y-It Books |
 |---------|--------------|------------|
 | **Research Depth** | 2,000-3,000 words | 12,500+ words |
 | **Sources Cited** | 0-5 (often themselves) | 45+ authoritative |
@@ -99,7 +99,7 @@ Unlike gurus who sell dreams and cite themselves, Y-IT books are built on verifi
 - Full affiliate disclosure: "Here are all 78 ways we monetize this content"
 
 **Marketing Copy:**
-> "Every Y-IT book includes a source registry with 45+ authoritative references. Compare that to your guru's 'trust me, I made millions' claims. We cite eMarketer, Statista, and Shopify merchant data. They cite... themselves."
+> "Every Y-It book includes a source registry with 45+ authoritative references. Compare that to your guru's 'trust me, I made millions' claims. We cite eMarketer, Statista, and Shopify merchant data. They cite... themselves."
 
 ---
 
@@ -114,7 +114,7 @@ Unlike gurus who sell dreams and cite themselves, Y-IT books are built on verifi
 - Market research + competitive analysis + operational reality + risk assessment
 
 **Marketing Copy:**
-> "Gurus sell you a 3-hour course with recycled YouTube content. Y-IT gives you 12,500+ words of cross-referenced research on why their promises fail 90% of the time."
+> "Gurus sell you a 3-hour course with recycled YouTube content. Y-It gives you 12,500+ words of cross-referenced research on why their promises fail 90% of the time."
 
 ---
 
@@ -155,14 +155,14 @@ Unlike gurus who sell dreams and cite themselves, Y-IT books are built on verifi
 **1. "I Fact-Checked 50 Dropshipping Gurus. Here's What I Found."**
 - Lead with research quality metrics
 - Expose gurus with 0 sources cited
-- Show Y-IT methodology vs guru "trust me"
+- Show Y-It methodology vs guru "trust me"
 - CTA: "Read the full 45-source research report"
 
 **2. "Why Your $2,000 Course Has Less Research Than Our $5 Book"**
 - Compare word counts, sources, validation rates
 - Break down cost-per-researched-word
 - Guru course: $2,000 for 5,000 words = $0.40/word
-- Y-IT book: $5 for 12,500 words = $0.0004/word (1,000x better value)
+- Y-It book: $5 for 12,500 words = $0.0004/word (1,000x better value)
 
 **3. "We Researched 78 Affiliate Programs So You Know Our Incentives"**
 - Full transparency on monetization
@@ -170,7 +170,7 @@ Unlike gurus who sell dreams and cite themselves, Y-IT books are built on verifi
 - Compare to hidden guru affiliates
 - Build trust through radical transparency
 
-**4. "The Universal Research Engine: How Y-IT Validates Every Claim"**
+**4. "The Universal Research Engine: How Y-It Validates Every Claim"**
 - Behind-the-scenes on 7-phase research framework
 - Show the work (screenshots of source registry)
 - "This is why we can cite 45+ sources per topic"
@@ -186,7 +186,7 @@ Unlike gurus who sell dreams and cite themselves, Y-IT books are built on verifi
 
 They cite 3 sources. All themselves.
 
-Our $5 Y-IT book cites 45+ authoritative sources.
+Our $5 Y-It book cites 45+ authoritative sources.
 
 Here's why research quality matters: [thread]
 
@@ -206,7 +206,7 @@ Get the full 45-source research report: [link]
 ```
 
 **Instagram Carousel Ideas:**
-- Slide 1: "Guru vs Y-IT Research Quality"
+- Slide 1: "Guru vs Y-It Research Quality"
 - Slide 2-5: Side-by-side comparisons (sources, words, validation)
 - Slide 6: "Which would you trust?"
 - Slide 7: CTA
@@ -244,11 +244,11 @@ Get the full 45-source research report: [link]
 
 ### 2. Source Registry Preview
 **Visual:** Screenshot of 02_SOURCE_REGISTRY.md
-**Text:** "Every Y-IT book includes full source documentation"
+**Text:** "Every Y-It book includes full source documentation"
 **Usage:** Blog posts, trust-building content
 
 ### 3. Comparison Infographic
-**Visual:** Y-IT vs Guru side-by-side
+**Visual:** Y-It vs Guru side-by-side
 **Metrics:** Sources, words, validation rate, affiliate transparency
 **Usage:** Social media, landing pages
 
@@ -267,7 +267,7 @@ Get the full 45-source research report: [link]
 **Response:**
 "So do our 11 case studies. The difference? We anonymized real patterns from 1,000+ experiences (Reddit, forums, reviews) instead of cherry-picking one success story. Our research shows 90% fail. Gurus show you the 10% who didn't."
 
-### Objection: "Why should I trust Y-IT over a guru?"
+### Objection: "Why should I trust Y-It over a guru?"
 
 **Response:**
 "You shouldn't trust anyone. That's why we cite 45+ sources you can verify yourself. Check our claims against eMarketer, Statista, Shopify data. Then check the guru's sources. Oh wait, they don't have any."
@@ -333,7 +333,7 @@ Get the full 45-source research report: [link]
 **Hypothesis:** Higher research quality = higher trust = higher conversion rates
 
 **Metrics to Track:**
-- Conversion rate: Y-IT landing page vs typical book landing page
+- Conversion rate: Y-It landing page vs typical book landing page
 - Email open rates: Research-focused subject lines vs benefit-focused
 - Social engagement: Source-backed claims vs opinion-based claims
 - Refund rate: (Expect lower due to transparent expectations)
