@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "analysis_date": "2025-11-18",
+    "codebase": "Y-it-nano",
+    "from_naming": "Y-IT",
+    "to_naming": "Y-It",
+    "total_critical_issues": 8,
+    "total_warning_issues": 4,
+    "total_informational_issues": 5
+  },
+  "critical_issues": [
+    {
+      "id": "CRITICAL-001",
+      "title": "Database Name Hardcoded",
+      "severity": "CRITICAL",
+      "affected_files": [
+        ".env.example:8,13",
+        "infrastructure/google-drive-backup/.env.example:22",
+        "infrastructure/google-drive-backup/backup-to-gdrive.js:58",
+        "infrastructure/scripts/backup.sh:31"
+      ],
+      "current_value": "yit_database",
+      "impact": "Database connection will fail if name is changed",
+      "must_change": false,
+      "recommendation": "Do NOT change database name - it must remain as yit_database"
+    },
+    {
+      "id": "CRITICAL-002",
+      "title": "Absolute File Paths in Code",
+      "severity": "CRITICAL",
+      "affected_files": [
+        "cli/dashboard.js:17",
+        "scripts/pdf_generator.py:703",
+        "templates/*-example-config.json:8-10",
+        "infrastructure/google-drive-backup/backup-to-gdrive.js:84-86"
+      ],
+      "current_value": "/home/user/Y-it-nano/...",
+      "impact": "File operations will fail if repository is moved or renamed",
+      "must_change": true,
+      "recommendation": "Update all absolute paths if repository location changes. Consider using environment variables."
+    },
+    {
+      "id": "CRITICAL-003",
+      "title": "Google Drive Folder Name",
+      "severity": "CRITICAL",
+      "affected_files": [
+        "infrastructure/google-drive-backup/.env.example:16",
+        "infrastructure/google-drive-backup/backup-to-gdrive.js:50",
+        "infrastructure/topic-backup-system/config.json:3"
+      ],
+      "current_value": "Y-IT-Backups",
+      "impact": "Backup system will create wrong folder or fail if name doesn't match",
+      "must_change": false,
+      "recommendation": "Update folder name to Y-It-Backups for consistency or keep as-is if folder already exists"
+    },
+    {
+      "id": "CRITICAL-004",
+      "title": "Systemd Service Names",
+      "severity": "CRITICAL",
+      "affected_files": [
+        "infrastructure/google-drive-backup/setup-gdrive-backup.md:356,379",
+        "Cron schedules and documentation"
+      ],
+      "current_value": "yit-backup.service, yit-backup.timer",
+      "impact": "Backup scheduling will fail if service names don't match systemd configuration",
+      "must_change": false,
+      "recommendation": "Service names must match systemd unit files. Keep as-is or update both code and systemd configuration together."
+    },
+    {
+      "id": "CRITICAL-005",
+      "title": "Log File Paths",
+      "severity": "CRITICAL",
+      "affected_files": [
+        "infrastructure/scripts/backup.sh:35",
+        "infrastructure/google-drive-backup/check-backup-status.sh:21",
+        "Cron schedule documentation:multiple"
+      ],
+      "current_value": "/var/log/yit-backup.log, /var/log/yit-gdrive-backup.log, /var/log/yit-backup-monitor.log",
+      "impact": "Logs will be written to wrong location or fail silently",
+      "must_change": false,
+      "recommendation": "Log paths can be customized via environment variables. Ensure directories exist and permissions are correct."
+    },
+    {
+      "id": "CRITICAL-006",
+      "title": "Temporary Directory Paths",
+      "severity": "CRITICAL",
+      "affected_files": [
+        "infrastructure/scripts/backup.sh:24",
+        "infrastructure/google-drive-backup/.env.example:29",
+        "infrastructure/google-drive-backup/backup-to-gdrive.js:65",
+        "infrastructure/google-drive-backup/check-backup-status.sh:107"
+      ],
+      "current_value": "/tmp/yit-backups",
+      "impact": "Backup staging will fail or cleanup won't work properly",
+      "must_change": false,
+      "recommendation": "Keep /tmp/yit-backups as default or update all references together via BACKUP_TEMP_DIR environment variable."
+    },
+    {
+      "id": "CRITICAL-007",
+      "title": "Cron Job Path References",
+      "severity": "CRITICAL",
+      "affected_files": [
+        "infrastructure/google-drive-backup/cron-schedule.txt:multiple",
+        "Documentation files:multiple"
+      ],
+      "current_value": "cd /home/user/Y-it-nano/infrastructure/...",
+      "impact": "Scheduled backup jobs will not execute if paths are wrong",
+      "must_change": true,
+      "recommendation": "Update all cron job entries if repository is moved. Use absolute paths in cron jobs."
+    },
+    {
+      "id": "CRITICAL-008",
+      "title": "AWS Resource Identifiers",
+      "severity": "CRITICAL",
+      "affected_files": [
+        ".env.example:35,58",
+        "infrastructure/disaster_recovery.md:multiple",
+        "IMPLEMENTATION_GUIDE.md:multiple"
+      ],
+      "current_value": "yit-backups (S3), yit-rate-limiter (ElastiCache), yit-production (RDS)",
+      "impact": "Backup and rate-limiting will fail if AWS resources are renamed",
+      "must_change": false,
+      "recommendation": "AWS resource names are technical identifiers. Do NOT change unless resources are recreated. Document that these are not user-facing names."
+    }
+  ],
+  "warning_issues": [
+    {
+      "id": "WARNING-001",
+      "title": "Environment Variable Names",
+      "severity": "WARNING",
+      "affected_files": [".env.example"],
+      "recommendation": "Keep environment variable names as-is. These are internal identifiers. Update documentation/comments if needed."
+    },
+    {
+      "id": "WARNING-002",
+      "title": "Google Cloud Service Account Names",
+      "severity": "WARNING",
+      "affected_files": ["infrastructure/google-drive-backup/setup-gdrive-backup.md"],
+      "recommendation": "Service account name yit-backup-service is tied to GCP project. Do not change unless recreating service account."
+    },
+    {
+      "id": "WARNING-003",
+      "title": "Package Name Inconsistency",
+      "severity": "WARNING",
+      "affected_files": [
+        "infrastructure/testing/package.json:2",
+        "infrastructure/topic-backup-system/package.json:2"
+      ],
+      "current_value": "yit-image-generator, y-it-topic-backup-system",
+      "recommendation": "Standardize package naming - use either yit- or y-it- prefix consistently."
+    },
+    {
+      "id": "WARNING-004",
+      "title": "Relative Path Usage in Config",
+      "severity": "WARNING",
+      "affected_files": ["templates/amazon-fba-example-config.json"],
+      "recommendation": "Some configs use relative paths. Document base path assumptions clearly."
+    }
+  ],
+  "informational_issues": [
+    {
+      "id": "INFO-001",
+      "title": "Author Metadata in PDFs",
+      "severity": "INFORMATIONAL",
+      "affected_files": [
+        "scripts/pdf_generator.py:6,773-774",
+        "templates/*-example-config.json"
+      ],
+      "current_value": "Y-It Guides",
+      "impact": "PDF author metadata will show Y-It Guides",
+      "recommendation": "Update if branding changes. Will not cause failures."
+    },
+    {
+      "id": "INFO-002",
+      "title": "Documentation File Names",
+      "severity": "INFORMATIONAL",
+      "affected_files": ["16 markdown files with Y-It_ prefix"],
+      "recommendation": "Can be renamed safely as documentation only. Not referenced in code."
+    },
+    {
+      "id": "INFO-003",
+      "title": "Marketing URLs in Documentation",
+      "severity": "INFORMATIONAL",
+      "affected_files": ["20+ markdown files"],
+      "current_value": "y-it.com/topic, yit.app/path",
+      "recommendation": "Update if domain or URL structure changes. Documentation only."
+    },
+    {
+      "id": "INFO-004",
+      "title": "Email Addresses",
+      "severity": "INFORMATIONAL",
+      "affected_files": ["Multiple documentation files"],
+      "current_value": "devops@yit.app, contact@yit.app",
+      "recommendation": "Update if domain changes or support structure changes."
+    },
+    {
+      "id": "INFO-005",
+      "title": "Module Descriptions",
+      "severity": "INFORMATIONAL",
+      "affected_files": ["infrastructure/topic-backup-system/package.json:4,23"],
+      "recommendation": "Update if branding changes. Not critical for functionality."
+    }
+  ],
+  "action_summary": {
+    "immediate_actions": [
+      "Verify database is created as yit_database",
+      "Verify AWS S3 bucket yit-backups exists",
+      "Verify ElastiCache cluster yit-rate-limiter exists",
+      "Verify Google Drive service account yit-backup-service is configured",
+      "Test database connection with current .env variables",
+      "Test backup script execution"
+    ],
+    "if_moving_repository": [
+      "Update all absolute paths in code and configs",
+      "Update all cron job references to new path",
+      "Update systemd service WorkingDirectory and ExecStart paths",
+      "Update documentation with new paths"
+    ],
+    "if_changing_branding": [
+      "Update Google Drive folder name from Y-IT-Backups to Y-It-Backups",
+      "Update author metadata in PDF configs",
+      "Update marketing URLs if domain changes",
+      "Update email addresses if domain changes",
+      "Update package descriptions for consistency"
+    ],
+    "safe_to_change": [
+      "Documentation file names (Y-It_*.md files)",
+      "PDF author metadata",
+      "Package descriptions",
+      "Marketing content URLs",
+      "Email contact information"
+    ],
+    "must_not_change": [
+      "Database name (yit_database)",
+      "Systemd service names",
+      "AWS resource identifiers",
+      "Google Cloud service account names",
+      "S3 bucket names",
+      "Log file path defaults",
+      "Temp directory path defaults"
+    ]
+  },
+  "files_requiring_updates": {
+    "critical": [
+      "infrastructure/google-drive-backup/.env.example",
+      "infrastructure/google-drive-backup/backup-to-gdrive.js",
+      "infrastructure/google-drive-backup/setup-gdrive-backup.md",
+      "infrastructure/topic-backup-system/config.json",
+      "scripts/pdf_generator.py"
+    ],
+    "conditional": [
+      "cli/dashboard.js (if repo moves)",
+      "templates/*-example-config.json (if repo moves)",
+      "All cron schedule documentation (if repo moves)"
+    ],
+    "documentation_only": [
+      "All Y-It_*.md files",
+      "README files in infrastructure/",
+      "All marketing documentation"
+    ]
+  }
+}
