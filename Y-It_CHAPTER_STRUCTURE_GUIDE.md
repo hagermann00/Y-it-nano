@@ -13,125 +13,38 @@ This guide provides the **definitive chapter structure** for all Y-It nano-books
 
 ---
 
-## POSIBOT SIDEBAR SPECIFICATIONS
+## POSIBOT SIDEBAR IMAGES
 
 ### Overview
-PosiBot is an overly optimistic AI character that appears in sidebar images throughout the book, providing comically positive commentary that misses obvious problems. These sidebars serve as parody elements and comic relief.
+PosiBot is an overly optimistic AI robot character that appears in sidebar images throughout the book. Ultra-short quotes (10-20 words), overly positive tone, genuine toxic positivity. Comic relief and parody element.
 
-### Distribution Rules
+### Sidebar Placements
 
-**Chapter-by-Chapter Allocation:**
-- **Chapter 1 (The Lie):** 1-2 PosiBot sidebars
-- **Chapter 2 (The Roadmap):** 2-3 PosiBot sidebars ← MOST (lead magnet chapter)
-- **Chapter 3 (The Math):** 1-2 PosiBot sidebars
-- **Chapter 4 (Case Studies):** 0 PosiBot sidebars ← NONE (keep serious/empathetic)
-- **Chapter 5 (Hidden Killers):** 1-2 PosiBot sidebars
-- **Chapter 6 (Decision Framework):** 1 PosiBot sidebar
-- **Chapter 7 (Alternatives):** 1 PosiBot sidebar
-- **Chapter 8 (If You're Still Here):** 1-2 PosiBot sidebars
+| ID | Chapter | Position | Text |
+|----|---------|----------|------|
+| 1.1 | Ch 1: The Lie | RIGHT | "The market is growing 28% annually! Opportunity everywhere!" |
+| 1.2 | Ch 1: The Lie | LEFT | "Success stories prove it works! You could be next!" |
+| 2.1 | Ch 2: The Roadmap | RIGHT | "1 billion products = 1 billion chances to win!" |
+| 2.2 | Ch 2: The Roadmap | LEFT | "Facebook's AI is incredibly smart! Just trust it!" |
+| 2.3 | Ch 2: The Roadmap | RIGHT | "More budget = more profit! Math is beautiful!" |
+| 3.1 | Ch 3: The Math | LEFT | "That's just the learning curve! Investment pays off!" |
+| 3.2 | Ch 3: The Math | RIGHT | "Those costs are temporary! Revenue is forever!" |
+| 4.x | Ch 4: Case Studies | NONE | No PosiBot sidebars (keep serious/empathetic) |
+| 5.1 | Ch 5: Hidden Killers | LEFT | "Those are just challenges to overcome! Stay positive!" |
+| 5.2 | Ch 5: Hidden Killers | RIGHT | "Winners find solutions! Losers find excuses!" |
+| 6.1 | Ch 6: Decision Framework | RIGHT | "I believe in you! You've got this!" |
+| 7.1 | Ch 7: Alternatives | LEFT | "But... what about the DREAM? Don't give up!" |
+| 8.1 | Ch 8: If You're Still Here | RIGHT | "See? There IS hope! You CAN do this!" |
+| 8.2 | Ch 8: If You're Still Here | LEFT | "Just follow the guardrails! Success incoming!" |
 
-**Total:** 10-14 PosiBot sidebars per book
+**Total:** 13 PosiBot sidebar images per book
 
-### Content Rules
-
-**Text Requirements:**
-- Ultra-short: 1-2 sentences max (10-20 words total)
-- Overly optimistic tone
-- Includes emoji (✨🚀💰💪🧠📈🎯😊)
-- Misses obvious problems/flaws
-- No sarcasm - genuine toxic positivity
-
-**Example Quotes:**
-- "1 billion products = 1 billion chances to win! 🚀"
-- "Facebook's AI is incredibly smart! Just trust it! 🧠"
-- "More budget = more profit! Math is beautiful! 💰"
-- "I believe in you! You've got this! 💪😊"
-
-### Visual Design Specifications
-
-**Character Design:**
-- Retro robot character (consistent with reference images)
-- Tan/beige body (#D4B896)
-- Cyan glowing screen face (#00CED1)
-- Simple geometric shapes
-- Round antenna on top
-- Articulated arms and legs
-- Dark gray/black hands and feet
-- Always smiling/positive expression
-
-**Sign/Banner Design:**
-- Light tan/beige cardboard color (#D4B896)
-- Simple rectangle with slightly rounded corners
-- Text in black, bold, readable font (16-18pt)
-- Emojis embedded in text
-- Text must be readable at print size
-
-**Image Specifications:**
-- Dimensions: 300-400px width × 250-350px height
-- Resolution: 300 DPI (print quality)
-- Format: PNG with transparent background
-- File size: <2MB per image
-
-### Positioning Rules
-
-**Page Layout:**
-- Alternate LEFT and RIGHT positioning for visual variety
-- Float beside main text, not inline
-- 30-40% of page width
-- Positioned adjacent to relevant content
-
-**Alternating Pattern:**
-| Sidebar | Position | Chapter |
-|---------|----------|---------|
-| 1.1 | RIGHT | Chapter 1 |
-| 1.2 | LEFT | Chapter 1 |
-| 2.1 | RIGHT | Chapter 2 |
-| 2.2 | LEFT | Chapter 2 |
-| 2.3 | RIGHT | Chapter 2 |
-| 3.1 | LEFT | Chapter 3 |
-| 3.2 | RIGHT | Chapter 3 |
-| (etc) | Alternating | Remaining chapters |
-
-### Pose Variations
-
-**Different Poses for Variety:**
-1. **Sign overhead** - Holding sign above head with both hands, thumbs up
-2. **Leaning casual** - Leaning against sign, waving or thumbs up
-3. **High-five celebration** - Two robots high-fiving (for big moments)
-4. **Pointing/thinking** - One hand on head, other holding sign
-5. **Peeking from bottom** - Robot peeking up from bottom of page
-6. **Flexing strong** - Flexing muscles, holding sign
-7. **Protest sign** - Holding sign up like rally/protest
-8. **Superhero pose** - Hands on hips, sign beside
-9. **Encouraging reach** - Reaching out with caring gesture
-10. **Confused scratch** - Scratching head in confusion (Ch 7)
-11. **Jumping celebration** - Arms raised, very excited
-12. **Double thumbs up** - Maximum enthusiasm pose
-
-### Emotional Progression
-
-**PosiBot's Arc Across Book:**
-- **Ch 1-2:** Relentlessly positive, believes everything
-- **Ch 3:** Still positive but numbers are concerning
-- **Ch 5:** Doubling down on positivity despite evidence
-- **Ch 6:** "I believe in you!" (supportive denial)
-- **Ch 7:** Slightly confused about alternatives
-- **Ch 8:** "See, there IS hope!" (vindicated optimism)
-
-### Production Notes
-
-**When to Create:**
-- Generate all PosiBot images after final text is written
-- Ensure quotes match final chapter content
-- Create all images in batch for consistency
-- Test readability at print size before finalizing
-
-**Image Generation Prompts:**
-- Use consistent character design across all images
-- Specify pose, position (left/right), and exact text
-- Include emoji in text overlay
-- Request transparent background
-- Specify print-ready resolution (300 DPI)
+### Image Treatment
+- Treat as placed images (not generated text)
+- Use provided robot character design
+- Position: Float left or right as specified
+- Size: ~30-40% of page width
+- Images will be created separately with text embedded
 
 ---
 
